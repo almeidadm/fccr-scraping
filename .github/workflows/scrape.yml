@@ -1,0 +1,64 @@
+name: scrape
+
+# Cron do GitHub Actions usa UTC. São José dos Campos é UTC-3 (sem horário de verão).
+# - Horário comercial (seg-sex, 8h–18h BRT = 11h–21h UTC): a cada 30 min.
+# - Fora disso (noites, fins de semana): a cada 6 horas.
+# Execuções sobrepostas são inofensivas — o modo incremental deduplica pelo índice.
+on:
+  schedule:
+    - cron: "*/30 11-20 * * 1-5"   # comercial: 8:00–17:30 BRT, seg a sex
+    - cron: "0 */6 * * *"          # baseline a cada 6h (cobre noites e fins de semana)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Modo de execução"
+        type: choice
+        default: incremental
+        options:
+          - incremental
+          - backfill
+
+# Garante uma execução por vez: evita commits concorrentes no índice.
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Instala dependências
+        run: pip install -r requirements.txt
+
+      - name: Roda o scraper
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          if [ "${{ inputs.mode }}" = "backfill" ]; then
+            python -m src.main --backfill
+          else
+            python -m src.main
+          fi
+
+      - name: Commita índice e feed se houver mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/index.json public/feed.xml
+          if git diff --cached --quiet; then
+            echo "Nenhuma novidade — nada a commitar."
+          else
+            git commit -m "chore: atualiza índice e feed ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi

@@ -1,0 +1,2343 @@
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+
+
+<head>
+
+    <script>
+
+if (location.protocol !== 'https:') {
+    location.replace(`https:${location.href.substring(location.protocol.length)}`);
+}
+
+</script>
+
+<!-- -->
+
+
+        <title>FCCR - Funda&ccedil;&atilde;o Cultural Cassiano Ricardo</title>
+
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <meta name="keywords" content="cms, contente, conteúdo, gerenciador, fccr, portal, web" />
+
+        <meta name="description" content="fccr - Fundação Cultural Cassiano Ricardo" />
+
+        <meta name="copyright" content="DNA TECNOLOGIA LTDA" />
+
+
+
+		<!-- mobile settings -->
+
+		<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0" />
+
+
+
+		<!-- Favicon -->
+
+        <link rel="shortcut icon" href="/fccr/assets/images/favicon.ico" type="image/x-icon" />
+
+
+
+		<!-- WEB FONTS -->
+
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&amp;subset=latin,latin-ext,cyrillic,cyrillic-ext" rel="stylesheet" type="text/css" />
+
+		<link href="https://cdn.rawgit.com/mfd/f3d96ec7f0e8f034cc22ea73b3797b59/raw/856f1dbb8d807aabceb80b6d4f94b464df461b3e/gotham.css" rel="stylesheet" type="text/css">
+
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+
+		<link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+
+		<link rel="stylesheet" href="/fccr/assets/css/fonts.css">
+
+
+
+		<!-- CORE CSS -->
+		
+		<link href="/fccr/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+		
+		<link href="/fccr/assets/css/font-awesome.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/css/sky-forms.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/css/weather-icons.min.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/css/line-icons.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/plugins/owl-carousel/owl.pack.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/plugins/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/css/animate.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/css/flexslider.css" rel="stylesheet" type="text/css" />
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+		
+		<link href="/fccr/assets/css/all.css" rel="stylesheet" type="text/css" />
+
+
+
+		<!-- REVOLUTION SLIDER -->
+
+		<link href="/fccr/assets/css/revolution-slider.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/css/layerslider.css" rel="stylesheet" type="text/css" />
+
+		<link rel='stylesheet' id='flexslider-css'  href='/fccr/assets/sliders/flexslider.css?ver=2.2.0' type='text/css' media='all' />
+
+		<link rel='stylesheet' id='metaslider-flex-slider-css'  href='/fccr/assets/sliders/flexslider/flexslider.css?ver=3.20.3' type='text/css' media='all' property='stylesheet' />
+
+
+
+		<!-- THEME CSS -->
+
+		<link href="/fccr/assets/css/essentials.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/css/layout.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/css/header-default.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/css/footer-default.css" rel="stylesheet" type="text/css" />
+
+		<link href="/fccr/assets/css/color_scheme/darkgreen.css" rel="stylesheet" type="text/css" id="color_scheme" />
+
+		<link href="/fccr/assets/css/fccr.css?v=20260223" rel="stylesheet" type="text/css" />
+
+
+
+		<!-- BLOG -->
+
+		<link href="/fccr/assets/css/layout-blog.css" rel="stylesheet" type="text/css" />
+
+
+
+		<!-- Morenizr -->
+
+		<script type="text/javascript" src="/fccr/assets/plugins/modernizr.min.js"></script>
+
+		<script type="text/javascript" src="/fccr/assets/plugins/jquery-2.2.3.min.js"></script>
+
+		<script type="text/javascript" src="/fccr/assets/plugins/jquery.isotope.js"></script>
+
+		<script type="text/javascript" src="/fccr/JavaScript/jquery.mask.js"></script>
+
+
+
+		<!-- Add fancyBox main JS and CSS files -->
+
+<!-- 
+
+		<script type="text/javascript" src="/fccr/assets/plugins/FancyBox/jquery.fancybox.js?v=2.1.7"></script>
+
+		<link rel="stylesheet" type="text/css" href="/fccr/assets/plugins/FancyBox/jquery.fancybox.css?v=2.1.7" media="screen" />
+
+ -->
+
+
+
+        <script>
+
+            function abre_chat() {
+
+	            window.open('chat/login.asp', 'Chat6Window', 'width=530,height=450');
+
+            };
+
+
+
+            function SendForm() {
+
+                try
+
+                {
+
+                    var _user = document.FormLogin.usercpf.value;
+
+                    var _pwd = document.FormLogin.pwd.value;    
+
+                    window.location.href = '/fccr/usuario/Login.php?usercpf=' + _user + '&pwd=' + _pwd ;
+
+                }
+
+                catch(e) { }
+
+            };
+
+
+
+            function LogOut() {
+
+                try {
+
+                    window.location.href = '/fccr/usuario/Login.php?logout=s';
+
+                }
+
+                catch(e) { }
+
+            }
+
+
+
+			function Mostra_modal(mensagem) {
+
+		
+
+				$(document).ready(function() {
+
+					document.getElementById('modal-body').innerHTML = mensagem;
+
+					document.getElementById('modal_rodape').click();
+
+				});
+
+			}
+
+
+
+			function trunca_texto(div_texto, length) {
+
+				var texto = document.getElementById(div_texto).innerHTML;
+
+				var texto_final = texto.substring(0, Math.min(length,texto.length));
+
+				document.getElementById(div_texto).innerHTML = texto_final;
+
+				if(texto.length > length) document.getElementById(div_texto).innerHTML += " ...";
+
+			}
+
+        </script>
+
+
+</head>
+
+
+
+<body class="smoothscroll">
+
+    <div id="wrapper">
+
+        <div vw class="enabled hidden-xs hidden-sm">
+
+    <div vw-access-button class="active"></div>
+
+    <div vw-plugin-wrapper>
+
+      <div class="vw-plugin-top-wrapper"></div>
+
+    </div>
+
+</div>
+
+<!-- <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+
+<script>
+
+    new window.VLibras.Widget('https://vlibras.gov.br/app');
+
+</script> -->
+
+
+
+<style type="text/css">
+
+	#header form {
+
+		margin:0; 
+
+		padding:0;
+
+	}	
+
+
+
+	.selecao_top {
+
+		border:0; 
+
+		border-radius:0; 
+
+		padding:5px;
+
+		height: 32px;
+
+		background-color: #f8f8f8;
+
+	}
+
+	#header h2 {
+
+		margin-top: 0px;
+
+	}
+
+
+
+	.so-mobile { 
+
+		display:none; 
+
+		width: 30px;
+
+	}
+
+
+
+	.logo-site {
+
+		min-height: 90px;
+
+	}
+
+
+
+	@media only screen and (max-width: 568px) {
+
+
+
+		.logo-site {
+
+			min-height: 70px;
+
+		}
+
+
+
+		.so-mobile { 
+
+			display:block; 
+
+			margin-left:20px; 
+
+			margin-top:10px; 
+
+			float:left;
+
+			font-size: 25px;
+
+		}
+
+
+
+		.hide_mobile {
+
+			display:none !important;
+
+		}
+
+
+
+	}
+
+
+
+	
+
+	@media only screen and (max-width: 900px) {
+
+
+
+		.hide_img {
+
+			display:none; 
+
+		}
+
+
+
+	}
+
+
+
+
+
+
+
+	#topNav ul.nav>li a {
+
+		padding: 2px 1px !important; /*8px*/
+
+		line-height:unset;
+
+	}
+
+	.menu_principal {
+
+		font-size: 14px !important;	
+
+		color: #000 !important;	
+
+	}
+
+	.social {
+
+		border-radius: 5px;
+
+		width: 20px !important;
+
+		height: 20px !important;
+
+		margin: 0px 2px !important;
+
+		font-size: 16px !important;	}
+
+
+
+	a.social {
+
+		line-height: 20px !important;
+
+	}
+
+
+
+	.link_barra {
+
+		color: #f5f5f5 !important;
+
+	}
+
+
+
+	.alto_cont {
+
+		color: #FFF !important;
+
+		background: #000 !important;
+
+	}
+
+
+
+	#barMain form.search button {
+
+		position: absolute;
+
+		top: 65px;
+
+		right: 80px;
+
+		color: #ccc;
+
+		z-index: 1;
+
+	}
+
+	.dropdown-menu>li>a {
+
+		padding: 5px 20px !important;
+
+	}
+
+
+
+	.sublinks>a {
+
+		padding: 7px 12px;
+
+	}
+
+
+
+	.f-nav{ z-index: 99999; position: fixed; left: 0; top: 0; width: 100%; background: #eee;}
+
+
+
+</style>
+
+
+
+<script type="text/javascript">
+
+	
+
+	function mensagem_modal(mensagem) {
+
+
+
+		$(document).ready(function() {
+
+			document.getElementById('modal-body').innerHTML = mensagem;
+
+			document.getElementById('modal_rodape').click();
+
+		});
+
+	}
+
+
+
+</script>
+
+
+
+<div class="menu_fixo">
+
+
+
+<div id="header" >
+
+<div class="callout dark" style="padding: 0; background-color: #555;"><!-- add "styleBackgroundColor" class for colored background and white text OR "dark" for a dark callout -->
+
+	<div class="container"><!-- add here .container if needed -->
+
+
+
+		<div class="row">
+
+
+
+			<div class="col-md-7 hide-mobile"><!-- title + shortdesc -->
+
+				<div style="font-size: 12px; padding: 5px;">PREFEITURA DE SÃO JOSÉ DOS CAMPOS</div>
+
+			</div>
+
+
+
+			<div class="col-md-5" style="font-size: 12px; padding: 5px;"><!-- button -->
+
+				<span class="block text-right"><!-- social -->
+
+<!-- 
+
+					<a href="#" class="social font-ajust increase" style="margin: 0; padding: 0; display: inline-block; font-size: 10px !important;"> A+</a>
+
+					<a href="#" class="social font-ajust resetMe" style="margin: 0; padding: 0; display: inline-block; font-size: 10px !important;"> A</a>
+
+					<a href="#" class="social font-ajust decrease" style="margin: 0; padding: 0; display: inline-block; font-size: 10px !important;"> A-</a>
+
+					<a href="#" class="social font-ajust alto-contraste" style="margin: 0; padding: 0; display: inline-block; font-size: 10px !important;"><i class="fa fa-sun-o"></i></a>
+
+					<a href="/fccr/destaques/acessibilidade" class="social font-ajust" style="margin: 0; padding: 0; display: inline-block; font-size: 10px !important; margin-right: 25px;"><i class="fa fa-wheelchair"></i></a>
+
+ -->
+
+					<a href="https://www.facebook.com/fccrsjc" target="_blank" title="Facebook" class="social fa fa-facebook" style="margin-left: 20px !important;"></a>
+
+					<a href="https://www.instagram.com/fccrsjc" target="_blank" title="Instagram" class="social fa fa-instagram"></a>
+
+					<a href="https://twitter.com/fccrsjc" target="_blank" title="X" class="social fa fa-twitter"></a>
+
+					<a href="https://www.youtube.com/fccrsjc" target="_blank" title="TV fccr" class="social fa fa-youtube"></a>
+
+					<a href="https://flickr.com/fccrsjc" target="_blank" title="flickr" class="social fa fa-flickr"></a>
+
+					
+
+				</span><!-- /social -->
+
+			</div>
+
+
+
+		</div>
+
+
+
+	</div>
+
+</div>
+
+
+
+
+
+
+
+   
+
+
+   <header id="topNav" style="background: #eee;">
+
+        <div class="container">
+
+            <div class="row">
+
+
+
+                <!-- Mobile Menu Button -->
+
+                <button class="btn btn-mobile" data-toggle="collapse" data-target=".nav-main-collapse">
+
+                    <i class="fa fa-bars"></i>
+
+                </button>
+
+
+
+                <!-- Mobile Logo -->
+
+
+
+				<div style="float: left; margin-top: 5px; padding-left: 10px;">
+
+					<a class="logo" href="/fccr/portal/index.php"><img alt="fccr" class="imagem-logo img-responsive logo-site" src="/fccr/assets/images/logofccr.gif" border="0" style="margin-top: 0px !important;"></a>
+
+				</div>
+
+
+
+                <!-- Top Nav -->
+
+
+
+
+
+                <div class="navbar-collapse nav-main-collapse collapse" style="float: right; margin-top: 50px !important;">
+
+                    <nav class="nav-main">
+
+                        <ul id="topMain" class="nav nav-pills nav-main  nav-principal" style="margin-top: 0px !important;">
+
+                            
+							<li id="subMenuEmasa" class="mega-menu dropdown" style="border: 0px;"><!--  display:none;" -->
+                                <div class="menu-principal">
+
+                                    <a id="menuLicitacoes" class="dropdown-toggle" href="#" style="height: 45px;">Projetos</a>
+
+                                </div>
+
+								<ul class="dropdown-menu">
+
+									<li>
+
+										<div class="row">
+
+											<div class="col-md-3">
+
+												<h3><strong>/// PROGRAMA</strong></h3>
+
+												<ul>
+
+													<li><a href="/fccr/programa/arte-nos-bairros"><i class="fa fa-angle-right"></i> Arte nos Bairros</a></li>
+												</ul>
+
+
+
+												<h3 style="margin-top:30px;"><strong>/// FESTIVAIS</strong></h3>
+
+												<ul>
+
+													<li><a href="/fccr/festivais/festidanca"><i class="fa fa-angle-right"></i> Festidança</a></li><li><a href="/fccr/festivais/festival-de-musica"><i class="fa fa-angle-right"></i> Festival de Música</a></li><li><a href="/fccr/festivais/festivale"><i class="fa fa-angle-right"></i> Festivale</a></li><li><a href="/fccr/festivais/mes-da-musica"><i class="fa fa-angle-right"></i> Mês da Música</a></li><li><a href="/fccr/festivais/muriqui-em-festa"><i class="fa fa-angle-right"></i> Muriqui em Festa</a></li>
+												</ul>
+
+
+
+												<h3 style="margin-top:30px;"><strong>/// PARCERIAS</strong></h3>
+
+												<ul>
+
+													<li><a href="/fccr/parcerias/projeto-guri"><i class="fa fa-angle-right"></i> Projeto Guri</a></li><li><a href="/fccr/parcerias/revelando-sp"><i class="fa fa-angle-right"></i> Revelando SP</a></li><li><a href="/fccr/parcerias/virada-sp"><i class="fa fa-angle-right"></i> Virada SP</a></li>
+												</ul>
+
+											</div>
+
+											<div class="col-md-3">
+
+												<h3><strong>/// PROJETOS</strong></h3>
+
+												<ul>
+
+													<li><a href="/fccr/projetos/algodao-doce"><i class="fa fa-angle-right"></i> Algodão-doce</a></li><li><a href="/fccr/projetos/aqui-tem-circo"><i class="fa fa-angle-right"></i> Aqui Tem Circo</a></li><li><a href="/fccr/projetos/arte-na-praca"><i class="fa fa-angle-right"></i> Arte na Praça</a></li><li><a href="/fccr/projetos/arte-nas-ruas"><i class="fa fa-angle-right"></i> Arte nas Ruas</a></li><li><a href="/fccr/projetos/bar-de-quinta"><i class="fa fa-angle-right"></i> Bar de Quinta</a></li><li><a href="/fccr/projetos/barganha-literaria"><i class="fa fa-angle-right"></i> Barganha Literária</a></li><li><a href="/fccr/projetos/banda-de-santana"><i class="fa fa-angle-right"></i> Banda de Santana</a></li><li><a href="/fccr/projetos/blues-no-municipal"><i class="fa fa-angle-right"></i> Blues no Municipal</a></li><li><a href="/fccr/projetos/cena-de-mulher"><i class="fa fa-angle-right"></i> Cena de Mulher</a></li><li><a href="/fccr/projetos/circuito-cultural-central"><i class="fa fa-angle-right"></i> Circuito Cultural Central</a></li><li><a href="/fccr/projetos/cine-rock"><i class="fa fa-angle-right"></i> Cine Rock</a></li><li><a href="/fccr/projetos/circulacao"><i class="fa fa-angle-right"></i> Circulação</a></li><li><a href="/fccr/projetos/cine-do-centro"><i class="fa fa-angle-right"></i> Cine do Centro</a></li><li><a href="/fccr/projetos/domingo-no-parque"><i class="fa fa-angle-right"></i> Domingo no Parque</a></li><li><a href="/fccr/projetos/espacopoema"><i class="fa fa-angle-right"></i> Espaçopoema</a></li><li><a href="/fccr/projetos/festa-do-mineiro"><i class="fa fa-angle-right"></i> Festa do Mineiro</a></li><li><a href="/fccr/projetos/festa-do-tropeiro-"><i class="fa fa-angle-right"></i> Festa do Tropeiro </a></li><li><a href="/fccr/projetos/festival-do-choro"><i class="fa fa-angle-right"></i> Festival do Choro</a></li>
+												</ul>
+
+											</div>
+
+											<div class="col-md-3">
+
+												<ul>
+
+													<li><a href="/fccr/projetos/jazz-no-galpao"><i class="fa fa-angle-right"></i> Jazz no Galpão</a></li><li><a href="/fccr/projetos/juntos"><i class="fa fa-angle-right"></i> Juntos<div style="display:none"><a href="https://www.izmirtravesti.cc" title="travesti izmir">travesti izmir</a></div></a></li><li><a href="/fccr/projetos/juntosdiv-style="displaynone"a-href="https-wwwkizilaydershanelercom"-title="kızılay-dershane"kızılay-dershaneadiv"><i class="fa fa-angle-right"></i> Juntos</a></li><li><a href="/fccr/projetos/-mostra-de-arte-circense"><i class="fa fa-angle-right"></i>  Mostra de Arte Circense</a></li><li><a href="/fccr/projetos/mercadao-vivo"><i class="fa fa-angle-right"></i> Mercadão Vivo</a></li><li><a href="/fccr/projetos/noites-em-processo"><i class="fa fa-angle-right"></i> Noites em Processo</a></li><li><a href="/fccr/projetos/mes-da-danca"><i class="fa fa-angle-right"></i> Mês da Dança</a></li><li><a href="/fccr/projetos/musica-ao-por-do-sol"><i class="fa fa-angle-right"></i> Música ao Pôr do Sol</a></li><li><a href="/fccr/projetos/pedepoesia"><i class="fa fa-angle-right"></i> Pedepoesia</a></li><li><a href="/fccr/projetos/pedepoesiadiv-style="displaynone"a-href="https-wwwaykuthocamatematikcom"-title="matematik-ozel-ders"matematik-ozel-dersadiv"><i class="fa fa-angle-right"></i> Pedepoesia</a></li><li><a href="/fccr/projetos/palco-das-artes"><i class="fa fa-angle-right"></i> Palco das Artes</a></li><li><a href="/fccr/projetos/patuscada"><i class="fa fa-angle-right"></i> Patuscada</a></li><li><a href="/fccr/projetos/piro-piraquara"><i class="fa fa-angle-right"></i> Pirô Piraquara</a></li><li><a href="/fccr/projetos/pontos-de-vista"><i class="fa fa-angle-right"></i> Pontos de Vista</a></li><li><a href="/fccr/projetos/natal-iluminado"><i class="fa fa-angle-right"></i> Natal Iluminado</a></li><li><a href="/fccr/projetos/programacao-especial"><i class="fa fa-angle-right"></i> Programação Especial</a></li><li><a href="/fccr/projetos/retro-dancing"><i class="fa fa-angle-right"></i> Retrô Dancing</a></li><li><a href="/fccr/projetos/sabados-musicais"><i class="fa fa-angle-right"></i> Sábados Musicais</a></li><li><a href="/fccr/projetos/semana-cassiano-ricardo"><i class="fa fa-angle-right"></i> Semana Cassiano Ricardo</a></li><li><a href="/fccr/projetos/semana-chico-triste"><i class="fa fa-angle-right"></i> Semana Chico Triste</a></li><li><a href="/fccr/projetos/semana-do-teatro"><i class="fa fa-angle-right"></i> Semana do Teatro</a></li><li><a href="/fccr/projetos/sexta-encena"><i class="fa fa-angle-right"></i> Sexta Encena</a></li><li><a href="/fccr/projetos/tama"><i class="fa fa-angle-right"></i> TAMA<div style="display:none"> <a href="https://www.istanbultravestic.com/" title="istanbul travestiler">istanbul travesti</a></div></a></li><li><a href="/fccr/projetos/tap-da-longevidade"><i class="fa fa-angle-right"></i> Tap da Longevidade</a></li><li><a href="/fccr/projetos/temporada-de-teatro"><i class="fa fa-angle-right"></i> Temporada de Teatro</a></li><li><a href="/fccr/projetos/territorio-de-brincar"><i class="fa fa-angle-right"></i> Território de Brincar</a></li><li><a href="/fccr/projetos/varanda-musical"><i class="fa fa-angle-right"></i> Varanda Musical</a></li><li><a href="/fccr/projetos/voucher-musica"><i class="fa fa-angle-right"></i> Voucher Música</a></li>
+												</ul>
+
+											</div>
+
+											<div class="col-md-3">
+
+												<h3><strong>/// FORMAÇÃO</strong></h3>
+
+												<ul>
+
+													<li><a href="/fccr/formacao/centro-de-artes-circenses"><i class="fa fa-angle-right"></i> Centro de Artes Circenses</a></li><li><a href="/fccr/formacao/companhia-de-danca-de-sao-jose-dos-campos"><i class="fa fa-angle-right"></i> Companhia de Dança de São José dos Campos</a></li><li><a href="/fccr/formacao/coro-sinfonico-de-sao-jose-dos-campos"><i class="fa fa-angle-right"></i> Coro Sinfônico de São José dos Campos</a></li><li><a href="/fccr/formacao/orquestra-joseense-"><i class="fa fa-angle-right"></i> Orquestra Joseense </a></li>
+												</ul>
+
+											</div>
+
+										</div>
+
+									</li>
+
+								</ul>
+
+	
+
+
+
+                            </li>
+
+                            <li id="subMenuEmasa" class="mega-menu dropdown">
+
+                                <div class="menu-principal">
+
+                                    <a id="menuLicitacoes" class="dropdown-toggle" href="#" style="height: 45px;">Espaços</a>
+
+                                </div>
+
+								<ul class="dropdown-menu">
+
+									<li>
+
+										<div class="row">
+
+											<div class="col-md-4">
+
+												<h3><strong>/// CASAS DE CULTURA</strong></h3>
+
+												<ul>
+
+													<li><a href="/fccr/casas-de-cultura/casa-de-cultura-chico-triste"><i class="fa fa-angle-right"></i> Casa de Cultura Chico Triste</a></li><li><a href="/fccr/casas-de-cultura/casa-de-cultura-cine-santana"><i class="fa fa-angle-right"></i> Casa de Cultura Cine Santana</a></li><li><a href="/fccr/casas-de-cultura/casa-de-cultura-eugenia-da-silva"><i class="fa fa-angle-right"></i> Casa de Cultura Eugênia Da Silva</a></li><li><a href="/fccr/casas-de-cultura/casa-de-cultura-flavio-craveiro"><i class="fa fa-angle-right"></i> Casa de Cultura Flávio Craveiro</a></li><li><a href="/fccr/casas-de-cultura/casa-de-cultura-julio-neme"><i class="fa fa-angle-right"></i> Casa de Cultura Júlio Neme</a></li><li><a href="/fccr/casas-de-cultura/casa-de-cultura-lili-figureira"><i class="fa fa-angle-right"></i> Casa de Cultura Lili Figureira</a></li><li><a href="/fccr/casas-de-cultura/casa-de-cultura-rancho-do-tropeiro-ernesto-villela"><i class="fa fa-angle-right"></i> Casa de Cultura Rancho do Tropeiro Ernesto Villela</a></li><li><a href="/fccr/casas-de-cultura/casa-de-cultura-tim-lopes"><i class="fa fa-angle-right"></i> Casa de Cultura Tim Lopes</a></li><li><a href="/fccr/casas-de-cultura/centro-cultural-clemente-gomes"><i class="fa fa-angle-right"></i> Centro Cultural Clemente Gomes</a></li><li><a href="/fccr/casas-de-cultura/casa-de-cultura-cine-teatro-benedito-alves"><i class="fa fa-angle-right"></i> Casa de Cultura Cine Teatro Benedito Alves</a></li>
+												</ul>
+
+											</div>
+
+											<div class="col-md-4">
+
+												<h3><strong>/// MUSEUS</strong></h3>
+
+												<ul>
+
+													<li><a href="/fccr/museus/museu-de-arte-sacra-de-sao-jose-dos-campos"><i class="fa fa-angle-right"></i> Museu de Arte Sacra de São José dos Campos</a></li><li><a href="/fccr/museus/museu-do-folclore-de-sao-jose-dos-campos"><i class="fa fa-angle-right"></i> Museu do Folclore de São José dos Campos</a></li><li><a href="/fccr/museus/museu-municipal-de-sao-jose-dos-campos"><i class="fa fa-angle-right"></i> Museu Municipal de São José dos Campos</a></li>
+												</ul>
+
+												<h3 style="margin-top:40px;"><strong>/// TEATROS</strong></h3>
+
+												<ul>
+
+													<li><a href="/fccr/teatros/teatro-municipal"><i class="fa fa-angle-right"></i> Teatro Municipal</a></li><li><a href="/fccr/teatros/cine-teatro-benedito-alves-da-silva"><i class="fa fa-angle-right"></i> Cine Teatro Benedito Alves da Silva</a></li><li><a href="/fccr/teatros/cine-santana"><i class="fa fa-angle-right"></i> Cine Santana</a></li><li><a href="/fccr/teatros/teatro-dailor-varela"><i class="fa fa-angle-right"></i> Teatro Dailor Varela</a></li>
+												</ul>
+
+											</div>
+
+											<div class="col-md-4">
+
+												<h3><strong>/// OUTROS ESPAÇOS</strong></h3>
+
+												<ul>
+
+													<li><a href="/fccr/outros-espacos/arquivo-publico-do-municipio"><i class="fa fa-angle-right"></i> Arquivo Público do Município</a></li><li><a href="/fccr/outros-espacos/atelie-de-artes-visuais-johann-gutlich"><i class="fa fa-angle-right"></i> Ateliê de Artes Visuais Johann Gütlich</a></li><li><a href="/fccr/outros-espacos/centro-de-estudos-teatrais-cet"><i class="fa fa-angle-right"></i> Centro de Estudos Teatrais (CET)</a></li><li><a href="/fccr/outros-espacos/galpao-altino"><i class="fa fa-angle-right"></i> Galpão Altino</a></li><li><a href="/fccr/outros-espacos/igreja-de-sao-benedito"><i class="fa fa-angle-right"></i> Igreja de São Benedito</a></li>
+												</ul>
+
+											</div>
+
+									</li>
+
+								</ul>
+
+	
+
+                            </li>
+
+                            <li id="subMenuProgramas" class="dropdown">
+
+                                <div class="menu-principal">
+
+                                    <a id="menuLicitacoes" class="dropdown-toggle" href="#" style="height: 45px;">Editais</a>
+
+                                </div>
+
+                                <ul class="dropdown-menu sub_menu_posicao">
+
+									<li><a href="/fccr/editais/fundo-municipal-de-cultura-fmc"><i class="fa fa-angle-right"></i> Fundo Municipal de Cultura - FMC</a></li><li><a href="/fccr/editais/projetos-culturais-editais"><i class="fa fa-angle-right"></i> Projetos Culturais - Editais</a></li><li><a href="/fccr/editais/lei-de-incentivo-fiscal-lif"><i class="fa fa-angle-right"></i> Lei de Incentivo Fiscal - LIF</a></li><li><a href="/fccr/editais/pnab---lei-14399-2022-fomento-a-cultura"><i class="fa fa-angle-right"></i> PNAB - Lei 14399-2022 Fomento à Cultura</a></li><li><a href="/fccr/editais/lei-paulo-gustavo-lei-complementar-195-2022"><i class="fa fa-angle-right"></i> Lei Paulo Gustavo - Lei Complementar nº195-2022</a></li><li><a target="_blank" href="https://fundacao.obaratec.com.br/apex/fundacao/f?p=839:23:11954231513974"><i class="fa fa-angle-right"></i> Licitação Pública</a></li><li><a href="/fccr/editais/marco-regulatorio-das-organizacoes-da-sociedade-civil-mrosc"><i class="fa fa-angle-right"></i> Marco Regulatório das Organizações da Sociedade Civil - MROSC</a></li><li><a target="_blank" href="https://prosas.com.br/patrocinadores/506-fundacao-cultural-cassiano-ricardo"><i class="fa fa-angle-right"></i> Projetos Culturais - Prosas</a></li>
+                                </ul>
+
+                            </li>
+
+							<li id="subMenuMidia" class="dropdown">
+
+                                <div class="menu-principal">
+
+                                    <a id="menuMidia" class="dropdown-toggle" href="#" style="height: 45px;">Mídia</a>
+
+                                </div>
+
+                                <ul class="dropdown-menu sub_menu_posicao">
+
+									<li><a href="/fccr/midia/videos"><i class="fa fa-angle-right"></i> Vídeos</a></li><li><a href="/fccr/midia/agenda-cultural"><i class="fa fa-angle-right"></i> Agenda Cultural</a></li>
+                                </ul>
+
+                            </li>
+
+                            <li id="subMenuServicos" class="dropdown ">
+
+                                <div class="menu-principal">
+
+                                    <a id="menuServicos" class="dropdown-toggle" href="#" style="height: 45px;">Institucional</a>
+
+                                </div>
+
+                                <ul class="dropdown-menu sub_menu_posicao">
+
+									<li><a href="/fccr/institucional/historico"><i class="fa fa-angle-right"></i> Histórico</a></li><li><a href="/fccr/institucional/conselho-deliberativo"><i class="fa fa-angle-right"></i> Conselho Deliberativo</a></li><li><a href="/fccr/institucional/diretoria-executiva"><i class="fa fa-angle-right"></i> Diretoria Executiva</a></li><li><a href="/fccr/institucional/conselho-fiscal"><i class="fa fa-angle-right"></i> Conselho Fiscal</a></li><li><a href="/fccr/institucional/atos-legais-de-regencia"><i class="fa fa-angle-right"></i> Atos Legais de Regência</a></li>
+                                </ul>
+
+                            </li>
+
+                            <li id="subMenuLabAnalise" class="dropdown">
+
+                                <div class="menu-principal">
+
+                                    <a id="menuLabAnalise" class="dropdown-toggle" href="/fccr/e-sic/" style="height: 45px;">E-SIC</a>
+
+                                </div>
+
+                            </li>
+
+                            <li id="subMenuLabAnalise" class="dropdown">
+
+                                <div class="menu-principal">
+
+                                    <a id="menuLabAnalise" class="dropdown-toggle" href="/fccr/ouvidoria/" style="height: 45px;">OUVIDORIA</a>
+
+                                </div>
+
+                            </li>
+
+							<li id="subMenuLabAnalise" class="dropdown">
+
+                                <div class="menu-principal">
+
+                                    <a id="menuLabAnalise" class="dropdown-toggle" href="https://fundacao.obaratec.com.br/ords/fundacao/f?p=839:1:0::NO:1:P1_MODAL:5" style="height: 45px;">FAQ</a>
+
+                                </div>
+
+                            </li>
+
+							<li id="subMenuLabAnalise" class="dropdown">
+
+                                <div class="menu-principal">
+
+                                    <a id="menuLabAnalise" class="dropdown-toggle" href="https://fundacao.obaratec.com.br/ords/fundacao/f?p=839:1:0::NO:1:P1_MODAL:6" style="height: 45px;">CARTA DE SERVIÇOS</a>
+
+                                </div>
+
+                            </li>
+
+							<li class="dropdown hidden-xs hidden-sm" style="height: 45px;">
+
+								<div class="menu-principal hide_mobile">
+
+
+
+									<form id="busca_form3" name="busca_form3" action="/fccr/busca/" method="post">
+
+										<div class="search-box">
+
+											<input type="text" class="search-txt" name="palavra" value="" placeholder="O que você deseja buscar?">
+
+											<a href="javascript:;" class="search-btn" onclick="javascript:if (document.busca_form3.palavra.value =='') { mensagem_modal('<b>ATENÇÃO:</b><Br>Entre com a palavra para a busca.');document.busca_form3.palavra.focus();return false;} document.busca_form3.submit();">
+
+													<i class="fa fa-search" style="font-size: 24px;"></i>
+
+											</a>
+
+										</div>
+
+									</form>
+
+<!-- 
+
+									<a class="dropdown-toggle" href="#" onclick="document.getElementById('modal_busca').click();" style="padding: 14px;">
+
+									<i class="fa fa-search" style="font-size:20px;"></i>
+
+									</a>
+
+ -->
+
+                                </div>
+
+							</li>
+
+                            
+                        </ul>
+
+
+
+                    </nav>
+
+                </div>
+
+            </div>
+
+            <!-- /Top Nav -->
+
+
+
+        </div><!-- /.container -->
+
+    </header>
+
+    <!-- /Top Nav -->
+
+</div><!-- /.manu_fixo -->
+
+
+
+</div>
+
+
+
+
+
+
+        <div id="corpo_pagina">
+
+
+
+            <!-- PAGE TOP -->
+
+            <section class="page-title">
+
+                <div class="container">
+
+
+
+                    <header>
+
+
+
+                        <ul class="breadcrumb">
+
+                            <!-- breadcrumb -->
+
+                            <li><a href="/fccr">Home</a></li><li><a href="/fccr/home/noticias">Notícias</a></li>                        </ul><!-- /breadcrumb -->
+
+
+
+                        <h2>
+
+                            <!-- Page Title -->
+
+							/// Notícias
+                        </h2><!-- /Page Title -->
+
+
+
+                    </header>
+
+
+
+                </div>
+
+            </section>
+
+            <!-- /PAGE TOP -->
+
+
+
+            <!-- -->
+
+
+
+
+            <section>
+
+				<div class="container">
+
+
+
+                    <!--<form  method="post" class="sky-form">-->
+
+
+
+                    
+<div class="panel panel-light margin-bottom20" style="margin-top: 0px;">
+<form action="" class="sky-form">
+	<fieldset>
+		<div class="col-md-4 col-sm-4">
+		<section>
+			<label class="label">Buscar por palavra chave</label>
+			<label class="input">
+				<input type="text" name="palavra" value="">
+			</label>
+		</section>
+		</div>
+ 
+		<div class="col-md-3 col-sm-3">
+		<section>
+			<label class="label">Categoria</label>
+			<label class="select">
+				<select name="categoria">
+					<option Value="">Selecione</option>
+					<option value='Artes Circenses' >Artes Circenses</option><option value='Artes Visuais' >Artes Visuais</option><option value='Cinema' >Cinema</option><option value='Cultura da Infancia' >Cultura da Infância</option><option value='Cultura da Paz' >Cultura da Paz</option><option value='Cultura Popular' >Cultura Popular</option><option value='DanÃ§a' >Dança</option><option value='Economia Criativa' >Economia Criativa</option><option value='Fomento' >Fomento</option><option value='Gestao Cultural' >Gestão Cultural</option><option value='Institucional' >Institucional</option><option value='Interartes' >Interartes</option><option value='Literatura' >Literatura</option><option value='Musica' >Música</option><option value='Patrimonio Historico' >Patrimônio Histórico</option><option value='Teatro' >Teatro</option>
+				</select>
+				<i></i>
+			</label>
+		</section>
+		</div>
+
+		<div class="col-md-3 col-sm-3">
+		<section>
+			<label class="label">Período</label>
+			<label class="select">
+				<select name="periodo">
+					<option Value="">Selecione</option>
+					<option value='2026' >2026</option><option value='2025' >2025</option><option value='2024' >2024</option><option value='2023' >2023</option><option value='2022' >2022</option><option value='2021' >2021</option><option value='2020' >2020</option>				</select>
+				<i></i>
+			</label>
+		</section>
+		</div>
+
+		<div class="col-md-2 col-sm-2">
+			<button type="submit" class="button" style="margin-top:25px;">Buscar Notícias</button>
+		</div>
+
+	</fieldset>
+
+</form>
+</div><div class="row margin-top40">
+	<div id="imagem_pequena_8971" class="col-md-3" style="display:none;">
+		<a href="/fccr/noticias-destaque-03/fmc-oferece-plantao-de-duvidas-para-editais?categoria="><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8971.webp" alt=""></a>
+	</div>
+	<div id="imagem_pequena_antiga_8971" class="col-md-3" style="display:none;">
+		<a href="/fccr/noticias-destaque-03/fmc-oferece-plantao-de-duvidas-para-editais?categoria="><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>
+	</div>
+	<div class="col-md-9">
+		<span id="data_noticia_8971" style="margin: 0; passing: 0;">
+			<p style="margin: 0; passing: 0;">27/05/2026</p>
+		</span>
+		<h4>
+			<a href="/fccr/noticias-destaque-03/fmc-oferece-plantao-de-duvidas-para-editais?categoria=">FMC oferece Plantão de Dúvidas para editais</a>
+		</h4>
+		<p>O Fundo Municipal de Cultura de São José dos Campos, da Fundação Cultural Cassiano Ricardo, irá oferecer de 1 a 9 de junho um plantão de dúvidas para atendimento aos proponentes interessados nos editais FMC 2026.							</p>
+		
+	</div>
+</div>
+
+<script language="javascript">
+   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8971.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8971').style.display='block';
+
+   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8971.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8971').style.display='block';
+</script>
+
+<hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8966" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/36-festidanca-ballet-paraisopolis-apresenta-tres-obras-na-noite-desta-quinta?categoria=Dança"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8966.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8966" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/36-festidanca-ballet-paraisopolis-apresenta-tres-obras-na-noite-desta-quinta?categoria=Dança"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8966" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">26/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/36-festidanca-ballet-paraisopolis-apresenta-tres-obras-na-noite-desta-quinta?categoria=Dança">36º Festidança: Ballet Paraisópolis apresenta três obras na noite desta quinta</a>		</h4>		<p>O Teatro Municipal de São José dos Campos recebe nesta quinta-feira (28), às 20h, a Cia Ballet Paraisópolis, de São Paulo (SP).							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8966.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8966').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8966.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8966').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8963" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/festidanca-oferece-36-workshops-em-12-dias-de-evento?categoria=Dança"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8963.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8963" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/festidanca-oferece-36-workshops-em-12-dias-de-evento?categoria=Dança"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8963" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">25/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/festidanca-oferece-36-workshops-em-12-dias-de-evento?categoria=Dança">Festidança oferece 36 workshops em 12 dias de evento</a>		</h4>		<p>O Festidança vai muito além das mostras e das apresentações dos espetáculos. O festival, que movimenta São José dos Campos entre os dias 27 de maio e 7 de junho, também oferece workshops para os profissionais de dança e para a comunidade, incentivando a criação coreográfica e o intercâmbio cultural de profissionais de diferentes lugares.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8963.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8963').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8963.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8963').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8962" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/fccr-abre-inscricao-para-oficinas-preparatorias-de-editais-do-pnab?categoria=Fomento"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8962.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8962" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/fccr-abre-inscricao-para-oficinas-preparatorias-de-editais-do-pnab?categoria=Fomento"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8962" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">25/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/fccr-abre-inscricao-para-oficinas-preparatorias-de-editais-do-pnab?categoria=Fomento">FCCR abre inscrição para oficinas preparatórias de editais do PNAB</a>		</h4>		<p>A Fundação Cultural Cassiano Ricardo realiza, entre os dias 8 e 13 de junho, na sede da FCCR, a “Oficina Preparatória para Editais da PNAB SJC”. Os oito encontros visam orientar e tirar dúvidas de todos os interessados em participar dos editais.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8962.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8962').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8962.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8962').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8956" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/sao-jose-participa-da-2-conferencia-nacional-de-arquivos?categoria=Gestão Cultural"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8956.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8956" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/sao-jose-participa-da-2-conferencia-nacional-de-arquivos?categoria=Gestão Cultural"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8956" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">25/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/sao-jose-participa-da-2-conferencia-nacional-de-arquivos?categoria=Gestão Cultural">São José participa da 2ª Conferência Nacional de Arquivos</a>		</h4>		<p>A 2ª Conferência Nacional de Arquivos acontece desta terça-feira (26) até a próxima quinta-feira (28), em Brasília (DF), e contará com representante do Arquivo Público de São José dos Campos.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8956.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8956').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8956.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8956').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8940" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cia-de-danca-de-sao-jose-e-orquestra-joseense-abrem-o-festidanca-2026?categoria=Dança"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8940.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8940" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cia-de-danca-de-sao-jose-e-orquestra-joseense-abrem-o-festidanca-2026?categoria=Dança"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8940" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">25/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/cia-de-danca-de-sao-jose-e-orquestra-joseense-abrem-o-festidanca-2026?categoria=Dança">Cia. de Dança de São José e Orquestra Joseense abrem o Festidança 2026</a>		</h4>		<p>A abertura da 36ª edição do Festidança, que será realizada na próxima quarta-feira (27), às 20h, reunirá, no palco do Teatro Municipal, a Companhia de Dança de São José dos Campos e a Orquestra Joseense para a apresentação do espetáculo Villa Brasil.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8940.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8940').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8940.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8940').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8893" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/fundacao-cultural-abre-inscricoes-para-editais-do-pnab?categoria=Fomento"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8893.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8893" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/fundacao-cultural-abre-inscricoes-para-editais-do-pnab?categoria=Fomento"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8893" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">22/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/fundacao-cultural-abre-inscricoes-para-editais-do-pnab?categoria=Fomento">Fundação Cultural abre inscrições para editais do PNAB</a>		</h4>		<p>A Fundação Cultural Cassiano Ricardo publicou, nesta sexta-feira (22), cinco novos editais da PNAB (Política Nacional Aldir Blanc de Fomento à Cultura).							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8893.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8893').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8893.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8893').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8860" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/domingo-no-parque-recebe-espetaculo-sonhos-de-francisco?categoria=Teatro"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8860.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8860" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/domingo-no-parque-recebe-espetaculo-sonhos-de-francisco?categoria=Teatro"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8860" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">21/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/domingo-no-parque-recebe-espetaculo-sonhos-de-francisco?categoria=Teatro">Domingo no Parque recebe espetáculo ‘Sonhos de Francisco’</a>		</h4>		<p>O espetáculo “Sonhos de Francisco – Contos do Vale do Paraíba” será a atração do projeto Domingo no Parque do próximo dia 31, às 15h, na Arena do Parque da Cidade.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8860.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8860').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8860.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8860').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8855" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/peca-coracao-denunciador-entra-em-cartaz-no-no-cet?categoria=Teatro"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8855.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8855" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/peca-coracao-denunciador-entra-em-cartaz-no-no-cet?categoria=Teatro"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8855" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">21/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/peca-coracao-denunciador-entra-em-cartaz-no-no-cet?categoria=Teatro">Peça ‘Coração Denunciador’ entra em cartaz no no CET</a>		</h4>		<p>O CET (Centro de Estudos Teatrais) recebe no próximo dia 30 (sábado), às 21h, a peça “Coração Denunciador”, do grupo Laboratório Teatro Químico. O espetáculo é voltado para o público adulto.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8855.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8855').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8855.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8855').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8854" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/vicentina-aranha-recebe-show-de-marcelo-soares-quarteto-neste-domingo?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8854.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8854" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/vicentina-aranha-recebe-show-de-marcelo-soares-quarteto-neste-domingo?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8854" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">21/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/vicentina-aranha-recebe-show-de-marcelo-soares-quarteto-neste-domingo?categoria=Música">Vicentina Aranha recebe show de Marcelo Soares Quarteto neste domingo</a>		</h4>		<p>O Parque Vicentina Aranha recebe, no próximo domingo (24), às 10h30, a apresentação musical de Marcelo Soares Quarteto. O show integra a programação do Circulação, da Fundação Cultural Cassiano Ricardo.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8854.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8854').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8854.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8854').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8853" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/comedia-circense-o-casamento-da-mixirica-anima-o-domingo-no-parque?categoria=Artes Circenses"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8853.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8853" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/comedia-circense-o-casamento-da-mixirica-anima-o-domingo-no-parque?categoria=Artes Circenses"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8853" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">21/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/comedia-circense-o-casamento-da-mixirica-anima-o-domingo-no-parque?categoria=Artes Circenses">Comédia circense ‘O Casamento da Mixirica’ anima o Domingo no Parque</a>		</h4>		<p>Na tarde deste domingo (24), a partir das 15h, a palhaça Mixirica sai em busca de um marido no espetáculo “O Casamento da Mixirica”, da companhia Trooupe Gargalharia. A apresentação, na Arena do Parque da Cidade, resgata a tradição da comédia circense por meio de situações cômicas e interação com o público.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8853.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8853').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8853.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8853').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8847" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/fccr-reabre-cadastramento-de-artistas-e-mapeamento-cultural?categoria=Fomento"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8847.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8847" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/fccr-reabre-cadastramento-de-artistas-e-mapeamento-cultural?categoria=Fomento"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8847" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">19/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/fccr-reabre-cadastramento-de-artistas-e-mapeamento-cultural?categoria=Fomento">FCCR reabre cadastramento de artistas e mapeamento cultural</a>		</h4>		<p>A Fundação Cultural Cassiano Ricardo reabre, nesta quinta-feira (21), o cadastramento/mapeamento de profissionais da arte e cultura, pontos de cultura, espaços ou instituições de natureza cultural, coletivos artísticos ou culturais, com residência ou sede em São José dos Campos.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8847.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8847').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8847.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8847').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8846" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cet-recebe-espetaculo-a-terapeuta-dos-coracoes-partidos?categoria=Teatro"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8846.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8846" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cet-recebe-espetaculo-a-terapeuta-dos-coracoes-partidos?categoria=Teatro"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8846" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">19/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/cet-recebe-espetaculo-a-terapeuta-dos-coracoes-partidos?categoria=Teatro">CET recebe espetáculo ‘A terapeuta dos corações partidos’</a>		</h4>		<p>O CET (Centro de Estudos Teatrais) recebe neste sábado (23), às 21h, a peça “A terapeuta dos corações partidos”, do grupo Cia do Sol.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8846.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8846').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8846.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8846').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8845" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/eugenia-da-silva-apresenta-espetaculo-sputnik-ii-outras-historias-caninas?categoria=Teatro"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8845.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8845" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/eugenia-da-silva-apresenta-espetaculo-sputnik-ii-outras-historias-caninas?categoria=Teatro"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8845" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">19/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/eugenia-da-silva-apresenta-espetaculo-sputnik-ii-outras-historias-caninas?categoria=Teatro">Eugênia da Silva apresenta espetáculo ‘Sputnik II – Outras Histórias Caninas’</a>		</h4>		<p>A Casa de Cultura Eugênia da Silva recebe, nesta sexta-feira (22), às 9h e às 14h, o espetáculo “Sputnik II - Outras histórias caninas”, apresentado pela Cia do Trailler – Teatro em Movimento.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8845.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8845').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8845.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8845').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8842" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/casa-de-cultura-chico-triste-realiza-workshop-de-experiencia-com-tintas-naturais?categoria=Artes Visuais"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8842.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8842" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/casa-de-cultura-chico-triste-realiza-workshop-de-experiencia-com-tintas-naturais?categoria=Artes Visuais"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8842" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">18/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/casa-de-cultura-chico-triste-realiza-workshop-de-experiencia-com-tintas-naturais?categoria=Artes Visuais">Casa de Cultura Chico Triste realiza workshop de experiência com tintas naturais</a>		</h4>		<p>A Casa de Cultura Chico Triste, na Vila Tesouro, região leste de São José dos Campos, realiza na próxima sexta-feira (22), às 9h, o workshop de tinturas naturais “A arte através da natureza”. O evento é em comemoração ao Dia das Mães, que foi celebrado no último domingo (9).							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8842.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8842').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8842.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8842').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8841" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/vivencia-sanfonada-reune-musicos-e-amantes-do-acordeon?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8841.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8841" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/vivencia-sanfonada-reune-musicos-e-amantes-do-acordeon?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8841" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">18/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/vivencia-sanfonada-reune-musicos-e-amantes-do-acordeon?categoria=Música">Vivência Sanfonada reúne músicos e amantes do acordeon</a>		</h4>		<p>O Centro Cultural Clemente Gomes recebe, na próxima terça (26), às 14h, a Vivência Sanfonada, atividade em que sanfoneiros compartilham suas histórias, além de técnicas de arcodeon. O objetivo é promover interações entre alunos, músicos e o público.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8841.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8841').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8841.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8841').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8839" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/casa-de-cultura-eugenia-da-silva-recebe-nova-edicao-do-sarau-outros-versos?categoria=Interartes"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8839.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8839" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/casa-de-cultura-eugenia-da-silva-recebe-nova-edicao-do-sarau-outros-versos?categoria=Interartes"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8839" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">15/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/casa-de-cultura-eugenia-da-silva-recebe-nova-edicao-do-sarau-outros-versos?categoria=Interartes">Casa de Cultura Eugênia da Silva recebe nova edição do sarau Outros Versos</a>		</h4>		<p>A Casa de Cultura Eugênia da Silva recebe, no próximo dia 29, às 19h, uma nova edição do sarau Outros Versos, um espaço dedicado à apresentação de artistas de diferentes áreas, como teatro, música, dança e literatura.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8839.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8839').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8839.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8839').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8838" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/dia-nacional-da-luta-antimanicomial-tera-atividade-na-casa-de-cultura-tim-lopes?categoria=Interartes"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8838.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8838" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/dia-nacional-da-luta-antimanicomial-tera-atividade-na-casa-de-cultura-tim-lopes?categoria=Interartes"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8838" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">15/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/dia-nacional-da-luta-antimanicomial-tera-atividade-na-casa-de-cultura-tim-lopes?categoria=Interartes">Dia Nacional da Luta Antimanicomial terá atividade na Casa de Cultura Tim Lopes</a>		</h4>		<p>A Casa de Cultura Tim Lopes, na região sul de São José dos Campos, realiza um evento em celebração ao Dia Nacional da Luta Antimanicomial, na próxima segunda-feira (18), das 9h às 16h.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8838.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8838').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8838.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8838').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8837" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/tarde-do-charme-agita-a-tarde-com-workshop-de-danca-e-cultura-urbana-no-dia-31?categoria=Dança"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8837.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8837" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/tarde-do-charme-agita-a-tarde-com-workshop-de-danca-e-cultura-urbana-no-dia-31?categoria=Dança"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8837" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">15/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/tarde-do-charme-agita-a-tarde-com-workshop-de-danca-e-cultura-urbana-no-dia-31?categoria=Dança">Tarde do Charme agita a tarde com workshop de dança e cultura urbana no dia 31</a>		</h4>		<p>O Centro Cultural Clemente Gomes recebe, no próximo dia 31 de maio (domingo), às 15h, mais uma edição da Tarde do Charme, com workshop de dança e hip-hop.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8837.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8837').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8837.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8837').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8834" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/black-mantra-agita-o-bar-de-quinta-na-proxima-quinta-feira?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8834.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8834" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/black-mantra-agita-o-bar-de-quinta-na-proxima-quinta-feira?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8834" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">15/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/black-mantra-agita-o-bar-de-quinta-na-proxima-quinta-feira?categoria=Música">Black Mantra agita o Bar de Quinta na próxima quinta-feira</a>		</h4>		<p>A próxima edição do Bar de Quinta terá o show da banda Black Mantra, na quinta-feira (21), a partir das 20h. A apresentação acontece na sede da FCCR, que fica no Parque da Cidade, região norte de São José dos Campos.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8834.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8834').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8834.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8834').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8829" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/centro-cultural-clemente-gomes-tera-praticas-do-bem-viver-no-proximo-dia-?categoria=Cultura da Paz"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8829.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8829" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/centro-cultural-clemente-gomes-tera-praticas-do-bem-viver-no-proximo-dia-?categoria=Cultura da Paz"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8829" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">14/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/centro-cultural-clemente-gomes-tera-praticas-do-bem-viver-no-proximo-dia-?categoria=Cultura da Paz">Centro Cultural Clemente Gomes terá ‘Práticas do Bem Viver’ no próximo dia 25</a>		</h4>		<p>O Centro Cultural Clemente Gomes realiza, no próximo dia 25, às 16h, o projeto Práticas do Bem Viver, que oferece atividades de yoga, dança circulares e lian gong. A ação visa promover e fortalecer a Cultura da Paz.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8829.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8829').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8829.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8829').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8827" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/fccr-abre-14-editais-para-investir-r-75-milhoes-em-projetos-culturais?categoria=Fomento"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8827.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8827" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/fccr-abre-14-editais-para-investir-r-75-milhoes-em-projetos-culturais?categoria=Fomento"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8827" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">14/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/fccr-abre-14-editais-para-investir-r-75-milhoes-em-projetos-culturais?categoria=Fomento">FCCR abre 14 editais para investir R$ 7,5 milhões em projetos culturais</a>		</h4>		<p>A Fundação Cultural Cassiano Ricardo lança, a partir desta quinta-feira (14), 14 editais de financiamento a propostas culturais de São José dos Campos. O investimento em projetos locais soma R$ 7,5 milhões e contempla diferentes linguagens artísticas e culturais.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8827.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8827').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8827.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8827').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8826" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/casa-de-cultura-chico-triste-recebe-workshop-vivenciando-os-editais-culturais-municipais?categoria=Fomento"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8826.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8826" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/casa-de-cultura-chico-triste-recebe-workshop-vivenciando-os-editais-culturais-municipais?categoria=Fomento"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8826" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">14/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/casa-de-cultura-chico-triste-recebe-workshop-vivenciando-os-editais-culturais-municipais?categoria=Fomento">Casa de Cultura Chico Triste recebe workshop ‘Vivenciando os editais culturais municipais’</a>		</h4>		<p>A Casa de Cultura Chico Triste, na Vila Tesouro, região leste de São José dos Campos, realizará o workshop “Vivenciando os editais culturais municipais”, na próxima segunda (18) e terça-feira (19), das 19h às 22h.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8826.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8826').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8826.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8826').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8800" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/fundacao-cultural-abre-inscricoes-para-a-17-festa-do-tropeiro?categoria=Cultura Popular||Fomento"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8800.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8800" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/fundacao-cultural-abre-inscricoes-para-a-17-festa-do-tropeiro?categoria=Cultura Popular||Fomento"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8800" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">13/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/fundacao-cultural-abre-inscricoes-para-a-17-festa-do-tropeiro?categoria=Cultura Popular||Fomento">Fundação Cultural abre inscrições para a 17ª Festa do Tropeiro</a>		</h4>		<p>A Fundação Cultural Cassiano Ricardo abriu, nesta quarta-feira (13), as inscrições culinaristas interessados em participar da 17ª Festa do Tropeiro, no distrito de São Francisco Xavier.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8800.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8800').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8800.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8800').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8742" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/concerto-da-orquestra-joseense-tera-repertorio-com-joseph-haydn-e-beethoven?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8742.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8742" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/concerto-da-orquestra-joseense-tera-repertorio-com-joseph-haydn-e-beethoven?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8742" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">13/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/concerto-da-orquestra-joseense-tera-repertorio-com-joseph-haydn-e-beethoven?categoria=Música">Concerto da Orquestra Joseense terá repertório com Joseph Haydn e Beethoven</a>		</h4>		<p>A Orquestra Joseense apresenta, na próxima quarta-feira (20), às 20h, concerto com repertório que inclui sinfonias de Joseph Haydn e Ludwig van Beethoven. O espetáculo acontece no Teatro Municipal, na região central de São José dos Campos.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8742.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8742').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8742.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8742').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8741" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/jazz-no-galpao-apresenta-show-da-francesa-camille-bertault?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8741.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8741" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/jazz-no-galpao-apresenta-show-da-francesa-camille-bertault?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8741" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">13/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/jazz-no-galpao-apresenta-show-da-francesa-camille-bertault?categoria=Música">Jazz no Galpão apresenta show da francesa Camille Bertault</a>		</h4>		<p>O Jazz no Galpão recebe, no próximo dia 22 de maio, às 20h, a francesa Camille Bertault para uma apresentação intimista na sede da FCCR, na região norte de São José dos Campos.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8741.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8741').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8741.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8741').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8733" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/36-festidanca-leva-emocao-da-danca-aos-palcos-de-sao-jose?categoria=Dança"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8733.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8733" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/36-festidanca-leva-emocao-da-danca-aos-palcos-de-sao-jose?categoria=Dança"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8733" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">12/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/36-festidanca-leva-emocao-da-danca-aos-palcos-de-sao-jose?categoria=Dança">36º Festidança leva emoção da dança aos palcos de São José</a>		</h4>		<p>São José dos Campos voltará a ser o coração pulsante da dança brasileira. A cada passo, uma emoção. A 36ª edição do Festidança, um dos maiores festivais do país, acontece na cidade entre os dias 27 de maio e 7 de junho.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8733.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8733').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8733.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8733').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8724" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/patio-do-museu-tera-intervencoes-artisticas-nos-sabados-de-maio?categoria=Interartes"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8724.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8724" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/patio-do-museu-tera-intervencoes-artisticas-nos-sabados-de-maio?categoria=Interartes"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8724" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">07/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/patio-do-museu-tera-intervencoes-artisticas-nos-sabados-de-maio?categoria=Interartes">Pátio do Museu terá intervenções artísticas nos sábados de maio</a>		</h4>		<p>Nos próximos sábados, a Praça Afonso Pena, na região central de São José dos Campos, recebe as apresentações artísticas do projeto Circuito Cultural Central, da Fundação Cultural Cassiano Ricardo.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8724.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8724').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8724.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8724').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8723" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/teatro-municipal-recebe-tributo-a-tom-jobim-na-proxima-quinta?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8723.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8723" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/teatro-municipal-recebe-tributo-a-tom-jobim-na-proxima-quinta?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8723" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">07/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/teatro-municipal-recebe-tributo-a-tom-jobim-na-proxima-quinta?categoria=Música">Teatro Municipal recebe tributo a Tom Jobim na próxima quinta</a>		</h4>		<p>O Teatro Municipal, na região central de São José dos Campos, recebe na próxima quinta-feira (14), às 19h, o musical Yulle - Tributo a Tom Jobim.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8723.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8723').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8723.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8723').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8720" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/museu-municipal-recebe-concerto-didatico-do-instituto-afam?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8720.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8720" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/museu-municipal-recebe-concerto-didatico-do-instituto-afam?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8720" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">06/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/museu-municipal-recebe-concerto-didatico-do-instituto-afam?categoria=Música">Museu Municipal recebe Concerto Didático do Instituto AFAM</a>		</h4>		<p>A Camerata Joseense do Instituto AFAM sobe ao palco no Museu Municipal, na região central de São José dos Campos, nesta sexta-feira (8), às 19h, para mais um Concerto Didático aberto para a comunidade.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8720.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8720').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8720.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8720').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8716" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/maestro-joao-carlos-martins-e-orquestra-orion-ensaiam-no-cine-santana?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8716.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8716" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/maestro-joao-carlos-martins-e-orquestra-orion-ensaiam-no-cine-santana?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8716" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">06/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/maestro-joao-carlos-martins-e-orquestra-orion-ensaiam-no-cine-santana?categoria=Música">Maestro João Carlos Martins e Orquestra Órion ensaiam no Cine Santana</a>		</h4>		<p>O Cine Santana, em São José dos Campos, recebe neste sábado (9), às 10h, um momento especial da música erudita brasileira: o ensaio da Orquestra Órion, sob regência do maestro João Carlos Martins. 							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8716.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8716').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8716.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8716').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8712" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cet-define-programacao-mensal-de-espetaculos?categoria=Teatro"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8712.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8712" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cet-define-programacao-mensal-de-espetaculos?categoria=Teatro"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8712" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">04/05/2026</p>		</span>		<h4>			<a href="/fccr/noticias/cet-define-programacao-mensal-de-espetaculos?categoria=Teatro">CET define programação mensal de espetáculos</a>		</h4>		<p>O Centro de Estudos Teatrais, no Parque da cidade, na sede da FCCR, está com uma programação recheada em maio.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8712.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8712').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8712.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8712').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">
+	<div id="imagem_pequena_8709" class="col-md-3" style="display:none;">
+		<a href="/fccr/noticias/arte-nos-bairros-abre-inscricoes-para-vagas-remanescentess?categoria="><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8709.webp" alt=""></a>
+	</div>
+	<div id="imagem_pequena_antiga_8709" class="col-md-3" style="display:none;">
+		<a href="/fccr/noticias/arte-nos-bairros-abre-inscricoes-para-vagas-remanescentess?categoria="><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>
+	</div>
+	<div class="col-md-9">
+		<span id="data_noticia_8709" style="margin: 0; passing: 0;">
+			<p style="margin: 0; passing: 0;">30/04/2026</p>
+		</span>
+		<h4>
+			<a href="/fccr/noticias/arte-nos-bairros-abre-inscricoes-para-vagas-remanescentess?categoria=">Arte nos Bairros abre inscrições para vagas remanescentes</a>
+		</h4>
+		<p>O Programa Arte nos Bairros, da Fundação Cultural Cassiano Ricardo, abriu as inscrições para vagas remanescentes nas oficinas culturais de diferentes linguagens artísticas para crianças, jovens e adultos.							</p>
+		
+	</div>
+</div>
+
+<script language="javascript">
+   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8709.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8709').style.display='block';
+
+   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8709.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8709').style.display='block';
+</script>
+
+<hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8706" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cia-de-danca-de-sao-jose-e-sao-paulo-cia-jovem-se-apresentam-no-teatro-municipal?categoria=Dança"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8706.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8706" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cia-de-danca-de-sao-jose-e-sao-paulo-cia-jovem-se-apresentam-no-teatro-municipal?categoria=Dança"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8706" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">29/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/cia-de-danca-de-sao-jose-e-sao-paulo-cia-jovem-se-apresentam-no-teatro-municipal?categoria=Dança">Cia de Dança de São José e São Paulo Cia Jovem se apresentam no Teatro Municipal</a>		</h4>		<p>A Cia de Dança de São José dos Campos e a São Paulo Companhia Jovem de Dança apresentam o espetáculo “Territórios em Movimento”, no próximo dia 9 de maio (sábado), às 20h, no Teatro Municipal.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8706.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8706').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8706.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8706').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8705" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/como-um-filho-e-o-destaque-do-cine-do-centro-de-maio?categoria=Cinema"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8705.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8705" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/como-um-filho-e-o-destaque-do-cine-do-centro-de-maio?categoria=Cinema"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8705" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">29/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/como-um-filho-e-o-destaque-do-cine-do-centro-de-maio?categoria=Cinema">‘Como um filho’ é o destaque do Cine do Centro de maio</a>		</h4>		<p>O Cine do Centro de maio traz o drama francês “Como um filho” na próxima quarta-feira (13), às 19h, no Museu Municipal, região central de São José dos Campos.						</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8705.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8705').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8705.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8705').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8700" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/orquestra-comunitaria-do-instituto-afam-apresenta-concerto-no-teatro-municipal?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8700.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8700" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/orquestra-comunitaria-do-instituto-afam-apresenta-concerto-no-teatro-municipal?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8700" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">28/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/orquestra-comunitaria-do-instituto-afam-apresenta-concerto-no-teatro-municipal?categoria=Música">Orquestra Comunitária do Instituto AFAM apresenta concerto no Teatro Municipal</a>		</h4>		<p>A Orquestra Comunitária do Instituto AFAM sobe ao palco do Teatro Municipal, na região central de São José dos Campos, nesta sexta-feira (30), às 20h, para mais um Concerto Didático aberto para a comunidade.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8700.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8700').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8700.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8700').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8699" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cinema-nacional-e-destaque-na-programacao-de-maio-do-cine-santana?categoria=Cinema"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8699.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8699" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cinema-nacional-e-destaque-na-programacao-de-maio-do-cine-santana?categoria=Cinema"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8699" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">28/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/cinema-nacional-e-destaque-na-programacao-de-maio-do-cine-santana?categoria=Cinema">Cinema nacional é destaque na programação de maio do Cine Santana</a>		</h4>		<p>O Cine Santana preparou uma programação especial de filmes nacionais para as sessões de maio, realizadas em parceria com o programa Pontos Mis, do Museu da Imagem e do Som.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8699.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8699').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8699.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8699').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8697" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/talento-do-blues-norte-americano-desembarca-no-teatro-municipal-no-dia-7?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8697.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8697" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/talento-do-blues-norte-americano-desembarca-no-teatro-municipal-no-dia-7?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8697" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">28/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/talento-do-blues-norte-americano-desembarca-no-teatro-municipal-no-dia-7?categoria=Música">Talento do blues norte-americano desembarca no Teatro Municipal no dia 7</a>		</h4>		<p>A força e a tradição do blues norte-americano sobem ao palco do Teatro Municipal com o show da cantora Lady Trucker, no próximo dia 7 de maio (quinta-feira), a partir das 20h.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8697.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8697').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8697.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8697').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8696" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/clube-do-livro-em-sao-francisco-xavier-reune-leitores-na-proxima-quinta?categoria=Literatura"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8696.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8696" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/clube-do-livro-em-sao-francisco-xavier-reune-leitores-na-proxima-quinta?categoria=Literatura"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8696" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">28/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/clube-do-livro-em-sao-francisco-xavier-reune-leitores-na-proxima-quinta?categoria=Literatura">Clube do livro em São Francisco Xavier reúne leitores na próxima quinta</a>		</h4>		<p>Moradores do distrito de São Francisco Xavier podem participar, na próxima quinta-feira (30), às 19h, da próxima edição do clube de leitura realizado pela Associação Amigos da Biblioteca.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8696.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8696').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8696.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8696').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8685" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/orquestra-joseense-se-apresenta-no-aniversario-do-vicentina-aranha?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8685.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8685" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/orquestra-joseense-se-apresenta-no-aniversario-do-vicentina-aranha?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8685" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">23/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/orquestra-joseense-se-apresenta-no-aniversario-do-vicentina-aranha?categoria=Música">Orquestra Joseense se apresenta no aniversário do Vicentina Aranha</a>		</h4>		<p>A Orquestra Joseense e o Quarteto Choro de Resistência apresentam um concerto especial em comemoração aos 102 anos do Parque Vicentina Aranha, no próximo domingo (26), a partir das 10h30.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8685.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8685').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8685.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8685').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8684" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/sarau-outros-versos-marca-a-semana-voltada-a-literatura-em-sao-jose?categoria=Literatura"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8684.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8684" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/sarau-outros-versos-marca-a-semana-voltada-a-literatura-em-sao-jose?categoria=Literatura"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8684" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">23/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/sarau-outros-versos-marca-a-semana-voltada-a-literatura-em-sao-jose?categoria=Literatura">Sarau Outros Versos marca a semana voltada à literatura em São José</a>		</h4>		<p>O sarau Outros Versos, que acontece mensalmente na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, realiza nesta sexta-feira (24), às 19h, uma edição especial em razão de duas datas importantes para a literatura.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8684.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8684').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8684.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8684').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8682" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/tercas-com-museologia-aborda-diferenca-entre-musealizar-e-museificar?categoria=Artes Visuais||Cultura Popular"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8682.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8682" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/tercas-com-museologia-aborda-diferenca-entre-musealizar-e-museificar?categoria=Artes Visuais||Cultura Popular"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8682" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">22/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/tercas-com-museologia-aborda-diferenca-entre-musealizar-e-museificar?categoria=Artes Visuais||Cultura Popular">Terças com Museologia aborda diferença entre musealizar e museificar</a>		</h4>		<p>O Museu do Folclore Angela Savastano realizará no próximo dia 28 de abril mais uma edição do Terças com Museologia.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8682.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8682').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8682.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8682').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8681" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cena-de-mulher-e-cine-rock-embalam-a-semana-na-fccr?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8681.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8681" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/cena-de-mulher-e-cine-rock-embalam-a-semana-na-fccr?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8681" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">22/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/cena-de-mulher-e-cine-rock-embalam-a-semana-na-fccr?categoria=Música">Cena de Mulher e Cine Rock embalam a semana na FCCR</a>		</h4>		<p>Os tradicionais projetos Cena de Mulher e Cine Rock agitam a Sede da Fundação Cultural Cassiano Ricardo nesta quinta-feira (23) e sexta-feira (24), a partir das 20h.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8681.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8681').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8681.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8681').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8679" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/casa-de-cultura-tim-lopes-comemora-o-dia-mundial-do-livro-com-sarau-dia-23-?categoria=Literatura"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8679.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8679" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/casa-de-cultura-tim-lopes-comemora-o-dia-mundial-do-livro-com-sarau-dia-23-?categoria=Literatura"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8679" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">17/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/casa-de-cultura-tim-lopes-comemora-o-dia-mundial-do-livro-com-sarau-dia-23-?categoria=Literatura">Casa de Cultura Tim Lopes comemora o Dia Mundial do Livro com sarau dia 23 </a>		</h4>		<p>A Casa de Cultura Tim Lopes vai comemorar o Dia Mundial do Livro na próxima quinta-feira (23), a partir das 19h, com um Sarau Literomusical.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8679.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8679').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8679.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8679').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">
+	<div id="imagem_pequena_8678" class="col-md-3" style="display:none;">
+		<a href="/fccr/noticias/fundacao-cultural-abre-vagas-no-coro-sinfonico?categoria="><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8678.webp" alt=""></a>
+	</div>
+	<div id="imagem_pequena_antiga_8678" class="col-md-3" style="display:none;">
+		<a href="/fccr/noticias/fundacao-cultural-abre-vagas-no-coro-sinfonico?categoria="><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>
+	</div>
+	<div class="col-md-9">
+		<span id="data_noticia_8678" style="margin: 0; passing: 0;">
+			<p style="margin: 0; passing: 0;">17/04/2026</p>
+		</span>
+		<h4>
+			<a href="/fccr/noticias/fundacao-cultural-abre-vagas-no-coro-sinfonico?categoria=">Fundação Cultural abre vagas no Coro Sinfônico</a>
+		</h4>
+		<p>A Fundação Cultural Cassiano Ricardo está com edital aberto para a contratação de empresas especializadas nos serviços de chefes de naipe, monitores, pianista, produção executiva e arquivista para o Coro Sinfônico de São José dos Campos.							</p>
+		
+	</div>
+</div>
+
+<script language="javascript">
+   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8678.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8678').style.display='block';
+
+   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8678.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8678').style.display='block';
+</script>
+
+<hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8675" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/praca-afonso-pena-sera-palco-de-atracoes-culturais-em-abril?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8675.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8675" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/praca-afonso-pena-sera-palco-de-atracoes-culturais-em-abril?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8675" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">17/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/praca-afonso-pena-sera-palco-de-atracoes-culturais-em-abril?categoria=Música">Praça Afonso Pena será palco de atrações culturais em abril</a>		</h4>		<p>O Pátio do Museu, que fica ao lado do Museu Municipal de São José dos Campos, está passando por reforma. Mas isso não impede que as atrações culturais aconteçam na região central da cidade. A Praça Afonso Pena será o palco dessas atividades nos próximos sábados de abril.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8675.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8675').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8675.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8675').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8673" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/nova-temporada-de-os-outros-foi-gravada-em-sao-jose?categoria=Cinema"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8673.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8673" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/nova-temporada-de-os-outros-foi-gravada-em-sao-jose?categoria=Cinema"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8673" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">17/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/nova-temporada-de-os-outros-foi-gravada-em-sao-jose?categoria=Cinema">Nova temporada de ‘Os Outros’ foi gravada em São José</a>		</h4>		<p>A nova temporada de Os Outros, que estreou no Globoplay na última sexta-feira (9), marca também um importante capítulo para o setor audiovisual de São José dos Campos.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8673.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8673').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8673.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8673').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8672" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/julio-neme-recebe-exposicao-de-esculturas-feitas-com-materiais-descartados-e-sucata?categoria=Artes Visuais"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8672.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8672" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/julio-neme-recebe-exposicao-de-esculturas-feitas-com-materiais-descartados-e-sucata?categoria=Artes Visuais"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8672" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">17/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/julio-neme-recebe-exposicao-de-esculturas-feitas-com-materiais-descartados-e-sucata?categoria=Artes Visuais">Júlio Neme recebe exposição de esculturas feitas com materiais descartados e sucata</a>		</h4>		<p>A Casa de Cultura Júlio Neme, no distrito de São Francisco Xavier, recebe a exposição “Fogo e Terra”, do artista Pedro Magnani. A mostra acontece até 30 de abril.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8672.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8672').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8672.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8672').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8670" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/dia-internacional-da-danca-tera-noite-especial-no-teatro-municipal?categoria=Dança"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8670.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8670" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/dia-internacional-da-danca-tera-noite-especial-no-teatro-municipal?categoria=Dança"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8670" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">17/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/dia-internacional-da-danca-tera-noite-especial-no-teatro-municipal?categoria=Dança">Dia Internacional da Dança terá noite especial no Teatro Municipal</a>		</h4>		<p>A Fundação Cultural Cassiano Ricardo realiza, no próximo dia 24 de abril (sexta-feira), uma comemoração ao Dia Internacional da Dança. A atração, no palco do Teatro Municipal, às 19h30, terá como destaque a Companhia de Dança de São José dos Campos.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8670.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8670').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8670.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8670').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="row margin-top40">	<div id="imagem_pequena_8669" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/coro-sinfonico-apresenta-concerto-na-catedral-sao-dimas?categoria=Música"><img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8669.webp" alt=""></a>	</div>	<div id="imagem_pequena_antiga_8669" class="col-md-3" style="display:none;">		<a href="/fccr/noticias/coro-sinfonico-apresenta-concerto-na-catedral-sao-dimas?categoria=Música"><img class="img-responsive" src="/crcpr/conteudo/noticias-importadas/" alt=""></a>	</div>	<div class="col-md-9">		<span id="data_noticia_8669" style="margin: 0; passing: 0;">			<p style="margin: 0; passing: 0;">17/04/2026</p>		</span>		<h4>			<a href="/fccr/noticias/coro-sinfonico-apresenta-concerto-na-catedral-sao-dimas?categoria=Música">Coro Sinfônico apresenta concerto na Catedral São Dimas</a>		</h4>		<p>O Coro Sinfônico de São José dos Campos, da Fundação Cultural Cassiano Ricardo, apresenta o concerto “Media Vita in Morte Sumus – Música para o tempo Pascal”, no próximo dia 26 (domingo), às 17h, na Catedral São Dimas, região central de São José dos Campos.							</p>			</div></div><script language="javascript">   if ('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8669.webp'.indexOf('pixel.gif') < 0) document.getElementById('imagem_pequena_8669').style.display='block';   if('/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8669.webp'.indexOf('pixel.gif') > 0 && '7' == '7' && '' != '') document.getElementById('imagem_pequena_antiga_8669').style.display='block';</script><hr class="half-margins" style="margin: 10px 0;" /><div class="margin-top30"><div style="clear: both; font-size: 16px;"> | <b>1</b> | <a href="?secao_id=75&pagina_atual_lista_noticias=2" OnClick="Paginacao(2);"> 2</a> | <a href="?secao_id=75&pagina_atual_lista_noticias=3" OnClick="Paginacao(3);"> 3</a> | <a href="?secao_id=75&pagina_atual_lista_noticias=4" OnClick="Paginacao(4);"> 4</a> | <a href="?secao_id=75&pagina_atual_lista_noticias=5" OnClick="Paginacao(5);"> 5</a> | <a href="?secao_id=75&pagina_atual_lista_noticias=6" OnClick="Paginacao(6);"> 6</a>  | <a href="?secao_id=75&pagina_atual_lista_noticias=50" class="btn btn-primary"> &Uacute;ltima p&aacute;gina</a><br><br>Total de <b>2500</b> registros</div></div>    <div class="margem_texto margin-top40">
+        <h4>
+            Notícias <strong>Relacionadas</strong>
+            <a href="/fccr/institucional/noticias" style="margin-left:10px;">
+                <i class="fa fa-plus-circle" style="color:#D3D92B;"></i>
+            </a>
+        </h4>
+
+        <div class="owl-carousel"
+             data-plugin-options='{"singleItem": false, "items":3, "itemsDesktop":[1199,3], "itemsDesktopSmall":[980,2], "autoPlay": true}'>
+            <div style="padding-right: 18px;">
+		<a href="/fccr/noticias-destaque-03/fmc-oferece-plantao-de-duvidas-para-editais?categoria=">
+		<figure>
+			<img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8971.webp" alt="">
+		</figure>
+
+		<button type="button" class="btn btn-primary btn-sm " style="margin-bottom: 10px;"><script>document.write(''.toUpperCase());</script></button>
+		<p>FMC oferece Plantão de Dúvidas para editais</p>
+                </a>
+</div><div style="padding-right: 18px;">		<a href="/fccr/noticias/36-festidanca-ballet-paraisopolis-apresenta-tres-obras-na-noite-desta-quinta?categoria=Dança">		<figure>			<img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8966.webp" alt="">		</figure>		<button type="button" class="btn btn-primary btn-sm Dança" style="margin-bottom: 10px;"><script>document.write('Dança'.toUpperCase());</script></button>		<p>36º Festidança: Ballet Paraisópolis apresenta três obras na noite desta quinta</p>                </a></div><div style="padding-right: 18px;">		<a href="/fccr/noticias/festidanca-oferece-36-workshops-em-12-dias-de-evento?categoria=Dança">		<figure>			<img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8963.webp" alt="">		</figure>		<button type="button" class="btn btn-primary btn-sm Dança" style="margin-bottom: 10px;"><script>document.write('Dança'.toUpperCase());</script></button>		<p>Festidança oferece 36 workshops em 12 dias de evento</p>                </a></div><div style="padding-right: 18px;">		<a href="/fccr/noticias/fccr-abre-inscricao-para-oficinas-preparatorias-de-editais-do-pnab?categoria=Fomento">		<figure>			<img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8962.webp" alt="">		</figure>		<button type="button" class="btn btn-primary btn-sm Fomento" style="margin-bottom: 10px;"><script>document.write('Fomento'.toUpperCase());</script></button>		<p>FCCR abre inscrição para oficinas preparatórias de editais do PNAB</p>                </a></div><div style="padding-right: 18px;">		<a href="/fccr/noticias/sao-jose-participa-da-2-conferencia-nacional-de-arquivos?categoria=Gestão Cultural">		<figure>			<img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8956.webp" alt="">		</figure>		<button type="button" class="btn btn-primary btn-sm Gestão Cultural" style="margin-bottom: 10px;"><script>document.write('Gestão Cultural'.toUpperCase());</script></button>		<p>São José participa da 2ª Conferência Nacional de Arquivos</p>                </a></div><div style="padding-right: 18px;">		<a href="/fccr/noticias/cia-de-danca-de-sao-jose-e-orquestra-joseense-abrem-o-festidanca-2026?categoria=Dança">		<figure>			<img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8940.webp" alt="">		</figure>		<button type="button" class="btn btn-primary btn-sm Dança" style="margin-bottom: 10px;"><script>document.write('Dança'.toUpperCase());</script></button>		<p>Cia. de Dança de São José e Orquestra Joseense abrem o Festidança 2026</p>                </a></div><div style="padding-right: 18px;">		<a href="/fccr/noticias/fundacao-cultural-abre-inscricoes-para-editais-do-pnab?categoria=Fomento">		<figure>			<img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8893.webp" alt="">		</figure>		<button type="button" class="btn btn-primary btn-sm Fomento" style="margin-bottom: 10px;"><script>document.write('Fomento'.toUpperCase());</script></button>		<p>Fundação Cultural abre inscrições para editais do PNAB</p>                </a></div><div style="padding-right: 18px;">		<a href="/fccr/noticias/domingo-no-parque-recebe-espetaculo-sonhos-de-francisco?categoria=Teatro">		<figure>			<img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8860.webp" alt="">		</figure>		<button type="button" class="btn btn-primary btn-sm Teatro" style="margin-bottom: 10px;"><script>document.write('Teatro'.toUpperCase());</script></button>		<p>Domingo no Parque recebe espetáculo ‘Sonhos de Francisco’</p>                </a></div><div style="padding-right: 18px;">		<a href="/fccr/noticias/peca-coracao-denunciador-entra-em-cartaz-no-no-cet?categoria=Teatro">		<figure>			<img class="img-responsive" src="/fccr/cache/imagens/institucional_imagem_pq_Institucional_id_8855.webp" alt="">		</figure>		<button type="button" class="btn btn-primary btn-sm Teatro" style="margin-bottom: 10px;"><script>document.write('Teatro'.toUpperCase());</script></button>		<p>Peça ‘Coração Denunciador’ entra em cartaz no no CET</p>                </a></div>        </div>
+    </div>
+
+
+
+				</div>
+
+
+
+
+
+
+
+
+
+            </section>
+
+
+
+            <style type="text/css">
+
+	#footer input.form-control {
+
+		-webkit-border-top-left-radius: 0px !important; 
+
+		-webkit-border-bottom-left-radius: 0px !important;
+
+		-moz-border-radius-topleft: 6px;
+
+		-moz-border-radius-bottomleft: 6px;
+
+		border-top-left-radius: 0px !important;
+
+		border-bottom-left-radius: 0px !important;
+
+	}
+
+
+
+	#footer .input-group-btn .btn {
+
+		-webkit-border-top-right-radius: 0px !important;
+
+		-webkit-border-bottom-right-radius: 0px !important;
+
+		-moz-border-radius-topright: 6px;
+
+		-moz-border-radius-bottomright: 6px;
+
+		border-top-right-radius: 0px !important;
+
+		border-bottom-right-radius: 0px !important;
+
+	}
+
+
+
+	#footer li a {
+
+		color: #999;
+
+	}
+
+</style>
+
+
+
+<!-- modal dialog -->
+
+
+
+
+
+<a href="#" id="modal_rodape" data-toggle="modal" data-target="#myModal_rodape"></a>
+
+			
+
+<div class="modal fade" id="myModal_rodape" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+
+	<div class="modal-dialog">
+
+		<div class="modal-content">
+
+
+
+			<div class="modal-header"><!-- modal header -->
+
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+
+				<h4 class="modal-title" id="myModalLabel">Atenção!</h4>
+
+			</div><!-- /modal header -->
+
+
+
+			<!-- modal body -->
+
+			<div class="modal-body" id="modal-body">
+
+				<span id="rodape_mensagem"></span>
+
+			</div>
+
+			<!-- /modal body -->
+
+
+
+			<div class="modal-footer"><!-- modal footer -->
+
+				<button class="btn btn-default" data-dismiss="modal">Fechar</button> <!-- <button class="btn btn-primary">Save changes</button> -->
+
+			</div><!-- /modal footer -->
+
+
+
+		</div>
+
+	</div>
+
+</div>
+
+
+
+<style type="text/css">
+
+	.fonte_rodape {
+
+		color: #ddd;
+
+		font-size: 15px;
+
+	}
+
+</style>
+
+   
+
+
+
+<div id="footer" style="background-color: #D3D92B;">
+
+
+
+	<div class="container margin-top20">
+
+
+
+		<div class="row margin-top20" style="padding-bottom:0px; font-size: 13px;">
+
+
+
+
+
+			<div class="logo_footer text-left col-md-3 hidden-xs">
+
+
+
+				<h5 style="color:#333; margin-bottom:5px;"><strong><a href="">ESPAÇOS</a></strong></h5>
+
+				<p>
+
+				<a href="/fccr/espacos/casas-de-cultura">/// CASAS DE CULTURA</a><br>
+
+				<a href="/fccr/espacos/museus">/// MUSEUS</a><br>
+
+				<a href="/fccr/espacos/teatros">/// TEATROS</a><br>
+
+				<a href="/fccr/espacos/outros-espacos">/// OUTROS ESPAÇOS</a></p>
+
+				<!-- <a href="">/// ARQUIVO PÚBLICO</a></p> -->
+
+
+
+				
+
+				<!--<h5 style="color:#333;margin-top: 10px;"><strong><a href="http://www.fccr.sp.gov.br/phocadownload/2020/Prestacao_Contas/RelatoriodeGestao2017.2020.pdf" target="_blank">PROGRAMAÇÃO MENSAL</a></strong></h5>-->
+
+				
+				<!--<h5 style="color:#333;margin-top: 0px;"><strong><a href="http://www.fccr.sp.gov.br/phocadownload/2020/Prestacao_Contas/RelatoriodeGestao2017.2020.pdf" target="_blank">PROGRAMAÇÃO MENSAL</a></strong></h5>-->
+
+
+			</div>
+
+
+
+			<div class="logo_footer text-left col-md-3 hidden-xs" style="color:#333;">
+
+
+
+				<!--<h5 style="color:#333;margin-top: 0px;"><strong><a href="/fccr/ouvidoria">OUVIDORIA</a></strong></h5>-->
+
+				<!--<h5 style="color:#333;margin-top: 10px;"><strong><a href="/fccr/ouvidoria">FALE CONOSCO</a></strong></h5>-->
+
+
+				
+
+				<h5 style="color:#333;margin-top: 0px;"><strong><a href="https://fundacao.obaratec.com.br/apex/fundacao/f?p=839:1:10232240906371:::::" target="_blank">PORTAL TRANSPARÊNCIA</a></strong></h5>
+				
+				<p>
+
+				<a href="/fccr/editais/marco-regulatorio-das-organizacoes-da-sociedade-civil-mrosc">/// Marco Regulatório - MROSC</a><br>
+				<a href="https://fundacao.obaratec.com.br/ords/fundacao/f?p=839:54" target="_blank">/// Compras e Licitações</a><br>
+				<a href="https://fundacao.obaratec.com.br/ords/fundacao/f?p=839:47" target="_blank">/// Cotações</a><br>
+				
+				
+				</p>
+
+				<h5 style="color:#333;margin-top: 20px; margin-bottom:5px;"><strong><a href="/fccr/home/fomento">FOMENTO (LIF/FMC)</a></strong></h5>
+
+					<!-- <p>
+
+					<a href="/fccr/editais/fundo-municipal-de-cultura-fmc">/// FMC</a><br>
+
+					<a href="/fccr/editais/lei-de-incentivo-fiscal---lif">/// LIF</a><br>
+
+					</p> -->
+
+				<!-- <h5 style="color:#333;margin-top: 10px;"><strong><a href="/fccr/home/noticias" target="_blank">NOTÍCIAS</a></strong></h5> -->
+
+				<!-- <h5 style="color:#333; margin-top: 30px; margin-bottom:5px;"><strong><a href="/fccr/artistas">PORTAL DOS ARTISTAS</a></strong></h5>
+
+				<p>
+
+				<a href="/fccr/portal-dos-artistas/agenda">/// AGENDA</a><br>
+
+				 -->
+
+
+
+			</div>
+
+
+
+			<div class="logo_footer text-left col-md-3 hidden-xs">
+
+
+
+				<h5 style="color:#333;margin-top: 0px;"><strong><a href="http://www.fccr.sp.gov.br/portalcassianoricardo/" target="_blank">PORTAL CASSIANO RICARDO</a></strong></h5>
+
+<!-- 
+
+				<h5 style="color:#333; margin-bottom:5px;"><strong><a href="">SERVIÇOS</a></strong></h5>
+
+				<p><a href="/fccr/servicos/certificados">/// CERTIFICADOS</a><br>
+
+				<a href="/fccr/servicos/atestados">/// ATESTADOS</a></p>
+
+ -->
+
+				<h5 style="color:#333;margin-top: 10px;"><strong><a href="/fccr/inicio/avisos">EXTRANET</a></strong></h5>
+
+				<h5 style="color:#333;margin-top: 10px;"><strong><a href="/fccr/destaques/comphac" target="_blank">COMPHAC</a></strong></h5>
+
+				<h5 style="color:#333;margin-top: 10px;"><strong><a href="/fccr/destaques/sistema-municipal-de-cultura-smc" target="_self">SISTEMA MUNICIPAL DE CULTURA (SMC)</a></strong></h5>
+
+				
+
+
+
+			</div>
+
+
+
+
+
+			<div class="logo_footer text-left col-md-3 hidden-sm hidden-md hidden-lg">
+
+
+
+				<h5 style="color:#333; margin-bottom:5px;"><strong><a href="">ESPAÇOS</a></strong></h5>
+
+				<p>
+
+				<a href="/fccr/espacos/casas-de-cultura">/// CASAS DE CULTURA</a><br>
+
+				<a href="/fccr/espacos/museus">/// MUSEUS</a><br>
+
+				<!-- <a href="/fccr/outros-espacos/teatro-municipal-de-sao-jose-dos-campos">/// TEATROS</a><br>-->
+				
+				<a href="/fccr/espacos/teatros">/// TEATROS</a><br>
+
+				<a href="/fccr/espacos/outros-espacos">/// OUTROS ESPAÇOS</a><br>
+
+				<!-- <a href="">/// ARQUIVO PÚBLICO</a></p> -->
+
+				<!--<h5 style="color:#333;margin-top: 0px;"><strong><a href="http://www.fccr.sp.gov.br/phocadownload/2020/Prestacao_Contas/RelatoriodeGestao2017.2020.pdf" target="_blank">PROGRAMAÇÃO MENSAL</a></strong></h5>-->
+
+				<h5 style="color:#333;margin-top: 10px;"><strong><a href="https://fundacao.obaratec.com.br/apex/fundacao/f?p=839:1:10232240906371:::::" target="_blank">PORTAL TRANSPARÊNCIA</a></strong></h5>
+				
+
+				<a href="/fccr/editais/marco-regulatorio-das-organizacoes-da-sociedade-civil-mrosc">/// Marco Regulatório - MROSC</a><br>
+				<a href="https://fundacao.obaratec.com.br/ords/fundacao/f?p=839:54" target="_blank">/// Compras e Licitações</a><br>
+				<a href="https://fundacao.obaratec.com.br/ords/fundacao/f?p=839:47" target="_blank">/// Cotações</a><br>
+				
+				
+
+
+				<h5 style="color:#333;margin-top: 20px;"><strong><a href="/fccr/home/fomento">FOMENTO (LIF/FMC)</a></strong></h5>
+
+				<!--<p>
+
+				<a href="/fccr/editais/fundo-municipal-de-cultura-fmc">/// FMC</a><br>
+
+				<a href="/fccr/editais/lei-de-incentivo-fiscal---lif">/// LIF</a><br>
+
+				</p> -->
+				
+				<!-- <h5 style="color:#333;margin-top: 10px;"><strong><a href="/fccr/ouvidoria">OUVIDORIA</a></strong></h5> -->
+
+				<!-- <h5 style="color:#333;margin-top: 10px;"><strong><a href="/fccr/home/noticias" target="_blank">NOTÍCIAS</a></strong></h5> -->
+
+				<!-- <h5 style="color:#333;margin-top: 10px;"><strong><a href="/fccr/e-sic/">ACESSO À INFORMAÇÃO</a></strong></h5> -->
+
+				<h5 style="color:#333;margin-top: 10px;"><strong><a href="http://www.fccr.sp.gov.br/portalcassianoricardo/" target="_blank">PORTAL CASSIANO RICARDO</a></strong></h5>
+
+				<h5 style="color:#333;margin-top: 10px;"><strong><a href="/fccr/destaques/comphac" target="_blank">COMPHAC</a></strong></h5>
+
+				<h5 style="color:#333;margin-top: 10px;"><strong><a href="/fccr/inicio/avisos">EXTRANET</a></strong></h5>
+
+				
+
+				<!-- <h5 style="color:#333; margin-top: 10px;"><strong><a href="/fccr/artistas">PORTAL DOS ARTISTAS</a></strong></h5> -->
+
+
+
+			</div>
+
+
+
+			<div class="logo_footer text-right col-md-3" style="color:#333; font-size: 10px; line-height: 15px;">
+
+
+
+				<strong>FUNDAÇÃO CULTURAL CASSIANO RICARDO</strong><br>
+
+				Av. Olivo Gomes, 100, Parque da Cidade, Santana<br>
+
+				São José dos Campos/SP - CEP 12211-115<br>
+
+				(12) 3924.7300
+
+
+
+<!-- 
+
+				<div class="margin-top40">
+
+					<span id="social_rodape" class="block text-right">
+
+						<a href="https://pt-br.facebook.com/fccrsjc" target="_blank" title="Facebook" class="social fa fa-facebook" style="margin-left: 20px !important;"></a>
+
+						<a href="https://www.youtube.com/channel/UCdicduFK-wYlOmncek9-niQ" target="_blank" title="TV fccr" class="social fa fa-youtube"></a>
+
+						<a href="https://twitter.com/fccr" target="_blank" title="Twitter" class="social fa fa-twitter"></a>
+
+						<a href="https://www.instagram.com/fccr" target="_blank" title="Instagram" class="social fa fa-instagram"></a>
+
+					</span>
+
+				</div>
+
+ -->
+
+				<div class="margin-top30">
+
+				<img src="/fccr/assets/images/logo-rodape.JPG" style="max-width:100px;" border="0" alt="">
+
+				<a href="https://sjc.sp.gov.br/" target="_blank"><img src="/fccr/assets/images/sao-jose.png" style="max-width:100px;margin-left:20px;" border="0" alt=""></a>
+
+				</div>
+
+
+
+
+
+			</div>
+
+
+
+			<!-- /col #4 -->
+
+
+
+		</div>
+
+	</div>
+
+
+
+	<hr />
+
+
+
+	<div class="copyright">
+
+		<div class="container text-center fsize12">
+
+		
+		
+		<!-- | <a href="#">Termos de Uso</a> | <a href="#">Documentação</a> -->
+
+		
+		© FUNDAÇÃO CULTURAL CASSIANO RICARDO. Todos os direitos reservados | <A href="http://www.dna.com.br" target="_blank">DNA Tecnologia LTDA</A>
+
+		</div>
+
+	</div>
+
+
+
+	<a href="#" id="toTop"></a>
+
+	<!-- 
+
+	<form method="post" action="">
+
+		Palavra chave:&nbsp;<input type="text" name="palavra" style="height:20px;">&nbsp;<input type="submit" value="Buscar no portal" class="Atualiza_button">
+
+	</form>
+
+ 	</DIV>
+
+	-->
+
+</div>
+
+
+
+
+
+<script>
+
+		 $(document).ready(function(){        
+
+			var originalSize = $('div').css('font-size');
+
+			var count_click_plus = 0;
+
+			var count_click_minus = 2;
+
+			
+
+			// reset        
+
+			$(".resetMe").click(function(){           
+
+				$('div').css('font-size', originalSize);
+
+				count_click_plus = 0;
+
+				count_click_minus = 2;
+
+			});
+
+		 
+
+			// Increase Font Size          
+
+			$(".increase").click(function(){
+
+				if (count_click_plus < 2)
+
+				{
+
+					var currentSize = $('div').css('font-size');         
+
+					var currentSize = parseFloat(currentSize)*1.2;          
+
+					$('div').css('font-size', currentSize);
+
+					count_click_plus++;
+
+					return false;
+
+				}          
+
+			});        
+
+		  
+
+			// Decrease Font Size       
+
+			$(".decrease").click(function(){
+
+				if (count_click_minus > 0)
+
+				{
+
+					var currentFontSize = $('div').css('font-size');        
+
+					var currentSize = $('div').css('font-size');        
+
+					var currentSize = parseFloat(currentSize)*0.8;        
+
+					$('div').css('font-size', currentSize); 
+
+					count_click_minus--;
+
+					return false;
+
+				}
+
+			});         
+
+		});
+
+
+
+		// Alto contraste
+
+		$('.alto-contraste').click(function() {
+
+			if ($('*').hasClass('alto_cont')) {
+
+				$('*').removeClass('alto_cont');
+
+			} else {
+
+				$('*').addClass('alto_cont');
+
+			}
+
+		});
+
+
+
+		/*Jquery - Menu lateral*/
+
+		$(".sublinks").hide();
+
+		$(".menu_link").click(function () {    //$(".menu_link").mouseover(function () {
+
+			
+
+			$header = $(this);
+
+			//getting the next element
+
+			$content = $header.next();
+
+			//open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
+
+			$content.slideToggle(600);
+
+
+
+		});
+
+
+
+
+
+		function atualiza_mouseover(elemento) { 
+
+			$(elemento).css("border", "2px");
+
+			$(elemento).css("border-style", "solid");
+
+			$(elemento).css("border-color", "#e08569");
+
+			//$(elemento).addClass("glyphicon glyphicon-cog");
+
+			//$(elemento).prepend('<div class="menu_edit glyphicon glyphicon-cog" style="float:left; position: absolute; background: #e08569;"></div>');
+
+		};
+
+
+
+		function atualiza_mouseout(elemento) { 
+
+			$(elemento).css("border", "none");
+
+			//$(elemento).removeClass("glyphicon glyphicon-cog");
+
+			//$(".menu_edit").empty();
+
+		};
+
+			
+
+</script>
+
+
+
+
+
+<!-- JAVASCRIPT FILES -->
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<script type="text/javascript" src="/fccr/assets/plugins/masonry.js"></script>
+
+
+
+<script type="text/javascript" src="/fccr/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="/fccr/assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+<script type="text/javascript" src="/fccr/assets/plugins/owl-carousel/owl.carousel.min.js"></script>
+
+<script type="text/javascript" src="/fccr/assets/plugins/knob/js/jquery.knob.js"></script>
+
+<script type="text/javascript" src="/fccr/assets/plugins/flexslider/jquery.flexslider-min.js"></script>
+
+
+
+<!-- REVOLUTION SLIDER -->
+
+<script type="text/javascript" src="/fccr/assets/plugins/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
+
+<script type="text/javascript" src="/fccr/assets/plugins/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
+
+<script type="text/javascript" src="/fccr/assets/js/revolution_slider.js"></script>
+
+
+
+<script type="text/javascript" src="/fccr/assets/js/scripts.js"></script>
+
+
+
+<script src="/fccr/JavaScript/generic.js" type="text/JavaScript"></script> 
+
+<script src="/fccr/JavaScript/funcoes.js" type="text/JavaScript"></script>
+
+<script src="/fccr/Manager/crop/dist/jquery.cropit.js"></script>
+
+
+
+<script>
+
+
+
+	jQuery("document").ready(function($){
+
+
+
+		var nav = $('.menu_fixo');
+
+
+
+		$(window).scroll(function () {
+
+			if ($(this).scrollTop() > 0) {
+
+				nav.addClass("f-nav");
+
+			} else {
+
+				nav.removeClass("f-nav");
+
+			}
+
+		});
+
+
+
+	});	
+
+</script>
+
+
+
+ 
+
+
+
+<!-- Política de Cookies -->
+
+
+
+<style>
+
+	.cookies-p {
+
+		margin: 0px;
+
+		text-align: center;
+
+	}
+
+
+
+	.cookies-container {
+
+		color: #000000;
+
+		opacity: 2;
+
+		position: fixed;
+
+		width: 100%;
+
+		bottom: 2rem;
+
+		z-index: 1000;
+
+		text-align: center !important;
+
+	}
+
+
+
+	.cookies-content {
+
+		text-align: center !important;
+
+		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+
+		background: #eee;
+
+		width: 100%;
+
+		max-width: 1120px;
+
+		border-radius: 5px;
+
+		padding: 1rem;
+
+		margin: 0 auto;
+
+		display: grid;
+
+		grid-template-columns: 1fr auto;
+
+		gap: 0.5rem;
+
+		opacity: 0.2;
+
+		transform: translateY(1rem);
+
+		animation: slideUp 0.5s forwards;
+
+	}
+
+
+
+	.cookie-politics {
+
+		text-decoration: none;
+
+		cursor: pointer;
+
+	}
+
+
+
+	.cookie-politics:hover {
+
+		text-decoration: underline;
+
+	}
+
+
+
+	@keyframes slideUp {
+
+		to {
+
+			transform: initial;
+
+			opacity: initial;
+
+		}
+
+	}
+
+
+
+	.cookies-pref label {
+
+		margin-right: 1rem;
+
+	}
+
+
+
+	.cookies-save {
+
+		grid-column: 1;
+
+		grid-row: 2;
+
+		margin: 0 auto !important;
+
+		text-align: center !important;
+
+		max-width: 200px;
+
+		background: #008379;
+
+		color: white;
+
+		cursor: pointer;
+
+		border: none;
+
+		border-radius: 5px;
+
+		padding: 0.8rem 1rem;
+
+		font-size: 2rem;
+
+	}
+
+
+
+	/* .cookies-reject {
+
+		grid-column: 2;
+
+		grid-row: 2;
+
+		background: #00445e;
+
+		color: white;
+
+		cursor: pointer;
+
+		border: none;
+
+		border-radius: 5px;
+
+		padding: 1.2rem 1rem;
+
+		font-size: 2rem;
+
+	} */
+
+
+
+	@media (max-width: 500px) {
+
+	.cookies-content {
+
+		grid-template-columns: 1fr;
+
+	}
+
+	.cookies-save {
+
+		grid-column: 1;
+
+		grid-row: 1;
+
+		}
+
+	.cookies-reject {
+
+		grid-column: 1;
+
+		grid-row: 2;
+
+		}
+
+	}
+
+
+
+	* {
+
+		box-sizing: border-box;
+
+	}
+
+
+
+	.popup-wrapper {
+
+		background: rgba(0,0,0,.5);
+
+		position: fixed;
+
+		top: 0;
+
+		left: 0;
+
+		width: 100%;
+
+		height: 100%;
+
+		display: none;
+
+	}
+
+
+
+	.popup {
+
+		width: 100%;
+
+		max-width: 720px;
+
+		margin: 10% auto;
+
+		padding: 20px;
+
+		background: white;
+
+		position: relative;
+
+		border-radius: 10px;
+
+		overflow-y: auto;
+
+		height: 500px;
+
+	}
+
+
+
+	.popup-link{
+
+		color: white;
+
+		cursor: pointer;
+
+		padding: 6px 10px;
+
+		text-decoration: none;
+
+		background: #00445e;
+
+	}
+
+
+
+	.popup-close {
+
+		position: absolute;
+
+		top: 5px;
+
+		right: 10px;
+
+		cursor: pointer;
+
+		border: solid 1px #00445e;
+
+		background: #00445e;
+
+		border-radius: 100px;
+
+		color: white;
+
+		padding: 5px 10px 5px 10px;
+
+	}
+
+
+
+	@media (max-width: 500px){
+
+		.cookies-content {
+
+			grid-template-columns: 1fr;
+
+		}
+
+		.cookies-save {
+
+			grid-column: 1;
+
+			grid-row: 3;
+
+		}
+
+		.cookies-continue {
+
+			grid-column: 1;
+
+			grid-row: 4;
+
+		}
+
+	}
+
+</style>
+
+
+
+
+
+
+
+<div class="cookies-container">
+
+	<div class="cookies-content">
+
+		<!-- <div class="popup-wrapper">
+
+			<div class="popup">
+
+				<div class="popup-close"><strong>x</strong></div>
+
+					<div class="popup-content">
+
+						<h2>POLÍTICA DE COOKIES DA PRÉ-SAL PETRÓLEO S.A. (PPSA)</h2>
+
+						<p>Nós, da Pré-Sal Petróleo, (PPSA), acreditamos que a privacidade do indivíduo é um direito humano fundamental. Por isso, apresentamos aqui a nossa Política de Cookies, para que todos os USUÁRIOS (visitantes) do nosso site tenham conhecimento das regras relacionadas à forma como coletamos e processamos seus dados pessoais, de acordo com as leis vigentes no Brasil e com as melhores práticas de governança de dados.</p>
+
+						<p>Esta Política tem como objetivo descrever as práticas que seguimos para respeitar a privacidade de todos os visitantes do nosso site.</p>
+
+						<p>Os dados pessoais são informações relacionadas ao Usuário e que o identificam, direta ou indiretamente. Nosso site usa cookies para melhorar seu desempenho e oferecer uma experiência de navegação mais agradável aos visitantes. Algumas áreas do nosso site usam cookies para entender mais sobre suas preferências e para oferecer uma experiência de navegação personalizada.</p>
+
+						<p>Se você tiver dúvidas sobre o uso de seus dados pessoais em nosso site, entre em contato conosco através do canal de comunicação <a href="matilto: dpo@ppsa.com.br">dpo@ppsa.com.br</a>.</p>
+
+						<h3>O QUE É UM COOKIE?</h3>
+
+						<p>Um cookie é uma tecnologia que permite ao nosso site (portal/app) armazenar tokens de informação (um 'identificador') no seu navegador, usados apenas pelo nosso site.  Os cookies não são usados para determinar a identidade pessoal de quem está visitando nosso site.</p>
+
+						<p>Em determinadas páginas do nosso site, os cookies são usados para nos ajudar a rastrear seus interesses enquanto você navega na Internet, para que possamos entender o que é importante para você, mas sem jamais identificá-lo.</p>
+
+						<h3>COMO VOCÊ DESABILITA OS COOKIES?</h3>
+
+						<p>Você pode configurar seu navegador para aceitar ou excluir cookies antes deles serem instalados, conforme o caso. Você também pode remover regularmente os cookies do seu terminal, através do seu navegador.</p>
+
+						<p>Em relação aos cookies de medição de público, você pode desativá-los a partir dos seguintes links:</p>
+
+						<p>•	Para os cookies do "Google Analytics", você pode fazer o download do módulo acessível a partir do endereço a seguir para desativar esses cookies: <a href="https://tools.google.com/dlpage/gaoptout/" target="_blank">https://tools.google.com/dlpage/gaoptout/</a></p>
+
+						<p>•	Para o Internet Explorer™: <a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies?ocid=IE10_about_cookies" target="_blank">https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies?ocid=IE10_about_cookies</a></p>
+
+						<p>•	Para o Safari™: <a href="http://support.apple.com/kb/HT1677?viewlocale=en_US" target="_blank">http://support.apple.com/kb/HT1677?viewlocale=en_US</a></p>
+
+						<p>•	Para o Chrome™: <a href="https://support.google.com/chrome/answer/95647?hl=en" target="_blank">https://support.google.com/chrome/answer/95647?hl=en</a></p>
+
+						<p>•	Para o Firefox™: <a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank">https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences</a></p>
+
+						<p>•	Para o Opera™: <a href="http://help.opera.com/Windows/10.20/en/cookies.html" target="_blank">http://help.opera.com/Windows/10.20/en/cookies.html</a></p>
+
+						<p>•	Para mais informações sobre a configuração de cookies: <a href="http://www.aboutcookies.org/" target="_blank">http://www.aboutcookies.org/</a></p>
+
+						<h3>QUE COOKIES USAMOS?</h3>
+
+						<p>Usamos cookies e outras tecnologias de rastreamento para os seguintes fins:</p>
+
+						<p>•	Ajudar você na navegação;</p>
+
+						<p>•	Medir o uso do site (estatísticas e player de vídeo);</p>
+
+						<p>•	Utilizamos apenas Cookies de desempenho;</p>
+
+						<h3>DEFINIÇÃO DE COOKIES DE DESEMPENHO</h3>
+
+						<p>Alguns cookies nos ajudam com o desempenho e design do nosso site. Isso nos permite medir quantas vezes uma página foi visitada e saber quais páginas são as mais e menos populares e ver como os visitantes se movimentam pelo site. Todas as informações que esses cookies coletam são anônimas. Se você não permitir esses cookies, não saberemos quando você visitou nosso site.</p>
+
+						<h3>ALTERAÇÕES A ESTA POLÍTICA DE COOKIES</h3>
+
+						<p>A PPSA pode alterar esta Política de Cookies conforme necessário. Em caso de alterações, as novas práticas de privacidade deverão ser implementadas em até 30 dias úteis. Verifique esta página periodicamente se você quiser monitorar as alterações.</p>
+
+						<p>Se forem realizadas alterações significativas, notificaremos você.</p>
+
+						<h3>ENTRE EM CONTATO</h3>
+
+						<p>Se você tiver dúvidas ou não achar que suas preocupações foram tratadas nesta Política, entre em contato conosco, enviando um e-mail para o seguinte endereço: <a href="mailto: dpo@ppsa.com.br">dpo@ppsa.com.br</a>.</p>
+
+						<p>Data da última atualização: 09/11/2021</p>
+
+						<a class="popup-link" href="#">Saiba mais</a>
+
+					</div>
+
+				</div>
+
+			</div> -->
+
+	<p class="cookies-p">A Fundação Cultural Cassiano Ricardo utiliza cookies e tecnologias semelhantes para fornecer recursos essenciais na proteção de dados.<br>
+
+	Ao continuar navegando nesta página, você concorda com nossas <button type="button" class="cookie-politics"><strong>Políticas de uso de cookies e termos de uso</strong></button>.</p>
+
+	<div class="cookies-pref">
+
+		<label><input class="hide" type="checkbox" checked data-function="aceito"></label>
+
+		<!-- <label><input class="hide" type="checkbox" checked data-function="continuoSemConsentimento"></label> -->
+
+	</div>
+
+	<button class="cookies-save">Entendi e aceito</button>
+
+	<!-- <button class="cookies-reject">Continue sem consentimento</button> -->
+
+	</div>
+
+</div>
+
+
+
+<script>
+
+	const button = document.querySelector('.cookie-politics');
+
+	const popup = document.querySelector('.popup-wrapper');
+
+	const closeButton = document.querySelector('.popup-close');
+
+
+
+	button.addEventListener('click', () => {
+
+		popup.style.display = 'block';
+
+	});
+
+
+
+	closeButton.addEventListener('click', () =>{
+
+		popup.style.display = 'none';
+
+	});
+
+
+
+	popup.addEventListener('click', event => {
+
+		const classNameOfClickedElement = event.target.classList[0];
+
+		if(classNameOfClickedElement === 'popup-close' || classNameOfClickedElement === 'popup-link' || classNameOfClickedElement === 'popup-wrapper'){
+
+			popup.style.display = 'none';
+
+		}
+
+	});
+
+
+
+</script>
+
+
+
+<script>
+
+	function cookies(functions) {
+
+		const container = document.querySelector('.cookies-container');
+
+		const save = document.querySelector('.cookies-save');
+
+		//const reject = document.querySelector('.cookies-reject');
+
+		if (!container || !save) return null;
+
+
+
+		const localPref = JSON.parse(window.localStorage.getItem('cookies-pref'));
+
+		if (localPref) activateFunctions(localPref);
+
+
+
+		function getFormPref() {
+
+			return [...document.querySelectorAll('[data-function]')]
+
+			.filter((el) => el.checked)
+
+			.map((el) => el.getAttribute('data-function'));
+
+		}
+
+
+
+		function activateFunctions(pref) {
+
+			pref.forEach((f) => functions[f]());
+
+			container.style.display = 'none';
+
+			window.localStorage.setItem('cookies-pref', JSON.stringify(pref));
+
+		}
+
+
+
+		function handleSave() {
+
+			const pref = getFormPref();
+
+			activateFunctions(pref);
+
+		}
+
+
+
+		save.addEventListener('click', handleSave);
+
+		//reject.addEventListener('click', handleSave);
+
+		}
+
+
+
+		function aceito() {
+
+		console.log('Função de aceitar');
+
+		}
+
+
+
+		// function continuoSemConsentimento() {
+
+		// console.log('Função de Continuar sem consentimento');
+
+		// }
+
+
+
+		cookies({
+
+		aceito,
+
+		//continuoSemConsentimento,
+
+		});
+
+</script>
+
+		<script src="https://plugin.handtalk.me/web/latest/handtalk.min.js"></script>
+
+		<script>
+
+		var ht = new HT({
+
+		token: "f4f3669841bfecccc095fea9b866d098"
+
+		});
+
+		</script>
+        </div>
+
+    </div>
+
+</body>
+
+
+
+</html>
