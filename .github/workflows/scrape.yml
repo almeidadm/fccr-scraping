@@ -23,12 +23,11 @@ concurrency:
   group: scrape
   cancel-in-progress: false
 
-permissions:
-  contents: write
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # commit do índice/feed de volta no repositório
     steps:
       - uses: actions/checkout@v4
 
@@ -62,3 +61,24 @@ jobs:
             git commit -m "chore: atualiza índice e feed ($(date -u +%Y-%m-%dT%H:%MZ))"
             git push
           fi
+
+      - name: Empacota public/ para o GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  # Publica o conteúdo de public/ (inclui feed.xml) no GitHub Pages.
+  # Requer Settings → Pages → Source = "GitHub Actions".
+  deploy-pages:
+    needs: scrape
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publica no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
