@@ -1,6 +1,6 @@
 {
-  "count": 2500,
-  "generated_at": "2026-05-28T03:43:42+00:00",
+  "count": 2518,
+  "generated_at": "2026-06-11T20:43:42+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -24811,6 +24811,186 @@
       "summary": "O Fundo Municipal de Cultura de São José dos Campos, da Fundação Cultural Cassiano Ricardo, irá oferecer de 1 a 9 de junho um plantão de dúvidas para atendimento aos proponentes interessados nos editais FMC 2026.",
       "title": "FMC oferece Plantão de Dúvidas para editais",
       "url": "https://fccr.sp.gov.br/fccr/noticias-destaque-03/fmc-oferece-plantao-de-duvidas-para-editais?categoria="
+    },
+    "8972": {
+      "categoria": "Dança",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "8972",
+      "published_at": "2026-05-28",
+      "slug": "mostras-competitivas-movimentam-o-fim-de-semana-pelo-36-festidanca-",
+      "summary": "A 36º Festidança segue movimentando São José dos Campos com uma programação artística entre até 7 de junho. O evento reúne grupos, companhias e artistas de diferentes estilos em apresentações competitivas, espetáculos convidados e atividades formativas.",
+      "title": "Mostras competitivas movimentam o fim de semana pelo 36º Festidança",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/mostras-competitivas-movimentam-o-fim-de-semana-pelo-36-festidanca-?categoria=Dança"
+    },
+    "8975": {
+      "categoria": "Cinema",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "8975",
+      "published_at": "2026-05-29",
+      "slug": "cine-santana-exibe-filmes-sobre-danca-na-programacao-de-junho",
+      "summary": "O Cine Santana, na região norte de São José dos Campos, exibe em junho as sessões de cinema gratuitas em parceria com o programa Pontos MIS.",
+      "title": "Cine Santana exibe filmes sobre dança na programação de junho",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cine-santana-exibe-filmes-sobre-danca-na-programacao-de-junho?categoria=Cinema"
+    },
+    "8978": {
+      "categoria": "Teatro",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "8978",
+      "published_at": "2026-05-29",
+      "slug": "temporada-cet-define-os-2-espetaculos-da-programacao-de-junho",
+      "summary": "O CET (Centro de Estudos Teatrais) definiu os dois espetáculos que irão compor a programação de junho.",
+      "title": "Temporada CET define os 2 espetáculos da programação de junho",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/temporada-cet-define-os-2-espetaculos-da-programacao-de-junho?categoria=Teatro"
+    },
+    "8987": {
+      "categoria": "Teatro",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "8987",
+      "published_at": "2026-06-01",
+      "slug": "fundacao-cultural-abre-as-inscricoes-para-o-festivale",
+      "summary": "A Fundação Cultural Cassiano Ricardo abriu as inscrições para o 40º Festivale, que acontece em São José dos Campos de 4 a 14 de novembro.",
+      "title": "Fundação Cultural abre as inscrições para o Festivale",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-abre-as-inscricoes-para-o-festivale?categoria=Teatro"
+    },
+    "8991": {
+      "categoria": "Dança",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "8991",
+      "published_at": "2026-06-02",
+      "slug": "workshop-convida-mulheres-para-vivencia-de-corpo-presenca-e-expressao",
+      "summary": "O Centro Cultural Clemente Gomes, na sede da Fundação Cultural Cassiano Ricardo, recebe nos próximos dias 8 e 9 de junho, às 19h, o workshop “Corpo, Presença e Expressão”, ministrado por Lili Grammont.",
+      "title": "Workshop convida mulheres para vivência de corpo, presença e expressão",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/workshop-convida-mulheres-para-vivencia-de-corpo-presenca-e-expressao?categoria=Dança"
+    },
+    "8992": {
+      "categoria": "Dança",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "8992",
+      "published_at": "2026-06-02",
+      "slug": "36º-festidanca-oferece-programacao-variada-neste-feriado-prolongado",
+      "summary": "Quem ficar em São José dos Campos durante o feriado prolongado de Corpus Christi poderá acompanhar a programação do 36º Festidança, que acontece até o próximo domingo (7) na cidade.",
+      "title": "36º Festidança oferece programação variada neste feriado prolongado",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/36º-festidanca-oferece-programacao-variada-neste-feriado-prolongado?categoria=Dança"
+    },
+    "8995": {
+      "categoria": "Música",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "8995",
+      "published_at": "2026-06-02",
+      "slug": "shows-de-jazz-movimentam-o-festival-mais-gastronomia-neste-fim-de-semana",
+      "summary": "O Parque Vicentina Aranha receberá, neste sábado (6) e domingo (7), às 14h, os shows de “Ana Morena e Samjazz Trio” e “Jazz Station com Benoit Decharneux”. As apresentações, do projeto Circulação, integram o festival Mais Gastronomia, um dos maiores festivais de gastronomia do Vale do Paraíba.",
+      "title": "Shows de jazz movimentam o Festival Mais Gastronomia neste fim de semana",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/shows-de-jazz-movimentam-o-festival-mais-gastronomia-neste-fim-de-semana?categoria=Música"
+    },
+    "8999": {
+      "categoria": "Teatro",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "8999",
+      "published_at": "2026-06-03",
+      "slug": "programacao-do-domingo-no-parque-inclui-circo-diversao-e-teatro",
+      "summary": "Durante o mês de junho, o projeto Domingo no Parque, realizado todos os domingos, às 15h, recebe três apresentações na Arena do Parque da Cidade.\nTodas as apresentações são livres para todos os públicos. Caso chova, as atividades serão transferidas para o Centro Cultural Clemente Gomes (Sede da FCCR).",
+      "title": "Programação do Domingo no Parque inclui circo, diversão e teatro",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/programacao-do-domingo-no-parque-inclui-circo-diversao-e-teatro?categoria=Teatro"
+    },
+    "9001": {
+      "categoria": "Dança",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "9001",
+      "published_at": "2026-06-03",
+      "slug": "encerramento-do-festidanca-tera-cia-de-ballet-dalal-achcar-do-rio-de-janeiro",
+      "summary": "O fechamento do 36º Festidança, neste domingo (7), às 20h, levará ao palco do Teatro Municipal a Companhia Ballet Dalal Achcar, do Rio de Janeiro.",
+      "title": "Encerramento do Festidança terá Cia de Ballet Dalal Achcar, do Rio de Janeiro",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/encerramento-do-festidanca-tera-cia-de-ballet-dalal-achcar-do-rio-de-janeiro?categoria=Dança"
+    },
+    "9003": {
+      "categoria": "Cultura Popular",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "9003",
+      "published_at": "2026-06-08",
+      "slug": "fundacao-cultural-divulga-programacao-da-17-festa-do-tropeiro",
+      "summary": "O distrito de São Francisco Xavier recebe, nos dias 26, 27 e 28 de junho, a 17ª edição Festa do Tropeiro. A programação do evento, que inclui culinária típica e músicas regionais, foi divulgada pela Fundação Cultural Cassiano Ricardo nesta quarta-feira (3).",
+      "title": "Fundação Cultural divulga programação da 17ª Festa do Tropeiro",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-divulga-programacao-da-17-festa-do-tropeiro?categoria=Cultura Popular"
+    },
+    "9005": {
+      "categoria": "Cultura Popular",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "9005",
+      "published_at": "2026-06-08",
+      "slug": "vivencia-sertaneja-ganha-edicao-especial-com-festa-junina",
+      "summary": "A Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, realiza uma edição especial da Vivência Sertaneja na próxima sexta-feira (12), às 18h. Uma Festa Junina Comunitária vai festejar a cultura popular e as tradições juninas.",
+      "title": "Vivência Sertaneja ganha edição especial com Festa Junina",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-ganha-edicao-especial-com-festa-junina?categoria=Cultura Popular"
+    },
+    "9007": {
+      "categoria": "Cultura Popular",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "9007",
+      "published_at": "2026-06-08",
+      "slug": "arraia-dos-avos-agita-o-distrito-de-eugenio-de-melo-nesta-sexta-feira",
+      "summary": "O inverno chegou e, com ele, começa a temporada de festas juninas e arraiais. A Casa de Cultura Rancho do Tropeiro, em Eugênio de Melo, realiza o tradicional Arraiá dos Avós nesta sexta-feira (12), a partir das 19h.",
+      "title": "Arraiá dos Avós agita o distrito de Eugênio de Melo nesta sexta-feira",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/arraia-dos-avos-agita-o-distrito-de-eugenio-de-melo-nesta-sexta-feira?categoria=Cultura Popular"
+    },
+    "9008": {
+      "categoria": "Cinema",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "9008",
+      "published_at": "2026-06-08",
+      "slug": "cine-do-centro-exibe-fifi-no-museu-municipal-",
+      "summary": "O Cine do Centro de junho exibe o filme francês “Fifi”, com sessão única na próxima quarta-feira (17), às 19h, no auditório do Museu Municipal, região central de São José dos Campos.",
+      "title": "Cine do Centro exibe ‘Fifi’ no Museu Municipal",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-fifi-no-museu-municipal-?categoria=Cinema"
+    },
+    "9009": {
+      "categoria": "Teatro",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "9009",
+      "published_at": "2026-06-08",
+      "slug": "teatro-municipal-recebe-autobiografia-autorizada-com-paulo-betti-no-proximo-dia-19-",
+      "summary": "O Teatro Municipal de São José dos Campos recebe, no próximo dia 19 de junho, às 20h, a peça Autobiografia Autorizada, com texto e atuação de Paulo Betti.",
+      "title": "Teatro Municipal recebe ‘Autobiografia Autorizada’, com Paulo Betti, no próximo dia 19",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/teatro-municipal-recebe-autobiografia-autorizada-com-paulo-betti-no-proximo-dia-19-?categoria=Teatro"
+    },
+    "9023": {
+      "categoria": "Interartes",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "9023",
+      "published_at": "2026-06-10",
+      "slug": "21-semana-chico-triste-comeca-nesta-quinta-feira",
+      "summary": "A 21ª edição da Semana Chico Triste, que acontece anualmente na Casa de Cultura Chico Triste, na Vila Tesouro, região leste de São José dos Campos, começa nesta quinta (11) com uma programação que inclui apresentações e workshop até o dia 18.",
+      "title": "21ª Semana Chico Triste começa nesta quinta-feira",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/21-semana-chico-triste-comeca-nesta-quinta-feira?categoria=Interartes"
+    },
+    "9024": {
+      "categoria": "Música",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "9024",
+      "published_at": "2026-06-10",
+      "slug": "orquestra-joseense-exalta-a-musica-de-concerto-brasileira-na-proxima-quarta",
+      "summary": "Com nomes de peso no repertório, a Orquestra Joseense sobe ao palco do Teatro Municipal, na próxima quarta-feira (17), às 20h, para um concerto que exalta a música de concerto brasileira contemporânea.",
+      "title": "Orquestra Joseense exalta a música de concerto brasileira na próxima quarta",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/orquestra-joseense-exalta-a-musica-de-concerto-brasileira-na-proxima-quarta?categoria=Música"
+    },
+    "9026": {
+      "categoria": "Dança",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "9026",
+      "published_at": "2026-06-11",
+      "slug": "fccr-convida-grupos-e-escolas-de-danca-para-espetaculo-de-aniversario-da-cidade",
+      "summary": "A Fundação Cultural Cassiano Ricardo e a Cia de Dança de São José dos Campos convidam grupos e escolas de dança para participarem do espetáculo em comemoração ao aniversário de São José dos Campos, que acontece em 12 de julho, às 19h, no Teatro Municipal, região central da cidade.",
+      "title": "FCCR convida grupos e escolas de dança para espetáculo de aniversário da cidade",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/fccr-convida-grupos-e-escolas-de-danca-para-espetaculo-de-aniversario-da-cidade?categoria=Dança"
+    },
+    "9028": {
+      "categoria": "Interartes",
+      "first_seen": "2026-06-11T20:43:42+00:00",
+      "id": "9028",
+      "published_at": "2026-06-11",
+      "slug": "cine-santana-recebe-oficina-de-dublagem-na-proxima-segunda",
+      "summary": "O Cine Santana recebe, na próxima segunda-feira (15), às 18h, a Oficina Livre de Dublagem – Captação e Edição, promovida em parceria com o programa Pontos Mis.",
+      "title": "Cine Santana recebe oficina de dublagem na próxima segunda",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-oficina-de-dublagem-na-proxima-segunda?categoria=Interartes"
     },
     "951": {
       "categoria": "Música",
