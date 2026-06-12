@@ -5,16 +5,16 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 11 Jun 2026 20:43:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 14:10:09 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cine Santana recebe oficina de dublagem na próxima segunda</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-oficina-de-dublagem-na-proxima-segunda?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-oficina-de-dublagem-na-proxima-segunda?categoria=Interartes</guid>
+      <title>FCCR prorroga prazo de inscrição para editais da LIF e do FMC</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias-destaque-01/fccr-prorroga-prazo-de-inscricao-para-editais-da-lif-e-do-fmc?categoria=Gestão Cultural</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias-destaque-01/fccr-prorroga-prazo-de-inscricao-para-editais-da-lif-e-do-fmc?categoria=Gestão Cultural</guid>
       <pubDate>Thu, 11 Jun 2026 12:00:00 -0300</pubDate>
-      <description>O Cine Santana recebe, na próxima segunda-feira (15), às 18h, a Oficina Livre de Dublagem – Captação e Edição, promovida em parceria com o programa Pontos Mis.</description>
-      <category>Interartes</category>
+      <description>A Fundação Cultural Cassiano Ricardo prorrogou as inscrições para os editais do FMC (Fundo Municipal de Cultura) e da LIF (Lei de Incentivo Fiscal).</description>
+      <category>Gestão Cultural</category>
     </item>
     <item>
       <title>FCCR convida grupos e escolas de dança para espetáculo de aniversário da cidade</title>
@@ -25,12 +25,12 @@
       <category>Dança</category>
     </item>
     <item>
-      <title>Orquestra Joseense exalta a música de concerto brasileira na próxima quarta</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/orquestra-joseense-exalta-a-musica-de-concerto-brasileira-na-proxima-quarta?categoria=Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/orquestra-joseense-exalta-a-musica-de-concerto-brasileira-na-proxima-quarta?categoria=Música</guid>
-      <pubDate>Wed, 10 Jun 2026 12:00:00 -0300</pubDate>
-      <description>Com nomes de peso no repertório, a Orquestra Joseense sobe ao palco do Teatro Municipal, na próxima quarta-feira (17), às 20h, para um concerto que exalta a música de concerto brasileira contemporânea.</description>
-      <category>Música</category>
+      <title>Cine Santana recebe oficina de dublagem na próxima segunda</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-oficina-de-dublagem-na-proxima-segunda?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-oficina-de-dublagem-na-proxima-segunda?categoria=Interartes</guid>
+      <pubDate>Thu, 11 Jun 2026 12:00:00 -0300</pubDate>
+      <description>O Cine Santana recebe, na próxima segunda-feira (15), às 18h, a Oficina Livre de Dublagem – Captação e Edição, promovida em parceria com o programa Pontos Mis.</description>
+      <category>Interartes</category>
     </item>
     <item>
       <title>21ª Semana Chico Triste começa nesta quinta-feira</title>
@@ -41,27 +41,19 @@
       <category>Interartes</category>
     </item>
     <item>
-      <title>Teatro Municipal recebe ‘Autobiografia Autorizada’, com Paulo Betti, no próximo dia 19</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/teatro-municipal-recebe-autobiografia-autorizada-com-paulo-betti-no-proximo-dia-19-?categoria=Teatro</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/teatro-municipal-recebe-autobiografia-autorizada-com-paulo-betti-no-proximo-dia-19-?categoria=Teatro</guid>
-      <pubDate>Mon, 08 Jun 2026 12:00:00 -0300</pubDate>
-      <description>O Teatro Municipal de São José dos Campos recebe, no próximo dia 19 de junho, às 20h, a peça Autobiografia Autorizada, com texto e atuação de Paulo Betti.</description>
-      <category>Teatro</category>
+      <title>Orquestra Joseense exalta a música de concerto brasileira na próxima quarta</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/orquestra-joseense-exalta-a-musica-de-concerto-brasileira-na-proxima-quarta?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/orquestra-joseense-exalta-a-musica-de-concerto-brasileira-na-proxima-quarta?categoria=Música</guid>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 -0300</pubDate>
+      <description>Com nomes de peso no repertório, a Orquestra Joseense sobe ao palco do Teatro Municipal, na próxima quarta-feira (17), às 20h, para um concerto que exalta a música de concerto brasileira contemporânea.</description>
+      <category>Música</category>
     </item>
     <item>
-      <title>Cine do Centro exibe ‘Fifi’ no Museu Municipal</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-fifi-no-museu-municipal-?categoria=Cinema</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-fifi-no-museu-municipal-?categoria=Cinema</guid>
+      <title>Fundação Cultural divulga programação da 17ª Festa do Tropeiro</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-divulga-programacao-da-17-festa-do-tropeiro?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-divulga-programacao-da-17-festa-do-tropeiro?categoria=Cultura Popular</guid>
       <pubDate>Mon, 08 Jun 2026 12:00:00 -0300</pubDate>
-      <description>O Cine do Centro de junho exibe o filme francês “Fifi”, com sessão única na próxima quarta-feira (17), às 19h, no auditório do Museu Municipal, região central de São José dos Campos.</description>
-      <category>Cinema</category>
-    </item>
-    <item>
-      <title>Arraiá dos Avós agita o distrito de Eugênio de Melo nesta sexta-feira</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/arraia-dos-avos-agita-o-distrito-de-eugenio-de-melo-nesta-sexta-feira?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/arraia-dos-avos-agita-o-distrito-de-eugenio-de-melo-nesta-sexta-feira?categoria=Cultura Popular</guid>
-      <pubDate>Mon, 08 Jun 2026 12:00:00 -0300</pubDate>
-      <description>O inverno chegou e, com ele, começa a temporada de festas juninas e arraiais. A Casa de Cultura Rancho do Tropeiro, em Eugênio de Melo, realiza o tradicional Arraiá dos Avós nesta sexta-feira (12), a partir das 19h.</description>
+      <description>O distrito de São Francisco Xavier recebe, nos dias 26, 27 e 28 de junho, a 17ª edição Festa do Tropeiro. A programação do evento, que inclui culinária típica e músicas regionais, foi divulgada pela Fundação Cultural Cassiano Ricardo nesta quarta-feira (3).</description>
       <category>Cultura Popular</category>
     </item>
     <item>
@@ -73,20 +65,28 @@
       <category>Cultura Popular</category>
     </item>
     <item>
-      <title>Fundação Cultural divulga programação da 17ª Festa do Tropeiro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-divulga-programacao-da-17-festa-do-tropeiro?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-divulga-programacao-da-17-festa-do-tropeiro?categoria=Cultura Popular</guid>
+      <title>Arraiá dos Avós agita o distrito de Eugênio de Melo nesta sexta-feira</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/arraia-dos-avos-agita-o-distrito-de-eugenio-de-melo-nesta-sexta-feira?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/arraia-dos-avos-agita-o-distrito-de-eugenio-de-melo-nesta-sexta-feira?categoria=Cultura Popular</guid>
       <pubDate>Mon, 08 Jun 2026 12:00:00 -0300</pubDate>
-      <description>O distrito de São Francisco Xavier recebe, nos dias 26, 27 e 28 de junho, a 17ª edição Festa do Tropeiro. A programação do evento, que inclui culinária típica e músicas regionais, foi divulgada pela Fundação Cultural Cassiano Ricardo nesta quarta-feira (3).</description>
+      <description>O inverno chegou e, com ele, começa a temporada de festas juninas e arraiais. A Casa de Cultura Rancho do Tropeiro, em Eugênio de Melo, realiza o tradicional Arraiá dos Avós nesta sexta-feira (12), a partir das 19h.</description>
       <category>Cultura Popular</category>
     </item>
     <item>
-      <title>Encerramento do Festidança terá Cia de Ballet Dalal Achcar, do Rio de Janeiro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/encerramento-do-festidanca-tera-cia-de-ballet-dalal-achcar-do-rio-de-janeiro?categoria=Dança</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/encerramento-do-festidanca-tera-cia-de-ballet-dalal-achcar-do-rio-de-janeiro?categoria=Dança</guid>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 -0300</pubDate>
-      <description>O fechamento do 36º Festidança, neste domingo (7), às 20h, levará ao palco do Teatro Municipal a Companhia Ballet Dalal Achcar, do Rio de Janeiro.</description>
-      <category>Dança</category>
+      <title>Cine do Centro exibe ‘Fifi’ no Museu Municipal</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-fifi-no-museu-municipal-?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-fifi-no-museu-municipal-?categoria=Cinema</guid>
+      <pubDate>Mon, 08 Jun 2026 12:00:00 -0300</pubDate>
+      <description>O Cine do Centro de junho exibe o filme francês “Fifi”, com sessão única na próxima quarta-feira (17), às 19h, no auditório do Museu Municipal, região central de São José dos Campos.</description>
+      <category>Cinema</category>
+    </item>
+    <item>
+      <title>Teatro Municipal recebe ‘Autobiografia Autorizada’, com Paulo Betti, no próximo dia 19</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/teatro-municipal-recebe-autobiografia-autorizada-com-paulo-betti-no-proximo-dia-19-?categoria=Teatro</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/teatro-municipal-recebe-autobiografia-autorizada-com-paulo-betti-no-proximo-dia-19-?categoria=Teatro</guid>
+      <pubDate>Mon, 08 Jun 2026 12:00:00 -0300</pubDate>
+      <description>O Teatro Municipal de São José dos Campos recebe, no próximo dia 19 de junho, às 20h, a peça Autobiografia Autorizada, com texto e atuação de Paulo Betti.</description>
+      <category>Teatro</category>
     </item>
     <item>
       <title>Programação do Domingo no Parque inclui circo, diversão e teatro</title>
@@ -98,19 +98,11 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <category>Teatro</category>
     </item>
     <item>
-      <title>Shows de jazz movimentam o Festival Mais Gastronomia neste fim de semana</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/shows-de-jazz-movimentam-o-festival-mais-gastronomia-neste-fim-de-semana?categoria=Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/shows-de-jazz-movimentam-o-festival-mais-gastronomia-neste-fim-de-semana?categoria=Música</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 -0300</pubDate>
-      <description>O Parque Vicentina Aranha receberá, neste sábado (6) e domingo (7), às 14h, os shows de “Ana Morena e Samjazz Trio” e “Jazz Station com Benoit Decharneux”. As apresentações, do projeto Circulação, integram o festival Mais Gastronomia, um dos maiores festivais de gastronomia do Vale do Paraíba.</description>
-      <category>Música</category>
-    </item>
-    <item>
-      <title>36º Festidança oferece programação variada neste feriado prolongado</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/36º-festidanca-oferece-programacao-variada-neste-feriado-prolongado?categoria=Dança</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/36º-festidanca-oferece-programacao-variada-neste-feriado-prolongado?categoria=Dança</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 -0300</pubDate>
-      <description>Quem ficar em São José dos Campos durante o feriado prolongado de Corpus Christi poderá acompanhar a programação do 36º Festidança, que acontece até o próximo domingo (7) na cidade.</description>
+      <title>Encerramento do Festidança terá Cia de Ballet Dalal Achcar, do Rio de Janeiro</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/encerramento-do-festidanca-tera-cia-de-ballet-dalal-achcar-do-rio-de-janeiro?categoria=Dança</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/encerramento-do-festidanca-tera-cia-de-ballet-dalal-achcar-do-rio-de-janeiro?categoria=Dança</guid>
+      <pubDate>Wed, 03 Jun 2026 12:00:00 -0300</pubDate>
+      <description>O fechamento do 36º Festidança, neste domingo (7), às 20h, levará ao palco do Teatro Municipal a Companhia Ballet Dalal Achcar, do Rio de Janeiro.</description>
       <category>Dança</category>
     </item>
     <item>
@@ -122,19 +114,27 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <category>Dança</category>
     </item>
     <item>
+      <title>36º Festidança oferece programação variada neste feriado prolongado</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/36º-festidanca-oferece-programacao-variada-neste-feriado-prolongado?categoria=Dança</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/36º-festidanca-oferece-programacao-variada-neste-feriado-prolongado?categoria=Dança</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 -0300</pubDate>
+      <description>Quem ficar em São José dos Campos durante o feriado prolongado de Corpus Christi poderá acompanhar a programação do 36º Festidança, que acontece até o próximo domingo (7) na cidade.</description>
+      <category>Dança</category>
+    </item>
+    <item>
+      <title>Shows de jazz movimentam o Festival Mais Gastronomia neste fim de semana</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/shows-de-jazz-movimentam-o-festival-mais-gastronomia-neste-fim-de-semana?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/shows-de-jazz-movimentam-o-festival-mais-gastronomia-neste-fim-de-semana?categoria=Música</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 -0300</pubDate>
+      <description>O Parque Vicentina Aranha receberá, neste sábado (6) e domingo (7), às 14h, os shows de “Ana Morena e Samjazz Trio” e “Jazz Station com Benoit Decharneux”. As apresentações, do projeto Circulação, integram o festival Mais Gastronomia, um dos maiores festivais de gastronomia do Vale do Paraíba.</description>
+      <category>Música</category>
+    </item>
+    <item>
       <title>Fundação Cultural abre as inscrições para o Festivale</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-abre-as-inscricoes-para-o-festivale?categoria=Teatro</link>
       <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-abre-as-inscricoes-para-o-festivale?categoria=Teatro</guid>
       <pubDate>Mon, 01 Jun 2026 12:00:00 -0300</pubDate>
       <description>A Fundação Cultural Cassiano Ricardo abriu as inscrições para o 40º Festivale, que acontece em São José dos Campos de 4 a 14 de novembro.</description>
-      <category>Teatro</category>
-    </item>
-    <item>
-      <title>Temporada CET define os 2 espetáculos da programação de junho</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/temporada-cet-define-os-2-espetaculos-da-programacao-de-junho?categoria=Teatro</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/temporada-cet-define-os-2-espetaculos-da-programacao-de-junho?categoria=Teatro</guid>
-      <pubDate>Fri, 29 May 2026 12:00:00 -0300</pubDate>
-      <description>O CET (Centro de Estudos Teatrais) definiu os dois espetáculos que irão compor a programação de junho.</description>
       <category>Teatro</category>
     </item>
     <item>
@@ -144,6 +144,14 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Fri, 29 May 2026 12:00:00 -0300</pubDate>
       <description>O Cine Santana, na região norte de São José dos Campos, exibe em junho as sessões de cinema gratuitas em parceria com o programa Pontos MIS.</description>
       <category>Cinema</category>
+    </item>
+    <item>
+      <title>Temporada CET define os 2 espetáculos da programação de junho</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/temporada-cet-define-os-2-espetaculos-da-programacao-de-junho?categoria=Teatro</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/temporada-cet-define-os-2-espetaculos-da-programacao-de-junho?categoria=Teatro</guid>
+      <pubDate>Fri, 29 May 2026 12:00:00 -0300</pubDate>
+      <description>O CET (Centro de Estudos Teatrais) definiu os dois espetáculos que irão compor a programação de junho.</description>
+      <category>Teatro</category>
     </item>
     <item>
       <title>Mostras competitivas movimentam o fim de semana pelo 36º Festidança</title>
@@ -1593,14 +1601,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Wed, 29 Oct 2025 12:00:00 -0300</pubDate>
       <description>O penúltimo dia de Festivale acontece nesta sexta-feira (31), com uma programação plural espalhada por vários cantos da cidade, com peças infantis na região leste e no Parque Santos Dumont, além de apresentações em São Francisco Xavier e no Teatro Municipal.</description>
       <category>Teatro</category>
-    </item>
-    <item>
-      <title>Fundação Cultural lança edital para curadoria de exposições</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-lanca-edital-para-curadoria-de-exposicoes?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-lanca-edital-para-curadoria-de-exposicoes?categoria=Artes Visuais</guid>
-      <pubDate>Wed, 29 Oct 2025 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo lançou, nesta quarta-feira (29), edital de concorrência eletrônica para contratação de pessoa jurídica com expertise na prestação de serviços de curadoria para três exposições temporárias, que irão acontecer no Museu Municipal de São José dos Campos em 2026.</description>
-      <category>Artes Visuais</category>
     </item>
   </channel>
 </rss>
