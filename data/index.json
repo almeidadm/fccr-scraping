@@ -1,6 +1,6 @@
 {
-  "count": 2519,
-  "generated_at": "2026-06-12T14:10:09+00:00",
+  "count": 2520,
+  "generated_at": "2026-06-13T14:03:25+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25001,6 +25001,16 @@
       "summary": "A Fundação Cultural Cassiano Ricardo prorrogou as inscrições para os editais do FMC (Fundo Municipal de Cultura) e da LIF (Lei de Incentivo Fiscal).",
       "title": "FCCR prorroga prazo de inscrição para editais da LIF e do FMC",
       "url": "https://fccr.sp.gov.br/fccr/noticias-destaque-01/fccr-prorroga-prazo-de-inscricao-para-editais-da-lif-e-do-fmc?categoria=Gestão Cultural"
+    },
+    "9032": {
+      "categoria": "Fomento",
+      "first_seen": "2026-06-13T14:03:25+00:00",
+      "id": "9032",
+      "published_at": "2026-06-12",
+      "slug": "governo-de-sp-lanca-edital-de-apoio-a-filmes-e-incentiva-gravacao-em-sao-jose",
+      "summary": "O Governo do Estado de São Paulo abriu, na última quarta-feira (10), as inscrições do edital de apoio à produção de longa-metragem. A seleção, no valor de R$ 32 milhões, é destinada a obras audiovisuais brasileiras inéditas de ficção ou animação, destinadas ao cinema, TV ou streaming.",
+      "title": "Governo de SP lança edital de apoio a filmes e incentiva gravação em São José",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/governo-de-sp-lanca-edital-de-apoio-a-filmes-e-incentiva-gravacao-em-sao-jose?categoria=Fomento"
     },
     "951": {
       "categoria": "Música",

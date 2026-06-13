@@ -5,9 +5,17 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 12 Jun 2026 14:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 14:03:25 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Governo de SP lança edital de apoio a filmes e incentiva gravação em São José</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/governo-de-sp-lanca-edital-de-apoio-a-filmes-e-incentiva-gravacao-em-sao-jose?categoria=Fomento</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/governo-de-sp-lanca-edital-de-apoio-a-filmes-e-incentiva-gravacao-em-sao-jose?categoria=Fomento</guid>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 -0300</pubDate>
+      <description>O Governo do Estado de São Paulo abriu, na última quarta-feira (10), as inscrições do edital de apoio à produção de longa-metragem. A seleção, no valor de R$ 32 milhões, é destinada a obras audiovisuais brasileiras inéditas de ficção ou animação, destinadas ao cinema, TV ou streaming.</description>
+      <category>Fomento</category>
+    </item>
     <item>
       <title>FCCR prorroga prazo de inscrição para editais da LIF e do FMC</title>
       <link>https://fccr.sp.gov.br/fccr/noticias-destaque-01/fccr-prorroga-prazo-de-inscricao-para-editais-da-lif-e-do-fmc?categoria=Gestão Cultural</link>
@@ -1592,14 +1600,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/companhia-do-rio-de-janeiro-fecha-a-noite-com-peca-inspirada-em-obras-de-shakespeare?categoria=Teatro</guid>
       <pubDate>Wed, 29 Oct 2025 12:00:00 -0300</pubDate>
       <description>O fim da 39° edição do Festivale (Festival de Teatro do Vale do Paraíba) está se aproximando, mas os próximos dias contam com uma programação com oficinas e peças teatrais aclamadas e inéditas.</description>
-      <category>Teatro</category>
-    </item>
-    <item>
-      <title>Reta final de Festivale enche a cidade de teatro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/reta-final-de-festivale-enche-a-cidade-de-teatro?categoria=Teatro</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/reta-final-de-festivale-enche-a-cidade-de-teatro?categoria=Teatro</guid>
-      <pubDate>Wed, 29 Oct 2025 12:00:00 -0300</pubDate>
-      <description>O penúltimo dia de Festivale acontece nesta sexta-feira (31), com uma programação plural espalhada por vários cantos da cidade, com peças infantis na região leste e no Parque Santos Dumont, além de apresentações em São Francisco Xavier e no Teatro Municipal.</description>
       <category>Teatro</category>
     </item>
   </channel>
