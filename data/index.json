@@ -1,6 +1,6 @@
 {
-  "count": 2520,
-  "generated_at": "2026-06-15T16:18:16+00:00",
+  "count": 2521,
+  "generated_at": "2026-06-15T20:02:00+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25011,6 +25011,16 @@
       "summary": "O Governo do Estado de São Paulo abriu, na última quarta-feira (10), as inscrições do edital de apoio à produção de longa-metragem. A seleção, no valor de R$ 32 milhões, é destinada a obras audiovisuais brasileiras inéditas de ficção ou animação, destinadas ao cinema, TV ou streaming.",
       "title": "Governo de SP lança edital de apoio a filmes e incentiva gravação em São José",
       "url": "https://fccr.sp.gov.br/fccr/noticias/governo-de-sp-lanca-edital-de-apoio-a-filmes-e-incentiva-gravacao-em-sao-jose?categoria=Fomento"
+    },
+    "9036": {
+      "categoria": "Dança",
+      "first_seen": "2026-06-15T20:02:00+00:00",
+      "id": "9036",
+      "published_at": "2026-06-15",
+      "slug": "casa-clemente-gomes-recebe-workshop-de-danca-de-salao",
+      "summary": "A Centro Cultural Clemente Gomes recebe nesta quinta-feira (18), às 19h, o Workshop de Dança de Salão, ministrado pelo professor e coreógrafo Ronnie Santos.",
+      "title": "Casa Clemente Gomes recebe Workshop de Dança de Salão",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/casa-clemente-gomes-recebe-workshop-de-danca-de-salao?categoria=Dança"
     },
     "951": {
       "categoria": "Música",

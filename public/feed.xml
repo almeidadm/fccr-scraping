@@ -5,9 +5,17 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 15 Jun 2026 16:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 20:02:00 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casa Clemente Gomes recebe Workshop de Dança de Salão</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/casa-clemente-gomes-recebe-workshop-de-danca-de-salao?categoria=Dança</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-clemente-gomes-recebe-workshop-de-danca-de-salao?categoria=Dança</guid>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 -0300</pubDate>
+      <description>A Centro Cultural Clemente Gomes recebe nesta quinta-feira (18), às 19h, o Workshop de Dança de Salão, ministrado pelo professor e coreógrafo Ronnie Santos.</description>
+      <category>Dança</category>
+    </item>
     <item>
       <title>Governo de SP lança edital de apoio a filmes e incentiva gravação em São José</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/governo-de-sp-lanca-edital-de-apoio-a-filmes-e-incentiva-gravacao-em-sao-jose?categoria=Fomento</link>
@@ -1593,14 +1601,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Wed, 29 Oct 2025 12:00:00 -0300</pubDate>
       <description>O Museu do Folclore Angela Savastano abrirá seu tradicional presépio no dia 7 de dezembro, a partir das 14h. A montagem ficará a cargo da contramestre da Folia de Reis do Mestre Zé Mira, Soynara Maria Faria Araújo Pires de Morais.</description>
       <category>Gestão Cultural</category>
-    </item>
-    <item>
-      <title>Companhia do Rio de Janeiro fecha a noite com peça inspirada em obras de Shakespeare</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/companhia-do-rio-de-janeiro-fecha-a-noite-com-peca-inspirada-em-obras-de-shakespeare?categoria=Teatro</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/companhia-do-rio-de-janeiro-fecha-a-noite-com-peca-inspirada-em-obras-de-shakespeare?categoria=Teatro</guid>
-      <pubDate>Wed, 29 Oct 2025 12:00:00 -0300</pubDate>
-      <description>O fim da 39° edição do Festivale (Festival de Teatro do Vale do Paraíba) está se aproximando, mas os próximos dias contam com uma programação com oficinas e peças teatrais aclamadas e inéditas.</description>
-      <category>Teatro</category>
     </item>
   </channel>
 </rss>
