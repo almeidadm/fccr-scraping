@@ -5,15 +5,16 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 18 Jun 2026 14:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 22:30:36 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Casa de Cultura Lili Figureira celebra 10 anos com arte, memória e música</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-lili-figureira-celebra-10-anos-com-arte-memoria-e-musica?categoria=</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-lili-figureira-celebra-10-anos-com-arte-memoria-e-musica?categoria=</guid>
+      <title>Cena de Mulher celebra 40ª edição em ritmo de forró</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cena-de-mulher-celebra-40-edicao-em-ritmo-de-forro?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cena-de-mulher-celebra-40-edicao-em-ritmo-de-forro?categoria=Música</guid>
       <pubDate>Thu, 18 Jun 2026 12:00:00 -0300</pubDate>
-      <description>A Casa de Cultura Lili Figureira, no Jardim Santo Onofre, região sudeste de São José dos Campos, celebra, neste mês, 10 anos de história com uma programação especial que valoriza a memória, a cultura popular e as tradições da região. As comemorações acontecem no próximo dia 25, a partir das 18h.</description>
+      <description>O projeto Cena de Mulher completa 40 edições no próximo dia 25 de junho e celebra essa marca com muito forró. O show gratuito, que celebra a força, a tradição e a contemporaneidade de um dos gêneros mais queridos da música brasileira, acontece na sede da Fundação Cultural Cassiano Ricardo, no Parque da Cidade, a partir das 20h.</description>
+      <category>Música</category>
     </item>
     <item>
       <title>Revelando SP anuncia show da edição em São José dos Campos</title>
@@ -24,12 +25,11 @@
       <category>Música</category>
     </item>
     <item>
-      <title>Cena de Mulher celebra 40ª edição em ritmo de forró</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/cena-de-mulher-celebra-40-edicao-em-ritmo-de-forro?categoria=Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cena-de-mulher-celebra-40-edicao-em-ritmo-de-forro?categoria=Música</guid>
+      <title>Casa de Cultura Lili Figureira celebra 10 anos com arte, memória e música</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-lili-figureira-celebra-10-anos-com-arte-memoria-e-musica?categoria=</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-lili-figureira-celebra-10-anos-com-arte-memoria-e-musica?categoria=</guid>
       <pubDate>Thu, 18 Jun 2026 12:00:00 -0300</pubDate>
-      <description>O projeto Cena de Mulher completa 40 edições no próximo dia 25 de junho e celebra essa marca com muito forró. O show gratuito, que celebra a força, a tradição e a contemporaneidade de um dos gêneros mais queridos da música brasileira, acontece na sede da Fundação Cultural Cassiano Ricardo, no Parque da Cidade, a partir das 20h.</description>
-      <category>Música</category>
+      <description>A Casa de Cultura Lili Figureira, no Jardim Santo Onofre, região sudeste de São José dos Campos, celebra, neste mês, 10 anos de história com uma programação especial que valoriza a memória, a cultura popular e as tradições da região. As comemorações acontecem no próximo dia 25, a partir das 18h.</description>
     </item>
     <item>
       <title>Casa Clemente Gomes recebe Workshop de Dança de Salão</title>
