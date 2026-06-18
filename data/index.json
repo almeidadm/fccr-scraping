@@ -1,6 +1,6 @@
 {
-  "count": 2521,
-  "generated_at": "2026-06-16T20:54:03+00:00",
+  "count": 2524,
+  "generated_at": "2026-06-18T14:10:51+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25021,6 +25021,36 @@
       "summary": "A Centro Cultural Clemente Gomes recebe nesta quinta-feira (18), às 19h, o Workshop de Dança de Salão, ministrado pelo professor e coreógrafo Ronnie Santos.",
       "title": "Casa Clemente Gomes recebe Workshop de Dança de Salão",
       "url": "https://fccr.sp.gov.br/fccr/noticias/casa-clemente-gomes-recebe-workshop-de-danca-de-salao?categoria=Dança"
+    },
+    "9045": {
+      "categoria": "Música",
+      "first_seen": "2026-06-18T14:10:51+00:00",
+      "id": "9045",
+      "published_at": "2026-06-18",
+      "slug": "cena-de-mulher-celebra-40-edicao-em-ritmo-de-forro",
+      "summary": "O projeto Cena de Mulher completa 40 edições no próximo dia 25 de junho e celebra essa marca com muito forró. O show gratuito, que celebra a força, a tradição e a contemporaneidade de um dos gêneros mais queridos da música brasileira, acontece na sede da Fundação Cultural Cassiano Ricardo, no Parque da Cidade, a partir das 20h.",
+      "title": "Cena de Mulher celebra 40ª edição em ritmo de forró",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cena-de-mulher-celebra-40-edicao-em-ritmo-de-forro?categoria=Música"
+    },
+    "9046": {
+      "categoria": "Música",
+      "first_seen": "2026-06-18T14:10:51+00:00",
+      "id": "9046",
+      "published_at": "2026-06-18",
+      "slug": "revelando-sp-anuncia-show-da-edicao-em-sao-jose-dos-campos",
+      "summary": "Pelo quarto ano consecutivo em São José dos Campos, o Revelando SP já tem confirmadas as principais atrações musicais para a edição 2026.",
+      "title": "Revelando SP anuncia show da edição em São José dos Campos",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/revelando-sp-anuncia-show-da-edicao-em-sao-jose-dos-campos?categoria=Música"
+    },
+    "9048": {
+      "categoria": null,
+      "first_seen": "2026-06-18T14:10:51+00:00",
+      "id": "9048",
+      "published_at": "2026-06-18",
+      "slug": "casa-de-cultura-lili-figureira-celebra-10-anos-com-arte-memoria-e-musica",
+      "summary": "A Casa de Cultura Lili Figureira, no Jardim Santo Onofre, região sudeste de São José dos Campos, celebra, neste mês, 10 anos de história com uma programação especial que valoriza a memória, a cultura popular e as tradições da região. As comemorações acontecem no próximo dia 25, a partir das 18h.",
+      "title": "Casa de Cultura Lili Figureira celebra 10 anos com arte, memória e música",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-lili-figureira-celebra-10-anos-com-arte-memoria-e-musica?categoria="
     },
     "951": {
       "categoria": "Música",

@@ -5,9 +5,32 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 16 Jun 2026 20:54:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 14:10:51 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casa de Cultura Lili Figureira celebra 10 anos com arte, memória e música</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-lili-figureira-celebra-10-anos-com-arte-memoria-e-musica?categoria=</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-lili-figureira-celebra-10-anos-com-arte-memoria-e-musica?categoria=</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Lili Figureira, no Jardim Santo Onofre, região sudeste de São José dos Campos, celebra, neste mês, 10 anos de história com uma programação especial que valoriza a memória, a cultura popular e as tradições da região. As comemorações acontecem no próximo dia 25, a partir das 18h.</description>
+    </item>
+    <item>
+      <title>Revelando SP anuncia show da edição em São José dos Campos</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/revelando-sp-anuncia-show-da-edicao-em-sao-jose-dos-campos?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/revelando-sp-anuncia-show-da-edicao-em-sao-jose-dos-campos?categoria=Música</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 -0300</pubDate>
+      <description>Pelo quarto ano consecutivo em São José dos Campos, o Revelando SP já tem confirmadas as principais atrações musicais para a edição 2026.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Cena de Mulher celebra 40ª edição em ritmo de forró</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cena-de-mulher-celebra-40-edicao-em-ritmo-de-forro?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cena-de-mulher-celebra-40-edicao-em-ritmo-de-forro?categoria=Música</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 -0300</pubDate>
+      <description>O projeto Cena de Mulher completa 40 edições no próximo dia 25 de junho e celebra essa marca com muito forró. O show gratuito, que celebra a força, a tradição e a contemporaneidade de um dos gêneros mais queridos da música brasileira, acontece na sede da Fundação Cultural Cassiano Ricardo, no Parque da Cidade, a partir das 20h.</description>
+      <category>Música</category>
+    </item>
     <item>
       <title>Casa Clemente Gomes recebe Workshop de Dança de Salão</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/casa-clemente-gomes-recebe-workshop-de-danca-de-salao?categoria=Dança</link>
@@ -1577,30 +1600,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Thu, 30 Oct 2025 12:00:00 -0300</pubDate>
       <description>O Dia do Saci, nesta sexta-feira (31), será comemorado em grande estilo na região leste de São José dos Campos. A Casa de Cultura Chico Triste realiza, a partir das 19h, uma exposição para a comunidade.</description>
       <category>Artes Visuais</category>
-    </item>
-    <item>
-      <title>Último dia do 39º Festivale terá oficinas e Festavale</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/ultimo-dia-do-39-festivale-tera-oficinas-e-festavale?categoria=Teatro</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/ultimo-dia-do-39-festivale-tera-oficinas-e-festavale?categoria=Teatro</guid>
-      <pubDate>Thu, 30 Oct 2025 12:00:00 -0300</pubDate>
-      <description>Durante 10 dias, São José dos Campos tornou-se palco de espetáculos aclamados pela crítica e profissionais do teatro de cinco estados brasileiros. O 39° Festivale termina neste sábado (1º), após uma maratona de workshops, bate papos e ações formativas, além de peças teatrais em horários e locais variados, espalhados pela cidade.</description>
-      <category>Teatro</category>
-    </item>
-    <item>
-      <title>Mês da Música promete encontro de gerações e estilos</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/mes-da-musica-promete-encontro-de-geracoes-e-estilos?categoria=Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/mes-da-musica-promete-encontro-de-geracoes-e-estilos?categoria=Música</guid>
-      <pubDate>Thu, 30 Oct 2025 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo realiza, em novembro, o Mês da Música. A programação terá shows que prometem encontro entre gerações e estilos, em palcos espalhados por São José dos Campos.</description>
-      <category>Música</category>
-    </item>
-    <item>
-      <title>Museu do Folclore abre seu tradicional presépio no dia 7 de dezembro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-abre-seu-tradicional-presepio-no-dia-7-de-dezembro?categoria=Gestão Cultural</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-abre-seu-tradicional-presepio-no-dia-7-de-dezembro?categoria=Gestão Cultural</guid>
-      <pubDate>Wed, 29 Oct 2025 12:00:00 -0300</pubDate>
-      <description>O Museu do Folclore Angela Savastano abrirá seu tradicional presépio no dia 7 de dezembro, a partir das 14h. A montagem ficará a cargo da contramestre da Folia de Reis do Mestre Zé Mira, Soynara Maria Faria Araújo Pires de Morais.</description>
-      <category>Gestão Cultural</category>
     </item>
   </channel>
 </rss>
