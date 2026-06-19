@@ -5,9 +5,17 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 19 Jun 2026 10:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:01:58 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Noite de metal e rock autoral agita a Sede da FCCR</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/noite-de-metal-e-rock-autoral-agita-a-sede-da-fccr?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/noite-de-metal-e-rock-autoral-agita-a-sede-da-fccr?categoria=Música</guid>
+      <pubDate>Fri, 19 Jun 2026 12:00:00 -0300</pubDate>
+      <description>A Sede da Fundação Cultural Cassiano Ricardo recebe, no próximo dia 26, às 20h, mais uma edição do Cine Rock. No palco, o destaque são as bandas Coronel João Bento, Bellini Rock, Manger Cadavre, Orgasmo de Porco e Flagelador.</description>
+      <category>Música</category>
+    </item>
     <item>
       <title>Cena de Mulher celebra 40ª edição em ritmo de forró</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/cena-de-mulher-celebra-40-edicao-em-ritmo-de-forro?categoria=Música</link>
@@ -1592,14 +1600,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Fri, 31 Oct 2025 12:00:00 -0300</pubDate>
       <description>O Cine Santana recebe, em novembro, a 10ª Mostra de Cinema Chinês, em parceria com o programa Pontos Mis. Serão exibidos quatro filmes chineses do acervo do MIS (Museu da Imagem e do Som). As sessões acontecem às segundas-feiras, sempre às 19h30. A entrada é gratuita, sem necessidade de ingresso.</description>
       <category>Cinema</category>
-    </item>
-    <item>
-      <title>Dia do Saci é comemorado com exposição na Casa de Cultura Chico Triste</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/dia-do-saci-e-comemorado-com-exposicao-na-casa-de-cultura-chico-triste?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/dia-do-saci-e-comemorado-com-exposicao-na-casa-de-cultura-chico-triste?categoria=Artes Visuais</guid>
-      <pubDate>Thu, 30 Oct 2025 12:00:00 -0300</pubDate>
-      <description>O Dia do Saci, nesta sexta-feira (31), será comemorado em grande estilo na região leste de São José dos Campos. A Casa de Cultura Chico Triste realiza, a partir das 19h, uma exposição para a comunidade.</description>
-      <category>Artes Visuais</category>
     </item>
   </channel>
 </rss>
