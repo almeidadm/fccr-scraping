@@ -5,9 +5,17 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 22 Jun 2026 15:51:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:50:52 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FCCR prorroga prazo para inscrição em editais do FMC</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/fccr-prorroga-prazo-para-inscricao-em-editais-do-fmc?categoria=Fomento</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fccr-prorroga-prazo-para-inscricao-em-editais-do-fmc?categoria=Fomento</guid>
+      <pubDate>Mon, 22 Jun 2026 12:00:00 -0300</pubDate>
+      <description>A Fundação Cultural Cassiano Ricardo prorrogou as inscrições para os editais do FMC (Fundo Municipal de Cultura) até esta quinta-feira (25), às 17h.</description>
+      <category>Fomento</category>
+    </item>
     <item>
       <title>Noite de metal e rock autoral agita a Sede da FCCR</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/noite-de-metal-e-rock-autoral-agita-a-sede-da-fccr?categoria=Música</link>
@@ -1592,14 +1600,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Fri, 31 Oct 2025 12:00:00 -0300</pubDate>
       <description>A Fundação Cultural inicia, neste sábado (1º), mais uma edição do Mês da Música, com uma programação que inclui mais de 20 atrações musicais gratuitas até 31 de novembro.</description>
       <category>Música</category>
-    </item>
-    <item>
-      <title>10ª Mostra de Cinema Chinês entra em cartaz no Cine Santana</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/10-mostra-de-cinema-chines-entra-em-cartaz-no-cine-santana?categoria=Cinema</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/10-mostra-de-cinema-chines-entra-em-cartaz-no-cine-santana?categoria=Cinema</guid>
-      <pubDate>Fri, 31 Oct 2025 12:00:00 -0300</pubDate>
-      <description>O Cine Santana recebe, em novembro, a 10ª Mostra de Cinema Chinês, em parceria com o programa Pontos Mis. Serão exibidos quatro filmes chineses do acervo do MIS (Museu da Imagem e do Som). As sessões acontecem às segundas-feiras, sempre às 19h30. A entrada é gratuita, sem necessidade de ingresso.</description>
-      <category>Cinema</category>
     </item>
   </channel>
 </rss>
