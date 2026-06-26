@@ -1,6 +1,6 @@
 {
-  "count": 2532,
-  "generated_at": "2026-06-24T19:46:20+00:00",
+  "count": 2534,
+  "generated_at": "2026-06-26T09:30:40+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25131,6 +25131,26 @@
       "summary": "A Fundação Cultural Cassiano Ricardo prorrogou a data para a inscrição nos editais da PNAB (Política Nacional Aldir Blanc de Fomento à Cultura) até o dia 3 de julho, às 17h.",
       "title": "Fundação Cultural prorroga data de inscrição para os editais da PNAB",
       "url": "https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-prorroga-data-de-inscricao-para-os-editais-da-pnab?categoria=Fomento"
+    },
+    "9083": {
+      "categoria": "Música",
+      "first_seen": "2026-06-26T09:30:40+00:00",
+      "id": "9083",
+      "published_at": "2026-06-25",
+      "slug": "orquestra-sinfonica-do-guri-realiza-concerto-no-cine-santana",
+      "summary": "O Cine Santana recebe, no próximo dia sábado (27), às 10h, a apresentação da Orquestra Sinfônica do GURI São José dos Campos. A entrada é gratuita, sem necessidade de reserva de ingressos.",
+      "title": "Orquestra Sinfônica do GURI realiza concerto no Cine Santana",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/orquestra-sinfonica-do-guri-realiza-concerto-no-cine-santana?categoria=Música"
+    },
+    "9084": {
+      "categoria": null,
+      "first_seen": "2026-06-26T09:30:40+00:00",
+      "id": "9084",
+      "published_at": "2026-06-25",
+      "slug": "cultsp-pro-abre-inscricao-para-cursos-em-sao-jose",
+      "summary": "O Museu Municipal de São José dos Campos recebe, em agosto, os cursos “Formação e Experimentação em Escrita Criativa” e “Expografia: Linguagem, Espaço e Público”, ambos na modalidade presencial. As inscrições estão abertas até o próximo dia 2 de julho.",
+      "title": "CULTSP PRO abre inscrição para cursos em São José",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cultsp-pro-abre-inscricao-para-cursos-em-sao-jose?categoria="
     },
     "951": {
       "categoria": "Música",

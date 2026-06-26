@@ -5,31 +5,38 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 24 Jun 2026 19:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:30:40 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fundação Cultural prorroga data de inscrição para os editais da PNAB</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-prorroga-data-de-inscricao-para-os-editais-da-pnab?categoria=Fomento</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-prorroga-data-de-inscricao-para-os-editais-da-pnab?categoria=Fomento</guid>
-      <pubDate>Wed, 24 Jun 2026 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo prorrogou a data para a inscrição nos editais da PNAB (Política Nacional Aldir Blanc de Fomento à Cultura) até o dia 3 de julho, às 17h.</description>
-      <category>Fomento</category>
+      <title>CULTSP PRO abre inscrição para cursos em São José</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cultsp-pro-abre-inscricao-para-cursos-em-sao-jose?categoria=</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cultsp-pro-abre-inscricao-para-cursos-em-sao-jose?categoria=</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 -0300</pubDate>
+      <description>O Museu Municipal de São José dos Campos recebe, em agosto, os cursos “Formação e Experimentação em Escrita Criativa” e “Expografia: Linguagem, Espaço e Público”, ambos na modalidade presencial. As inscrições estão abertas até o próximo dia 2 de julho.</description>
     </item>
     <item>
-      <title>São Francisco Xavier recebe exposição ‘Engenho e Arte’, de Victor Brecheret Filho</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/sao-francisco-xavier-recebe-exposicao-engenho-e-arte-de-victor-brecheret-filho?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sao-francisco-xavier-recebe-exposicao-engenho-e-arte-de-victor-brecheret-filho?categoria=Artes Visuais</guid>
-      <pubDate>Wed, 24 Jun 2026 12:00:00 -0300</pubDate>
-      <description>A Casa de Cultura Júlio Neme, no distrito de São Francisco Xavier, vai receber a exposição “Engenho e Arte”, de Victor Brecheret Filho. A abertura acontece nesta quinta-feira (25), às 19h, com a presença do artista.</description>
-      <category>Artes Visuais</category>
+      <title>Orquestra Sinfônica do GURI realiza concerto no Cine Santana</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/orquestra-sinfonica-do-guri-realiza-concerto-no-cine-santana?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/orquestra-sinfonica-do-guri-realiza-concerto-no-cine-santana?categoria=Música</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 -0300</pubDate>
+      <description>O Cine Santana recebe, no próximo dia sábado (27), às 10h, a apresentação da Orquestra Sinfônica do GURI São José dos Campos. A entrada é gratuita, sem necessidade de reserva de ingressos.</description>
+      <category>Música</category>
     </item>
     <item>
-      <title>Práticas do Bem Viver promove tarde de bem-estar no Centro Cultural Clemente Gomes</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/praticas-do-bem-viver-promove-tarde-de-bem-estar-no-centro-cultural-clemente-gomes-?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/praticas-do-bem-viver-promove-tarde-de-bem-estar-no-centro-cultural-clemente-gomes-?categoria=Interartes</guid>
+      <title>Chico Triste realiza Arraiá no Chico nesta sexta-feira, 26</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/chico-triste-realiza-arraia-no-chico-nesta-sexta-feira-26?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/chico-triste-realiza-arraia-no-chico-nesta-sexta-feira-26?categoria=Interartes</guid>
       <pubDate>Wed, 24 Jun 2026 12:00:00 -0300</pubDate>
-      <description>O Centro Cultural Clemente Gomes recebe, na próxima segunda-feira (29), às 16h, mais uma edição do projeto Práticas do Bem Viver, que reúne atividades voltadas à promoção da saúde, do bem-estar e da Cultura da Paz.</description>
+      <description>A Casa de Cultura Chico Triste, na Vila Tesouro, região leste da cidade, realiza nesta sexta-feira (26), às 19h, o tradicional Arraiá no Chico.</description>
+      <category>Interartes</category>
+    </item>
+    <item>
+      <title>‘Festa na Roça’ reúne arte, música e tradições populares na Casa de Cultura Eugênia da Silva</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/festa-na-roca-reune-arte-musica-e-tradicoes-populares-na-casa-de-cultura-eugenia-da-silva?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/festa-na-roca-reune-arte-musica-e-tradicoes-populares-na-casa-de-cultura-eugenia-da-silva?categoria=Interartes</guid>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, recebe na próxima terça-feira (30), às 19h, a abertura da exposição “Festa na Roça”.</description>
       <category>Interartes</category>
     </item>
     <item>
@@ -41,20 +48,28 @@
       <category>Dança</category>
     </item>
     <item>
-      <title>‘Festa na Roça’ reúne arte, música e tradições populares na Casa de Cultura Eugênia da Silva</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/festa-na-roca-reune-arte-musica-e-tradicoes-populares-na-casa-de-cultura-eugenia-da-silva?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/festa-na-roca-reune-arte-musica-e-tradicoes-populares-na-casa-de-cultura-eugenia-da-silva?categoria=Interartes</guid>
+      <title>Práticas do Bem Viver promove tarde de bem-estar no Centro Cultural Clemente Gomes</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/praticas-do-bem-viver-promove-tarde-de-bem-estar-no-centro-cultural-clemente-gomes-?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/praticas-do-bem-viver-promove-tarde-de-bem-estar-no-centro-cultural-clemente-gomes-?categoria=Interartes</guid>
       <pubDate>Wed, 24 Jun 2026 12:00:00 -0300</pubDate>
-      <description>A Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, recebe na próxima terça-feira (30), às 19h, a abertura da exposição “Festa na Roça”.</description>
+      <description>O Centro Cultural Clemente Gomes recebe, na próxima segunda-feira (29), às 16h, mais uma edição do projeto Práticas do Bem Viver, que reúne atividades voltadas à promoção da saúde, do bem-estar e da Cultura da Paz.</description>
       <category>Interartes</category>
     </item>
     <item>
-      <title>Chico Triste realiza Arraiá no Chico nesta sexta-feira, 26</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/chico-triste-realiza-arraia-no-chico-nesta-sexta-feira-26?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/chico-triste-realiza-arraia-no-chico-nesta-sexta-feira-26?categoria=Interartes</guid>
+      <title>São Francisco Xavier recebe exposição ‘Engenho e Arte’, de Victor Brecheret Filho</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/sao-francisco-xavier-recebe-exposicao-engenho-e-arte-de-victor-brecheret-filho?categoria=Artes Visuais</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sao-francisco-xavier-recebe-exposicao-engenho-e-arte-de-victor-brecheret-filho?categoria=Artes Visuais</guid>
       <pubDate>Wed, 24 Jun 2026 12:00:00 -0300</pubDate>
-      <description>A Casa de Cultura Chico Triste, na Vila Tesouro, região leste da cidade, realiza nesta sexta-feira (26), às 19h, o tradicional Arraiá no Chico.</description>
-      <category>Interartes</category>
+      <description>A Casa de Cultura Júlio Neme, no distrito de São Francisco Xavier, vai receber a exposição “Engenho e Arte”, de Victor Brecheret Filho. A abertura acontece nesta quinta-feira (25), às 19h, com a presença do artista.</description>
+      <category>Artes Visuais</category>
+    </item>
+    <item>
+      <title>Fundação Cultural prorroga data de inscrição para os editais da PNAB</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-prorroga-data-de-inscricao-para-os-editais-da-pnab?categoria=Fomento</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-prorroga-data-de-inscricao-para-os-editais-da-pnab?categoria=Fomento</guid>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 -0300</pubDate>
+      <description>A Fundação Cultural Cassiano Ricardo prorrogou a data para a inscrição nos editais da PNAB (Política Nacional Aldir Blanc de Fomento à Cultura) até o dia 3 de julho, às 17h.</description>
+      <category>Fomento</category>
     </item>
     <item>
       <title>FCCR prorroga prazo para inscrição em editais do FMC</title>
@@ -1584,22 +1599,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Thu, 06 Nov 2025 12:00:00 -0300</pubDate>
       <description>A Casa do Médico, que fica na região central de São José dos Campos, recebe, a partir da próxima segunda-feira (17), a exposição “Vida em Papel”, do artista Luis Veri.</description>
       <category>Artes Visuais</category>
-    </item>
-    <item>
-      <title>Chico Triste recebe exposição de cerâmicas reconstruídas até dia 18</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/chico-triste-recebe-exposicao-de-ceramicas-reconstruidas-ate-dia-18?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/chico-triste-recebe-exposicao-de-ceramicas-reconstruidas-ate-dia-18?categoria=Artes Visuais</guid>
-      <pubDate>Wed, 05 Nov 2025 12:00:00 -0300</pubDate>
-      <description>A Casa de Cultura Chico Triste, na Vila Tesouro, região leste de São José dos Campos, recebe até o próximo dia 18 de novembro a exposição “DesConstrução”. A visitação pode ser realizada de segunda-feira a sexta-feira, das 8h30 às 21h.</description>
-      <category>Artes Visuais</category>
-    </item>
-    <item>
-      <title>‘Sarau O Benedito?’ divulga produção literária no próximo sábado 8</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/sarau-o-benedito-divulga-producao-literaria-no-proximo-sabado-8?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sarau-o-benedito-divulga-producao-literaria-no-proximo-sabado-8?categoria=Interartes</guid>
-      <pubDate>Wed, 05 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O “Sarau O Benedito?” recebe mais uma edição no próximo sábado (8), a partir das 16h, no Cine Teatro Benedito Alves, na região central da cidade.</description>
-      <category>Interartes</category>
     </item>
   </channel>
 </rss>
