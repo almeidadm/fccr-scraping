@@ -5,16 +5,9 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 26 Jun 2026 09:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 19:50:46 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CULTSP PRO abre inscrição para cursos em São José</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/cultsp-pro-abre-inscricao-para-cursos-em-sao-jose?categoria=</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cultsp-pro-abre-inscricao-para-cursos-em-sao-jose?categoria=</guid>
-      <pubDate>Thu, 25 Jun 2026 12:00:00 -0300</pubDate>
-      <description>O Museu Municipal de São José dos Campos recebe, em agosto, os cursos “Formação e Experimentação em Escrita Criativa” e “Expografia: Linguagem, Espaço e Público”, ambos na modalidade presencial. As inscrições estão abertas até o próximo dia 2 de julho.</description>
-    </item>
     <item>
       <title>Orquestra Sinfônica do GURI realiza concerto no Cine Santana</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/orquestra-sinfonica-do-guri-realiza-concerto-no-cine-santana?categoria=Música</link>
@@ -22,6 +15,13 @@
       <pubDate>Thu, 25 Jun 2026 12:00:00 -0300</pubDate>
       <description>O Cine Santana recebe, no próximo dia sábado (27), às 10h, a apresentação da Orquestra Sinfônica do GURI São José dos Campos. A entrada é gratuita, sem necessidade de reserva de ingressos.</description>
       <category>Música</category>
+    </item>
+    <item>
+      <title>CULTSP PRO abre inscrição para cursos em São José</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cultsp-pro-abre-inscricao-para-cursos-em-sao-jose?categoria=</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cultsp-pro-abre-inscricao-para-cursos-em-sao-jose?categoria=</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 -0300</pubDate>
+      <description>O Museu Municipal de São José dos Campos recebe, em agosto, os cursos “Formação e Experimentação em Escrita Criativa” e “Expografia: Linguagem, Espaço e Público”, ambos na modalidade presencial. As inscrições estão abertas até o próximo dia 2 de julho.</description>
     </item>
     <item>
       <title>Chico Triste realiza Arraiá no Chico nesta sexta-feira, 26</title>
