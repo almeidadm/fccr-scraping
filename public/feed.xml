@@ -5,9 +5,16 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 28 Jun 2026 13:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 15:50:34 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>São José abre as portas do Museu da Casa Brasileira</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/sao-jose-abre-as-portas-do-museu-da-casa-brasileira?categoria=</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sao-jose-abre-as-portas-do-museu-da-casa-brasileira?categoria=</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 -0300</pubDate>
+      <description>São José dos Campos passa a abrigar, a partir deste sábado (27), o Museu da Casa Brasileira, referência nacional em arquitetura e design. A Residência Olivo Gomes, no Parque da Cidade, está de portas abertas para visitantes de todo o brasil. A exposição “Sob a casa, outras casas” já pode ser visitada de quinta-feira a domingo, das 10h às 17h</description>
+    </item>
     <item>
       <title>Orquestra Sinfônica do GURI realiza concerto no Cine Santana</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/orquestra-sinfonica-do-guri-realiza-concerto-no-cine-santana?categoria=Música</link>
@@ -1591,14 +1598,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Thu, 06 Nov 2025 12:00:00 -0300</pubDate>
       <description>Em novembro, o Domingo no Parque chega dividido entre sua programação normal e os eventos especiais do Mês da Música.</description>
       <category>Música||Teatro</category>
-    </item>
-    <item>
-      <title>Casa do Médico recebe nova exposição a partir do dia 17</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/casa-do-medico-recebe-nova-exposicao-a-partir-do-dia-17?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-do-medico-recebe-nova-exposicao-a-partir-do-dia-17?categoria=Artes Visuais</guid>
-      <pubDate>Thu, 06 Nov 2025 12:00:00 -0300</pubDate>
-      <description>A Casa do Médico, que fica na região central de São José dos Campos, recebe, a partir da próxima segunda-feira (17), a exposição “Vida em Papel”, do artista Luis Veri.</description>
-      <category>Artes Visuais</category>
     </item>
   </channel>
 </rss>
