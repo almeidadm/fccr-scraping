@@ -5,9 +5,17 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 30 Jun 2026 03:51:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:22:43 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filmes de futebol entram em cartaz no Cine Santana</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/filmes-de-futebol-entram-em-cartaz-no-cine-santana?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/filmes-de-futebol-entram-em-cartaz-no-cine-santana?categoria=Cinema</guid>
+      <pubDate>Tue, 30 Jun 2026 12:00:00 -0300</pubDate>
+      <description>O Cine Santana exibe em julho as sessões de cinema em parceria com o programa Pontos MIS. Em clima de Copa do Mundo, as exibições gratuitas abordam a história do esporte, personagens marcantes e narrativas que mostram como o futebol faz parte da cultura e da identidade brasileira.</description>
+      <category>Cinema</category>
+    </item>
     <item>
       <title>São José abre as portas do Museu da Casa Brasileira</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/sao-jose-abre-as-portas-do-museu-da-casa-brasileira?categoria=</link>
@@ -1590,14 +1598,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Thu, 06 Nov 2025 12:00:00 -0300</pubDate>
       <description>A segunda semana do Mês da Música continua com uma programação diversa. Serão quatro dias de shows gratuitos e em vários cantos da cidade. A Orquestra Joseense apresenta seu concerto no Teatro Municipal na próxima quarta-feira (12). Iretta Sanders, ao lado do grupo The Simi Brothers, será atração do Blues no Municipal Especial no dia 13.</description>
       <category>Música</category>
-    </item>
-    <item>
-      <title>Parque da Cidade recebe espetáculos infantis em novembro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/parque-da-cidade-recebe-espetaculos-infantis-em-novembro-?categoria=Música||Teatro</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/parque-da-cidade-recebe-espetaculos-infantis-em-novembro-?categoria=Música||Teatro</guid>
-      <pubDate>Thu, 06 Nov 2025 12:00:00 -0300</pubDate>
-      <description>Em novembro, o Domingo no Parque chega dividido entre sua programação normal e os eventos especiais do Mês da Música.</description>
-      <category>Música||Teatro</category>
     </item>
   </channel>
 </rss>

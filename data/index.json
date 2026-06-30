@@ -1,6 +1,6 @@
 {
-  "count": 2535,
-  "generated_at": "2026-06-30T03:51:05+00:00",
+  "count": 2536,
+  "generated_at": "2026-06-30T14:22:43+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25161,6 +25161,16 @@
       "summary": "São José dos Campos passa a abrigar, a partir deste sábado (27), o Museu da Casa Brasileira, referência nacional em arquitetura e design. A Residência Olivo Gomes, no Parque da Cidade, está de portas abertas para visitantes de todo o brasil. A exposição “Sob a casa, outras casas” já pode ser visitada de quinta-feira a domingo, das 10h às 17h",
       "title": "São José abre as portas do Museu da Casa Brasileira",
       "url": "https://fccr.sp.gov.br/fccr/noticias/sao-jose-abre-as-portas-do-museu-da-casa-brasileira?categoria="
+    },
+    "9102": {
+      "categoria": "Cinema",
+      "first_seen": "2026-06-30T14:22:43+00:00",
+      "id": "9102",
+      "published_at": "2026-06-30",
+      "slug": "filmes-de-futebol-entram-em-cartaz-no-cine-santana",
+      "summary": "O Cine Santana exibe em julho as sessões de cinema em parceria com o programa Pontos MIS. Em clima de Copa do Mundo, as exibições gratuitas abordam a história do esporte, personagens marcantes e narrativas que mostram como o futebol faz parte da cultura e da identidade brasileira.",
+      "title": "Filmes de futebol entram em cartaz no Cine Santana",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/filmes-de-futebol-entram-em-cartaz-no-cine-santana?categoria=Cinema"
     },
     "951": {
       "categoria": "Música",
