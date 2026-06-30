@@ -1,6 +1,6 @@
 {
-  "count": 2536,
-  "generated_at": "2026-06-30T14:22:43+00:00",
+  "count": 2538,
+  "generated_at": "2026-06-30T18:19:12+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25171,6 +25171,26 @@
       "summary": "O Cine Santana exibe em julho as sessões de cinema em parceria com o programa Pontos MIS. Em clima de Copa do Mundo, as exibições gratuitas abordam a história do esporte, personagens marcantes e narrativas que mostram como o futebol faz parte da cultura e da identidade brasileira.",
       "title": "Filmes de futebol entram em cartaz no Cine Santana",
       "url": "https://fccr.sp.gov.br/fccr/noticias/filmes-de-futebol-entram-em-cartaz-no-cine-santana?categoria=Cinema"
+    },
+    "9106": {
+      "categoria": "Teatro",
+      "first_seen": "2026-06-30T18:19:12+00:00",
+      "id": "9106",
+      "published_at": "2026-06-30",
+      "slug": "temporada-cet-divulga-atracoes-de-julho",
+      "summary": "A programação de julho da Temporada CET já foi divulgada e contará com dois espetáculos gratuitos. Os ingressos devem ser retirados pela plataforma Eventbrite, com disponibilidade a partir de dois dias antes de cada apresentação.",
+      "title": "Temporada CET divulga atrações de julho",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/temporada-cet-divulga-atracoes-de-julho?categoria=Teatro"
+    },
+    "9107": {
+      "categoria": "Interartes",
+      "first_seen": "2026-06-30T18:19:12+00:00",
+      "id": "9107",
+      "published_at": "2026-06-30",
+      "slug": "domingo-no-parque-reune-musica-circo-e-arte-de-rua-em-julho",
+      "summary": "Ao longo do mês de julho, a programação do projeto Domingo no Parque leva três atrações à Arena do Parque da Cidade. As apresentações acontecem sempre aos domingos, às 15h.",
+      "title": "Domingo no Parque reúne música, circo e arte de rua em julho",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-reune-musica-circo-e-arte-de-rua-em-julho?categoria=Interartes"
     },
     "951": {
       "categoria": "Música",
