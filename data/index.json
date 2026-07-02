@@ -1,6 +1,6 @@
 {
-  "count": 2538,
-  "generated_at": "2026-07-01T14:40:13+00:00",
+  "count": 2539,
+  "generated_at": "2026-07-02T12:58:40+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25191,6 +25191,16 @@
       "summary": "Ao longo do mês de julho, a programação do projeto Domingo no Parque leva três atrações à Arena do Parque da Cidade. As apresentações acontecem sempre aos domingos, às 15h.",
       "title": "Domingo no Parque reúne música, circo e arte de rua em julho",
       "url": "https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-reune-musica-circo-e-arte-de-rua-em-julho?categoria=Interartes"
+    },
+    "9112": {
+      "categoria": "Fomento",
+      "first_seen": "2026-07-02T12:58:40+00:00",
+      "id": "9112",
+      "published_at": "2026-07-01",
+      "slug": "sao-jose-inaugura-primeira-arena-gamer-publica-de-sp",
+      "summary": "São José dos Campos inaugura neste sábado (4), às 10h, no auditório do Museu Municipal, a Arena Sanja Gamer, primeira arena gamer pública do Estado de São Paulo.",
+      "title": "São José inaugura primeira arena gamer pública de SP",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/sao-jose-inaugura-primeira-arena-gamer-publica-de-sp?categoria=Fomento"
     },
     "951": {
       "categoria": "Música",

@@ -5,9 +5,17 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 01 Jul 2026 14:40:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 12:58:40 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>São José inaugura primeira arena gamer pública de SP</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/sao-jose-inaugura-primeira-arena-gamer-publica-de-sp?categoria=Fomento</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sao-jose-inaugura-primeira-arena-gamer-publica-de-sp?categoria=Fomento</guid>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 -0300</pubDate>
+      <description>São José dos Campos inaugura neste sábado (4), às 10h, no auditório do Museu Municipal, a Arena Sanja Gamer, primeira arena gamer pública do Estado de São Paulo.</description>
+      <category>Fomento</category>
+    </item>
     <item>
       <title>Temporada CET divulga atrações de julho</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/temporada-cet-divulga-atracoes-de-julho?categoria=Teatro</link>
@@ -1590,14 +1598,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Mon, 10 Nov 2025 12:00:00 -0300</pubDate>
       <description>O Grupo Sertão José apresenta o show “De Violas, Rumo ao Sertão”, no próximo dia 14 de novembro, a partir das 19h30, na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste da cidade.</description>
       <category>Música</category>
-    </item>
-    <item>
-      <title>Exposição e workshop com temática africana estreiam no Cine Teatro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/exposicao-e-workshop-com-tematica-africana-estreiam-no-cine-teatro?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/exposicao-e-workshop-com-tematica-africana-estreiam-no-cine-teatro?categoria=Artes Visuais</guid>
-      <pubDate>Thu, 06 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O Cine Teatro Benedito Alves recebe, neste mês da Consciência Negra, a exposição “Corpos di Afro” da atriz, artista visual, professora de teatro e oficineira Jessica Mendezz.</description>
-      <category>Artes Visuais</category>
     </item>
   </channel>
 </rss>
