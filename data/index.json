@@ -1,6 +1,6 @@
 {
-  "count": 2539,
-  "generated_at": "2026-07-02T12:58:40+00:00",
+  "count": 2544,
+  "generated_at": "2026-07-02T20:22:50+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25201,6 +25201,56 @@
       "summary": "São José dos Campos inaugura neste sábado (4), às 10h, no auditório do Museu Municipal, a Arena Sanja Gamer, primeira arena gamer pública do Estado de São Paulo.",
       "title": "São José inaugura primeira arena gamer pública de SP",
       "url": "https://fccr.sp.gov.br/fccr/noticias/sao-jose-inaugura-primeira-arena-gamer-publica-de-sp?categoria=Fomento"
+    },
+    "9114": {
+      "categoria": "Interartes",
+      "first_seen": "2026-07-02T20:22:50+00:00",
+      "id": "9114",
+      "published_at": "2026-07-02",
+      "slug": "programacao-de-julho-leva-atividades-culturais-a-diferentes-regioes-da-cidade",
+      "summary": "A Fundação Cultural Cassiano Ricardo promove, ao longo deste mês, uma série de atividades culturais em diferentes espaços da cidade",
+      "title": "Programação de julho leva atividades culturais a diferentes regiões da cidade",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/programacao-de-julho-leva-atividades-culturais-a-diferentes-regioes-da-cidade?categoria=Interartes"
+    },
+    "9115": {
+      "categoria": null,
+      "first_seen": "2026-07-02T20:22:50+00:00",
+      "id": "9115",
+      "published_at": "2026-07-02",
+      "slug": "cultura-em-sao-jose-alcanca-maior-aprovacao-dos-ultimos-12-meses",
+      "summary": "A Cultura em São José dos Campos alcançou, entre março e junho deste ano, o maior patamar de aprovação popular dos últimos 12 meses. É o que aponta a mais recente pesquisa Indsat (Indicadores de Satisfação dos Serviços Públicos), divulgada no fim de junho. A avaliação positiva atingiu 75,5% em junho deste ano.",
+      "title": "Cultura em São José alcança maior aprovação dos últimos 12 meses",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cultura-em-sao-jose-alcanca-maior-aprovacao-dos-ultimos-12-meses?categoria="
+    },
+    "9116": {
+      "categoria": "Interartes",
+      "first_seen": "2026-07-02T20:22:50+00:00",
+      "id": "9116",
+      "published_at": "2026-07-02",
+      "slug": "confira-os-principais-destaques-da-agenda-cultural-da-fccr-para-julho-",
+      "summary": "No mês de aniversário de São José dos Campos, a Fundação Cultural Cassiano Ricardo vai realizar grandes eventos para comemorar os 259 anos da cidade.",
+      "title": "Confira os principais destaques da agenda cultural da FCCR para julho",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/confira-os-principais-destaques-da-agenda-cultural-da-fccr-para-julho-?categoria=Interartes"
+    },
+    "9118": {
+      "categoria": "Artes Circenses",
+      "first_seen": "2026-07-02T20:22:50+00:00",
+      "id": "9118",
+      "published_at": "2026-07-02",
+      "slug": "rancho-do-tropeiro-abre-exposicao-de-brinquedos-feitos-com-material-reciclavel",
+      "summary": "A Casa de Cultura Rancho do Tropeiro, no distrito de Eugênio de Melo, região leste da cidade, recebe até 16 de julho a exposição “Eco Circo Brinquedos Circenses e de Antigamente”, que conta com brinquedos produzidos a partir de materiais reciclados.",
+      "title": "Rancho do Tropeiro abre exposição de brinquedos feitos com material reciclável",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-abre-exposicao-de-brinquedos-feitos-com-material-reciclavel?categoria=Artes Circenses"
+    },
+    "9119": {
+      "categoria": "Cultura Popular",
+      "first_seen": "2026-07-02T20:22:50+00:00",
+      "id": "9119",
+      "published_at": "2026-07-02",
+      "slug": "vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silva",
+      "summary": "A próxima edição do Vivência Sertaneja, na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, já tem data marcada! Vai ser na próxima quarta-feira (3), a partir das 18h. O encontro reúne os violeiros e apreciadores da música e da cultura caipira para que compartilhem a suas artes e conhecimentos.",
+      "title": "Vivência Sertaneja reúne violeiros na Casa de Cultura Eugênia da Silva",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silva?categoria=Cultura Popular"
     },
     "951": {
       "categoria": "Música",

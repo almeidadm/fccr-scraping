@@ -5,9 +5,48 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 02 Jul 2026 12:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 20:22:50 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vivência Sertaneja reúne violeiros na Casa de Cultura Eugênia da Silva</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silva?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silva?categoria=Cultura Popular</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A próxima edição do Vivência Sertaneja, na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, já tem data marcada! Vai ser na próxima quarta-feira (3), a partir das 18h. O encontro reúne os violeiros e apreciadores da música e da cultura caipira para que compartilhem a suas artes e conhecimentos.</description>
+      <category>Cultura Popular</category>
+    </item>
+    <item>
+      <title>Rancho do Tropeiro abre exposição de brinquedos feitos com material reciclável</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-abre-exposicao-de-brinquedos-feitos-com-material-reciclavel?categoria=Artes Circenses</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-abre-exposicao-de-brinquedos-feitos-com-material-reciclavel?categoria=Artes Circenses</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Rancho do Tropeiro, no distrito de Eugênio de Melo, região leste da cidade, recebe até 16 de julho a exposição “Eco Circo Brinquedos Circenses e de Antigamente”, que conta com brinquedos produzidos a partir de materiais reciclados.</description>
+      <category>Artes Circenses</category>
+    </item>
+    <item>
+      <title>Confira os principais destaques da agenda cultural da FCCR para julho</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/confira-os-principais-destaques-da-agenda-cultural-da-fccr-para-julho-?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/confira-os-principais-destaques-da-agenda-cultural-da-fccr-para-julho-?categoria=Interartes</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 -0300</pubDate>
+      <description>No mês de aniversário de São José dos Campos, a Fundação Cultural Cassiano Ricardo vai realizar grandes eventos para comemorar os 259 anos da cidade.</description>
+      <category>Interartes</category>
+    </item>
+    <item>
+      <title>Cultura em São José alcança maior aprovação dos últimos 12 meses</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cultura-em-sao-jose-alcanca-maior-aprovacao-dos-ultimos-12-meses?categoria=</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cultura-em-sao-jose-alcanca-maior-aprovacao-dos-ultimos-12-meses?categoria=</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Cultura em São José dos Campos alcançou, entre março e junho deste ano, o maior patamar de aprovação popular dos últimos 12 meses. É o que aponta a mais recente pesquisa Indsat (Indicadores de Satisfação dos Serviços Públicos), divulgada no fim de junho. A avaliação positiva atingiu 75,5% em junho deste ano.</description>
+    </item>
+    <item>
+      <title>Programação de julho leva atividades culturais a diferentes regiões da cidade</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/programacao-de-julho-leva-atividades-culturais-a-diferentes-regioes-da-cidade?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/programacao-de-julho-leva-atividades-culturais-a-diferentes-regioes-da-cidade?categoria=Interartes</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Fundação Cultural Cassiano Ricardo promove, ao longo deste mês, uma série de atividades culturais em diferentes espaços da cidade</description>
+      <category>Interartes</category>
+    </item>
     <item>
       <title>São José inaugura primeira arena gamer pública de SP</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/sao-jose-inaugura-primeira-arena-gamer-publica-de-sp?categoria=Fomento</link>
@@ -1558,46 +1597,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Thu, 13 Nov 2025 12:00:00 -0300</pubDate>
       <description>A nova edição da Tarde do Charme acontece neste domingo (16), a partir das 14h, no Cine Teatro Benedito Alves, na região central de São José dos Campos. O evento inclui workshop de hip hop e dança charme.</description>
       <category>Dança</category>
-    </item>
-    <item>
-      <title>Museu do Folclore Angela Savastano abre nova exposição temporária</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-angela-savastano-abre-nova-exposicao-temporaria?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-angela-savastano-abre-nova-exposicao-temporaria?categoria=Artes Visuais</guid>
-      <pubDate>Wed, 12 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O Museu do Folclore Angela Savastano tem uma nova exposição temporária denominada Fazeres Ancestrais: Adinkras e Fios de Contas.</description>
-      <category>Artes Visuais</category>
-    </item>
-    <item>
-      <title>Cine Teatro é palco do lançamento do livro “Réstias de Memórias”</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/cine-teatro-e-palco-do-lancamento-do-livro-restias-de-memorias?categoria=Literatura</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-teatro-e-palco-do-lancamento-do-livro-restias-de-memorias?categoria=Literatura</guid>
-      <pubDate>Wed, 12 Nov 2025 12:00:00 -0300</pubDate>
-      <description>Na próxima quarta-feira, dia 12 de novembro, às 19h, o Cine Teatro Benedito Alves, região central da cidade, recebe o autor Charles Lima para o lançamento de seu livro “Réstias de Memórias”.</description>
-      <category>Literatura</category>
-    </item>
-    <item>
-      <title>Museu de Arte Sacra abre exposição ‘Presépios’ em 29 de novembro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/museu-de-arte-sacra-abre-exposicao-presepios-em-29-de-novembro?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-de-arte-sacra-abre-exposicao-presepios-em-29-de-novembro?categoria=Artes Visuais</guid>
-      <pubDate>Wed, 12 Nov 2025 12:00:00 -0300</pubDate>
-      <description>A tradicional exposição “Presépios”, do Museu de Arte Sacra, na região central de São José dos Campos, será aberta a visitação no próximo dia 29 de novembro, às 9h.</description>
-      <category>Artes Visuais</category>
-    </item>
-    <item>
-      <title>São Francisco Xavier realiza Festival de Talentos neste sábado</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/sao-francisco-xavier-realiza-festival-de-talentos-neste-sabado?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sao-francisco-xavier-realiza-festival-de-talentos-neste-sabado?categoria=Interartes</guid>
-      <pubDate>Wed, 12 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O 13º Festival de Talentos, em São Francisco Xavier, acontece neste sábado (13), a partir das 11h, na Praça Cônego Manzi, em frente à Casa de Cultura Júlio Neme.</description>
-      <category>Interartes</category>
-    </item>
-    <item>
-      <title>Clássicos do Sertanejo embalam região leste no dia 14</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/classicos-do-sertanejo-embalam-regiao-leste-no-dia-14?categoria=Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/classicos-do-sertanejo-embalam-regiao-leste-no-dia-14?categoria=Música</guid>
-      <pubDate>Mon, 10 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O Grupo Sertão José apresenta o show “De Violas, Rumo ao Sertão”, no próximo dia 14 de novembro, a partir das 19h30, na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste da cidade.</description>
-      <category>Música</category>
     </item>
   </channel>
 </rss>
