@@ -5,31 +5,15 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 02 Jul 2026 20:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 18:12:18 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Vivência Sertaneja reúne violeiros na Casa de Cultura Eugênia da Silva</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silva?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silva?categoria=Cultura Popular</guid>
+      <title>Programação de julho leva atividades culturais a diferentes regiões da cidade</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/programacao-de-julho-leva-atividades-culturais-a-diferentes-regioes-da-cidade?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/programacao-de-julho-leva-atividades-culturais-a-diferentes-regioes-da-cidade?categoria=Interartes</guid>
       <pubDate>Thu, 02 Jul 2026 12:00:00 -0300</pubDate>
-      <description>A próxima edição do Vivência Sertaneja, na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, já tem data marcada! Vai ser na próxima quarta-feira (3), a partir das 18h. O encontro reúne os violeiros e apreciadores da música e da cultura caipira para que compartilhem a suas artes e conhecimentos.</description>
-      <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>Rancho do Tropeiro abre exposição de brinquedos feitos com material reciclável</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-abre-exposicao-de-brinquedos-feitos-com-material-reciclavel?categoria=Artes Circenses</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-abre-exposicao-de-brinquedos-feitos-com-material-reciclavel?categoria=Artes Circenses</guid>
-      <pubDate>Thu, 02 Jul 2026 12:00:00 -0300</pubDate>
-      <description>A Casa de Cultura Rancho do Tropeiro, no distrito de Eugênio de Melo, região leste da cidade, recebe até 16 de julho a exposição “Eco Circo Brinquedos Circenses e de Antigamente”, que conta com brinquedos produzidos a partir de materiais reciclados.</description>
-      <category>Artes Circenses</category>
-    </item>
-    <item>
-      <title>Confira os principais destaques da agenda cultural da FCCR para julho</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/confira-os-principais-destaques-da-agenda-cultural-da-fccr-para-julho-?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/confira-os-principais-destaques-da-agenda-cultural-da-fccr-para-julho-?categoria=Interartes</guid>
-      <pubDate>Thu, 02 Jul 2026 12:00:00 -0300</pubDate>
-      <description>No mês de aniversário de São José dos Campos, a Fundação Cultural Cassiano Ricardo vai realizar grandes eventos para comemorar os 259 anos da cidade.</description>
+      <description>A Fundação Cultural Cassiano Ricardo promove, ao longo deste mês, uma série de atividades culturais em diferentes espaços da cidade</description>
       <category>Interartes</category>
     </item>
     <item>
@@ -40,12 +24,28 @@
       <description>A Cultura em São José dos Campos alcançou, entre março e junho deste ano, o maior patamar de aprovação popular dos últimos 12 meses. É o que aponta a mais recente pesquisa Indsat (Indicadores de Satisfação dos Serviços Públicos), divulgada no fim de junho. A avaliação positiva atingiu 75,5% em junho deste ano.</description>
     </item>
     <item>
-      <title>Programação de julho leva atividades culturais a diferentes regiões da cidade</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/programacao-de-julho-leva-atividades-culturais-a-diferentes-regioes-da-cidade?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/programacao-de-julho-leva-atividades-culturais-a-diferentes-regioes-da-cidade?categoria=Interartes</guid>
+      <title>Confira os principais destaques da agenda cultural da FCCR para julho</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/confira-os-principais-destaques-da-agenda-cultural-da-fccr-para-julho-?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/confira-os-principais-destaques-da-agenda-cultural-da-fccr-para-julho-?categoria=Interartes</guid>
       <pubDate>Thu, 02 Jul 2026 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo promove, ao longo deste mês, uma série de atividades culturais em diferentes espaços da cidade</description>
+      <description>No mês de aniversário de São José dos Campos, a Fundação Cultural Cassiano Ricardo vai realizar grandes eventos para comemorar os 259 anos da cidade.</description>
       <category>Interartes</category>
+    </item>
+    <item>
+      <title>Rancho do Tropeiro abre exposição de brinquedos feitos com material reciclável</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-abre-exposicao-de-brinquedos-feitos-com-material-reciclavel?categoria=Artes Circenses</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-abre-exposicao-de-brinquedos-feitos-com-material-reciclavel?categoria=Artes Circenses</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Rancho do Tropeiro, no distrito de Eugênio de Melo, região leste da cidade, recebe até 16 de julho a exposição “Eco Circo Brinquedos Circenses e de Antigamente”, que conta com brinquedos produzidos a partir de materiais reciclados.</description>
+      <category>Artes Circenses</category>
+    </item>
+    <item>
+      <title>Vivência Sertaneja reúne violeiros na Casa de Cultura Eugênia da Silva</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silva?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silva?categoria=Cultura Popular</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A próxima edição do Vivência Sertaneja, na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, já tem data marcada! Vai ser na próxima quarta-feira (3), a partir das 18h. O encontro reúne os violeiros e apreciadores da música e da cultura caipira para que compartilhem a suas artes e conhecimentos.</description>
+      <category>Cultura Popular</category>
     </item>
     <item>
       <title>São José inaugura primeira arena gamer pública de SP</title>
