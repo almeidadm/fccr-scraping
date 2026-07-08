@@ -5,17 +5,9 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 08 Jul 2026 02:50:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:31:28 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cine do Centro exibe drama francês ‘Marmaille (Molecada)’</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-drama-frances-marmaille-molecada?categoria=Cinema</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-drama-frances-marmaille-molecada?categoria=Cinema</guid>
-      <pubDate>Mon, 06 Jul 2026 12:00:00 -0300</pubDate>
-      <description>O Cine do Centro de julho exibe o drama francês “Marmaille (Molecada)” na quarta-feira (15), às 19h, no auditório do Museu Municipal, região central de São José dos Campos.</description>
-      <category>Cinema</category>
-    </item>
     <item>
       <title>Cia. de Dança celebra 259 anos de São José com espetáculo no Teatro Municipal</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/cia-de-danca-celebra-259-anos-de-sao-jose-com-espetaculo-no-teatro-municipal?categoria=Dança</link>
@@ -23,6 +15,14 @@
       <pubDate>Mon, 06 Jul 2026 12:00:00 -0300</pubDate>
       <description>A Companhia de Dança de São José dos Campos, da Fundação Cultural Cassiano Ricardo, abre as comemorações do aniversário de 259 anos da cidade reunindo grupos e academias para um espetáculo que celebra a diversidade da dança no próximo domingo (12), às 19h, no Teatro Municipal, região central da cidade.</description>
       <category>Dança</category>
+    </item>
+    <item>
+      <title>Cine do Centro exibe drama francês ‘Marmaille (Molecada)’</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-drama-frances-marmaille-molecada?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-drama-frances-marmaille-molecada?categoria=Cinema</guid>
+      <pubDate>Mon, 06 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Cine do Centro de julho exibe o drama francês “Marmaille (Molecada)” na quarta-feira (15), às 19h, no auditório do Museu Municipal, região central de São José dos Campos.</description>
+      <category>Cinema</category>
     </item>
     <item>
       <title>Programação de julho leva atividades culturais a diferentes regiões da cidade</title>
