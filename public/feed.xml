@@ -5,16 +5,16 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 08 Jul 2026 14:55:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 16:40:44 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Oficina de Danças Circulares convida público para Festa Julina</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/oficina-de-dancas-circulares-convida-publico-para-festa-julina?categoria=Dança</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/oficina-de-dancas-circulares-convida-publico-para-festa-julina?categoria=Dança</guid>
+      <title>Teatro Municipal recebe tributo a Michael Jackson na próxima sexta</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/teatro-municipal-recebe-tributo-a-michael-jackson-na-proxima-sexta?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/teatro-municipal-recebe-tributo-a-michael-jackson-na-proxima-sexta?categoria=Música</guid>
       <pubDate>Wed, 08 Jul 2026 12:00:00 -0300</pubDate>
-      <description>O Centro Cultural Clemente Gomes recebe, na próxima segunda (13), às 19h, uma festa julina da oficina de Danças Circulares. A atividade integra o Programa Arte nos Bairros, da Fundação Cultural Cassiano Ricardo. O evento é gratuito e aberto ao público.</description>
-      <category>Dança</category>
+      <description>O Teatro Municipal de São José dos Campos será palco, na sexta-feira (17), às 20h, do espetáculo musical The Thriller Experience, um tributo a Michael Jackson. O show faz parte da programação de celebração aos 259 anos da cidade.</description>
+      <category>Música</category>
     </item>
     <item>
       <title>Noite de rock autoral e metal agita o Palco do Arquivo</title>
@@ -23,6 +23,14 @@
       <pubDate>Wed, 08 Jul 2026 12:00:00 -0300</pubDate>
       <description>A Fundação Cultural Cassiano Ricardo realiza, no sábado (18), às 20h, mais uma edição do projeto Cine Rock, com a participação das bandas Viper, ⁠Matanza Inc., Helkan e Debrix. O encontro acontecerá no Palco do Arquivo, na sede da Fundação Cultural.</description>
       <category>Música</category>
+    </item>
+    <item>
+      <title>Oficina de Danças Circulares convida público para Festa Julina</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/oficina-de-dancas-circulares-convida-publico-para-festa-julina?categoria=Dança</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/oficina-de-dancas-circulares-convida-publico-para-festa-julina?categoria=Dança</guid>
+      <pubDate>Wed, 08 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Centro Cultural Clemente Gomes recebe, na próxima segunda (13), às 19h, uma festa julina da oficina de Danças Circulares. A atividade integra o Programa Arte nos Bairros, da Fundação Cultural Cassiano Ricardo. O evento é gratuito e aberto ao público.</description>
+      <category>Dança</category>
     </item>
     <item>
       <title>Cia. de Dança celebra 259 anos de São José com espetáculo no Teatro Municipal</title>
@@ -1589,14 +1597,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Tue, 18 Nov 2025 12:00:00 -0300</pubDate>
       <description>O presépio do Museu do Folclore Angela Savastano começará a ser montado nesta terça-feira (18), desta vez pela Contramestre da Folia de Reis do Mestre Zé Mira, Soynaara Maria Faria Araújo Pires de Morais, 58 anos, nascida em Arapeí, no Vale do Paraíba.</description>
       <category>Artes Visuais</category>
-    </item>
-    <item>
-      <title>Fundação Cultural lança edital para direção artística da Cia de Dança</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-lanca-edital-para-direcao-artistica-da-cia-de-danca?categoria=Dança</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-lanca-edital-para-direcao-artistica-da-cia-de-danca?categoria=Dança</guid>
-      <pubDate>Fri, 14 Nov 2025 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo lançou edital de concorrência eletrônica para contratação do serviço de direção artística/coreógrafo para a Companhia de Dança de São José dos Campos.</description>
-      <category>Dança</category>
     </item>
   </channel>
 </rss>
