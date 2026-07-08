@@ -5,9 +5,25 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 05 Jul 2026 13:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 02:50:18 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cine do Centro exibe drama francês ‘Marmaille (Molecada)’</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-drama-frances-marmaille-molecada?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-drama-frances-marmaille-molecada?categoria=Cinema</guid>
+      <pubDate>Mon, 06 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Cine do Centro de julho exibe o drama francês “Marmaille (Molecada)” na quarta-feira (15), às 19h, no auditório do Museu Municipal, região central de São José dos Campos.</description>
+      <category>Cinema</category>
+    </item>
+    <item>
+      <title>Cia. de Dança celebra 259 anos de São José com espetáculo no Teatro Municipal</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cia-de-danca-celebra-259-anos-de-sao-jose-com-espetaculo-no-teatro-municipal?categoria=Dança</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cia-de-danca-celebra-259-anos-de-sao-jose-com-espetaculo-no-teatro-municipal?categoria=Dança</guid>
+      <pubDate>Mon, 06 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Companhia de Dança de São José dos Campos, da Fundação Cultural Cassiano Ricardo, abre as comemorações do aniversário de 259 anos da cidade reunindo grupos e academias para um espetáculo que celebra a diversidade da dança no próximo domingo (12), às 19h, no Teatro Municipal, região central da cidade.</description>
+      <category>Dança</category>
+    </item>
     <item>
       <title>Programação de julho leva atividades culturais a diferentes regiões da cidade</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/programacao-de-julho-leva-atividades-culturais-a-diferentes-regioes-da-cidade?categoria=Interartes</link>
@@ -1581,22 +1597,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Fri, 14 Nov 2025 12:00:00 -0300</pubDate>
       <description>Na próxima quarta-feira (19), véspera do Dia da Consciência Negra, a Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, recebe uma apresentação especial do grupo de jongo Mistura da Raça. A atração acontece às 10h30.</description>
       <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>Encerramento de oficinas terá apresentações a partir desta quinta</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/encerramento-de-oficinas-tera-apresentacoes-a-partir-desta-quinta?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/encerramento-de-oficinas-tera-apresentacoes-a-partir-desta-quinta?categoria=Interartes</guid>
-      <pubDate>Thu, 13 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O fim de 2025 se aproxima e, com ele, começam as apresentações de encerramento das oficinas culturais oferecidas pela Fundação Cultural Cassiano Ricardo.</description>
-      <category>Interartes</category>
-    </item>
-    <item>
-      <title>Tarde do Charme movimenta o Cine Benedito Alves neste domingo</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/tarde-do-charme-movimenta-o-cine-benedito-alves-neste-domingo?categoria=Dança</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/tarde-do-charme-movimenta-o-cine-benedito-alves-neste-domingo?categoria=Dança</guid>
-      <pubDate>Thu, 13 Nov 2025 12:00:00 -0300</pubDate>
-      <description>A nova edição da Tarde do Charme acontece neste domingo (16), a partir das 14h, no Cine Teatro Benedito Alves, na região central de São José dos Campos. O evento inclui workshop de hip hop e dança charme.</description>
-      <category>Dança</category>
     </item>
   </channel>
 </rss>

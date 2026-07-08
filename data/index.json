@@ -1,6 +1,6 @@
 {
-  "count": 2544,
-  "generated_at": "2026-07-05T13:43:13+00:00",
+  "count": 2546,
+  "generated_at": "2026-07-08T02:50:18+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25251,6 +25251,26 @@
       "summary": "A próxima edição do Vivência Sertaneja, na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, já tem data marcada! Vai ser na próxima quarta-feira (3), a partir das 18h. O encontro reúne os violeiros e apreciadores da música e da cultura caipira para que compartilhem a suas artes e conhecimentos.",
       "title": "Vivência Sertaneja reúne violeiros na Casa de Cultura Eugênia da Silva",
       "url": "https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silva?categoria=Cultura Popular"
+    },
+    "9123": {
+      "categoria": "Dança",
+      "first_seen": "2026-07-08T02:50:18+00:00",
+      "id": "9123",
+      "published_at": "2026-07-06",
+      "slug": "cia-de-danca-celebra-259-anos-de-sao-jose-com-espetaculo-no-teatro-municipal",
+      "summary": "A Companhia de Dança de São José dos Campos, da Fundação Cultural Cassiano Ricardo, abre as comemorações do aniversário de 259 anos da cidade reunindo grupos e academias para um espetáculo que celebra a diversidade da dança no próximo domingo (12), às 19h, no Teatro Municipal, região central da cidade.",
+      "title": "Cia. de Dança celebra 259 anos de São José com espetáculo no Teatro Municipal",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cia-de-danca-celebra-259-anos-de-sao-jose-com-espetaculo-no-teatro-municipal?categoria=Dança"
+    },
+    "9124": {
+      "categoria": "Cinema",
+      "first_seen": "2026-07-08T02:50:18+00:00",
+      "id": "9124",
+      "published_at": "2026-07-06",
+      "slug": "cine-do-centro-exibe-drama-frances-marmaille-molecada",
+      "summary": "O Cine do Centro de julho exibe o drama francês “Marmaille (Molecada)” na quarta-feira (15), às 19h, no auditório do Museu Municipal, região central de São José dos Campos.",
+      "title": "Cine do Centro exibe drama francês ‘Marmaille (Molecada)’",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-drama-frances-marmaille-molecada?categoria=Cinema"
     },
     "951": {
       "categoria": "Música",
