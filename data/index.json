@@ -1,6 +1,6 @@
 {
-  "count": 2546,
-  "generated_at": "2026-07-08T12:21:14+00:00",
+  "count": 2548,
+  "generated_at": "2026-07-08T14:55:50+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25271,6 +25271,26 @@
       "summary": "O Cine do Centro de julho exibe o drama francês “Marmaille (Molecada)” na quarta-feira (15), às 19h, no auditório do Museu Municipal, região central de São José dos Campos.",
       "title": "Cine do Centro exibe drama francês ‘Marmaille (Molecada)’",
       "url": "https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-drama-frances-marmaille-molecada?categoria=Cinema"
+    },
+    "9136": {
+      "categoria": "Música",
+      "first_seen": "2026-07-08T14:55:50+00:00",
+      "id": "9136",
+      "published_at": "2026-07-08",
+      "slug": "noite-de-rock-autoral-e-metal-agita-o-palco-do-arquivo",
+      "summary": "A Fundação Cultural Cassiano Ricardo realiza, no sábado (18), às 20h, mais uma edição do projeto Cine Rock, com a participação das bandas Viper, ⁠Matanza Inc., Helkan e Debrix. O encontro acontecerá no Palco do Arquivo, na sede da Fundação Cultural.",
+      "title": "Noite de rock autoral e metal agita o Palco do Arquivo",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/noite-de-rock-autoral-e-metal-agita-o-palco-do-arquivo?categoria=Música"
+    },
+    "9137": {
+      "categoria": "Dança",
+      "first_seen": "2026-07-08T14:55:50+00:00",
+      "id": "9137",
+      "published_at": "2026-07-08",
+      "slug": "oficina-de-dancas-circulares-convida-publico-para-festa-julina",
+      "summary": "O Centro Cultural Clemente Gomes recebe, na próxima segunda (13), às 19h, uma festa julina da oficina de Danças Circulares. A atividade integra o Programa Arte nos Bairros, da Fundação Cultural Cassiano Ricardo. O evento é gratuito e aberto ao público.",
+      "title": "Oficina de Danças Circulares convida público para Festa Julina",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/oficina-de-dancas-circulares-convida-publico-para-festa-julina?categoria=Dança"
     },
     "951": {
       "categoria": "Música",
