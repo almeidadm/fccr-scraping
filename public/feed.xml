@@ -5,9 +5,261 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 14 Jul 2026 21:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 12:52:01 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cine Santana recebe a Jornada Patrimônio 2026</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-a-jornada-patrimonio-2026?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-a-jornada-patrimonio-2026?categoria=Cinema</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Cine Santana recebe na próxima segunda-feira (3), às 15h e às 19h, a Jornada Patrimônio 2026. O evento, com o tema “Nosso patrimônio é uma viagem!”, convida todos a conhecerem a série Trilhos que Contam o Brasil, em seis histórias que valorizam a memória ferroviária.</description>
+      <category>Cinema</category>
+    </item>
+    <item>
+      <title>Livro ‘Vozes do Sertão’ será lançado na Casa de Cultura Tim Lopes</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/livro-vozes-do-sertao-sera-lancado-na-casa-de-cultura-tim-lopes?categoria=Literatura</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/livro-vozes-do-sertao-sera-lancado-na-casa-de-cultura-tim-lopes?categoria=Literatura</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Tim Lopes recebe na próxima quinta (6), às 14h, o lançamento do livro “Vozes do Sertão: A Poética nas Ladainhas da capoeira Angola”, de Carla Yahn, 31° Volume da Coleção Cadernos do Folclore Museu do Folclore de São José dos Campos.</description>
+      <category>Literatura</category>
+    </item>
+    <item>
+      <title>Workshop apresenta folclore brasileiro por meio da modelagem em argila</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/workshop-apresenta-folclore-brasileiro-por-meio-da-modelagem-em-argila?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/workshop-apresenta-folclore-brasileiro-por-meio-da-modelagem-em-argila?categoria=Cultura Popular</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Centro Cultural Clemente Gomes recebe, nos dias 5 e 12 de agosto, às 14h30, o workshop “Folclore Vivo”. O evento é livre para todos os públicos. Não há necessidade de inscrições prévias.</description>
+      <category>Cultura Popular</category>
+    </item>
+    <item>
+      <title>Cia. de Dança se destaca entre 5 finalistas de prêmio estadual</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cia-de-danca-se-destaca-entre-5-finalistas-de-premio-estadual?categoria=Dança</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cia-de-danca-se-destaca-entre-5-finalistas-de-premio-estadual?categoria=Dança</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 -0300</pubDate>
+      <category>Dança</category>
+    </item>
+    <item>
+      <title>Cine Santana recebe oficina de produção audiovisual com celular</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-oficina-de-producao-audiovisual-com-celular?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-oficina-de-producao-audiovisual-com-celular?categoria=Cinema</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Cine Santana recebe, no próximo dia 10 de agosto, às 18h, a oficina “Cine Celular”, realizada em parceria com o programa Pontos MIS.</description>
+      <category>Cinema</category>
+    </item>
+    <item>
+      <title>Ateliê Johann Gütlich recebe workshop de confecção de máscaras teatrais</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/atelie-johann-gutlich-recebe-workshop-de-confeccao-de-mascaras-teatrais?categoria=Artes Visuais</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/atelie-johann-gutlich-recebe-workshop-de-confeccao-de-mascaras-teatrais?categoria=Artes Visuais</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O ateliê Johann Gütlich, no Parque da Cidade, região norte de São José dos Campos, vai receber nos dias 24, 25 e 26 de agosto, das 19h às 21h, o workshop de confecção de máscaras para espetáculos teatrais. A iniciativa é do ator e mascareiro Rafael Érnica.</description>
+      <category>Artes Visuais</category>
+    </item>
+    <item>
+      <title>Exposição ‘Forma, Afeto, Memória’ é atração na Casa do Médico</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/exposicao-‘forma-afeto-memoria’-e-atracao-na-casa-do-medico?categoria=Artes Visuais</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/exposicao-‘forma-afeto-memoria’-e-atracao-na-casa-do-medico?categoria=Artes Visuais</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A exposição “Forma, Afeto, Memória”, do artista Matheus Quintanilha, está aberta ao público a partir desta sexta-feira (31), na Casa do Médico, região central de São José dos Campos.</description>
+      <category>Artes Visuais</category>
+    </item>
+    <item>
+      <title>Temporada CET divulga atrações de agosto</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/temporada-cet-divulga-atracoes-de-agosto?categoria=Teatro</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/temporada-cet-divulga-atracoes-de-agosto?categoria=Teatro</guid>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A programação do CET para o mês de agosto já foi divulgada e conta com quatro espetáculos para todos os gostos. Os ingressos devem ser retirados pela plataforma Eventbrite, com disponibilidade a partir de dois dias antes de cada apresentação.</description>
+      <category>Teatro</category>
+    </item>
+    <item>
+      <title>Cine Santana exibe clássicos de Alfred Hitchcock</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cine-santana-exibe-classicos-de-alfred-hitchcock?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-santana-exibe-classicos-de-alfred-hitchcock?categoria=Cinema</guid>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Cine Santana, na região norte de São José dos Campos, exibe em agosto três clássicos do suspense dirigidos por Alfred Hitchcock, um dos mais importantes cineastas da história do cinema e referência no gênero.</description>
+      <category>Cinema</category>
+    </item>
+    <item>
+      <title>Centro Cultural Clemente Gomes recebe nova edição da Tarde do Charme</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/centro-cultural-clemente-gomes-recebe-nova-edicao-da-tarde-do-charme?categoria=Dança</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/centro-cultural-clemente-gomes-recebe-nova-edicao-da-tarde-do-charme?categoria=Dança</guid>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Centro Cultural Clemente Gomes promove, neste domingo (2), a partir das 15h, mais uma edição da Tarde do Charme. A atividade convida o público a vivenciar a cultura do Charme por meio da dança, da música e da convivência, proporcionando uma tarde de lazer, troca de experiências e celebração desse estilo.</description>
+      <category>Dança</category>
+    </item>
+    <item>
+      <title>FCCR abre inscrições para curso de Arte e Design no Ocidente</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/fccr-abre-inscricoes-para-curso-de-arte-e-design-no-ocidente?categoria=</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fccr-abre-inscricoes-para-curso-de-arte-e-design-no-ocidente?categoria=</guid>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Fundação Cultural Cassiano Ricardo está com inscrições abertas para o curso gratuito “Uma História Conjunta da Arte e do Design no Ocidente: O Século XX”, que acontece às quintas-feiras, das 19h às 21h30, no Museu Municipal de São José dos Campos.</description>
+    </item>
+    <item>
+      <title>Domingo no Parque terá cinco atrações em agosto</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-tera-cinco-atracoes-em-agosto?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-tera-cinco-atracoes-em-agosto?categoria=Interartes</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A programação de agosto do projeto Domingo no Parque, da Fundação Cultural Cassiano Ricardo, terá cinco atrações gratuitas para toda a famílias.</description>
+      <category>Interartes</category>
+    </item>
+    <item>
+      <title>Programação de agosto oferece atividades culturais para todos os gostos</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/programacao-de-agosto-oferece-atividades-culturais-para-todos-os-gostos?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/programacao-de-agosto-oferece-atividades-culturais-para-todos-os-gostos?categoria=Interartes</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Fundação Cultural Cassiano Ricardo oferece, em agosto, uma programação recheada de atividades culturais em toda a cidade.</description>
+      <category>Interartes</category>
+    </item>
+    <item>
+      <title>Museu da Casa Brasileira vai funcionar no feriado de aniversário</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/museu-da-casa-brasileira-vai-funcionar-no-feriado-de-aniversario?categoria=Patrimônio Histórico</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-da-casa-brasileira-vai-funcionar-no-feriado-de-aniversario?categoria=Patrimônio Histórico</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Museu da Casa Brasileira, no Parque da Cidade, vai abrir as portas abertas para visitação na próxima segunda-feira (27), feriado do aniversário de 259 anos de São José dos Campos.</description>
+      <category>Patrimônio Histórico</category>
+    </item>
+    <item>
+      <title>Sarau Outros Versos reúne música, teatro, dança e literatura na região leste</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/sarau-outros-versos-reune-musica-teatro-danca-e-literatura-na-regiao-leste?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sarau-outros-versos-reune-musica-teatro-danca-e-literatura-na-regiao-leste?categoria=Interartes</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 -0300</pubDate>
+      <description>Na próxima sexta-feira (31), às 19h, a Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, recebe mais edição do sarau “Outros Versos”. O evento mensal é dedicado a apresentações de artistas de diferentes áreas, como teatro, música, dança e literatura.</description>
+      <category>Interartes</category>
+    </item>
+    <item>
+      <title>Feriado terá concertos da Orquestra Joseense em Campos do Jordão e São José</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/feriado-tera-concertos-da-orquestra-joseense-em-campos-do-jordao-e-sao-jose?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/feriado-tera-concertos-da-orquestra-joseense-em-campos-do-jordao-e-sao-jose?categoria=Música</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Orquestra Joseense apresenta, neste feriado de aniversário da cidade, dois concertos especiais, em Campos do Jordão e São José dos Campos.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>‘Inverno São Xico’ agita distrito de São José no sábado</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/inverno-sao-xico-agita-distrito-de-sao-jose-no-sabado?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/inverno-sao-xico-agita-distrito-de-sao-jose-no-sabado?categoria=Música</guid>
+      <pubDate>Wed, 22 Jul 2026 12:00:00 -0300</pubDate>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Exposição ‘Festa na Roça’ celebra identidade caipira na Casa de Cultura Eugênia da Silva</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/exposicao-festa-na-roca-celebra-identidade-caipira-na-casa-de-cultura-eugenia-da-silva?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/exposicao-festa-na-roca-celebra-identidade-caipira-na-casa-de-cultura-eugenia-da-silva?categoria=Cultura Popular</guid>
+      <pubDate>Wed, 22 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, iniciou nesta semana a exposição “Festa na Roça”, que ficará aberta para visitação até o próximo dia 28 de agosto. A mostra reúne trabalhos de alunos das oficinas culturais, artistas populares e moradores da região, em uma celebração da cultura caipira e das tradições do Vale do Paraíba.</description>
+      <category>Cultura Popular</category>
+    </item>
+    <item>
+      <title>Coro Sinfônico apresenta concerto especial no Revelando SP</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/coro-sinfonico-apresenta-concerto-especial-no-revelando-sp?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/coro-sinfonico-apresenta-concerto-especial-no-revelando-sp?categoria=Música</guid>
+      <pubDate>Wed, 22 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Coro Sinfônico de São José dos Campos, da Fundação Cultural Cassiano Ricardo, apresenta na próxima segunda-feira (27), às 14h30, concerto especial para celebrar o aniversário de 259 da cidade.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Jazz no Galpão recebe o septeto Pre7 com repertório autoral e influências brasileiras</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/jazz-no-galpao-recebe-o-septeto-pre7-com-repertorio-autoral-e-influencias-brasileiras?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/jazz-no-galpao-recebe-o-septeto-pre7-com-repertorio-autoral-e-influencias-brasileiras?categoria=Música</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Sede da Fundação Cultural Cassiano Ricardo recebe, na sexta-feira (31), às 20h, mais uma edição do projeto Jazz no Galpão, desta vez com apresentação do grupo Pre7.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Espetáculo ‘Prazer, Palhaça Margô’ é atração na Casa de Cultura Flávio Craveiro</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/espetaculo-prazer-palhaca-margo-e-atracao-na-casa-de-cultura-flavio-craveiro?categoria=Teatro</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/espetaculo-prazer-palhaca-margo-e-atracao-na-casa-de-cultura-flavio-craveiro?categoria=Teatro</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Flávio Craveiro recebe, nos dias 31 de julho e 1º de agosto, às 20h, o espetáculo “Prazer, Palhaça Margô”, que combina palhaçaria, comicidade crítica educação sexual e reflexões sobre o prazer feminino.</description>
+      <category>Teatro</category>
+    </item>
+    <item>
+      <title>Museu Municipal lança exposição ‘Ontologia da Forma’ no próximo dia 30</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/museu-municipal-lanca-exposicao-ontologia-da-forma-no-proximo-dia-30?categoria=Artes Visuais</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-municipal-lanca-exposicao-ontologia-da-forma-no-proximo-dia-30?categoria=Artes Visuais</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Museu Municipal de São José dos Campos recebe, a partir do dia 30 de julho, a exposição "Ontologia da Forma", do artista Régis Machado, com curadoria de Fabiolla Canedo e produção executiva de Paulo Rosa. A mostra tem classificação livre e convida o público a refletir sobre a forma como elemento central da experiência artística.</description>
+      <category>Artes Visuais</category>
+    </item>
+    <item>
+      <title>Montagem do Revelando SP movimenta o Parque da Cidade</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/montagem-do-revelando-sp-2026-movimenta-o-parque-da-cidade?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/montagem-do-revelando-sp-2026-movimenta-o-parque-da-cidade?categoria=Cultura Popular</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Parque da Cidade, em São José dos Campos, já vive o clima do Revelando SP 2026. Desde a última semana, equipes trabalham intensamente na montagem da estrutura que receberá, entre os dias 23 e 27 de julho, um dos maiores festivais de valorização da cultura tradicional paulista.</description>
+      <category>Cultura Popular</category>
+    </item>
+    <item>
+      <title>Vivência reúne mestres da sanfona em encontro no Centro Cultural Clemente Gomes</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/vivencia-reune-mestres-da-sanfona-em-encontro-no-centro-cultural-clemente-gomes?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/vivencia-reune-mestres-da-sanfona-em-encontro-no-centro-cultural-clemente-gomes?categoria=Música</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Centro Cultural Clemente Gomes promove, na próxima terça-feira (28), às 14h, a Vivência Sanfonada Julina, uma atividade voltada ao intercâmbio de experiências entre sanfoneiros, alunos, músicos e apreciadores da música.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Museu Municipal recebe lançamento do livro ‘A Primeira Voz da Cidade’, de Ricardo Santos</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/museu-municipal-recebe-lancamento-do-livro-a-primeira-voz-da-cidade-de-ricardo-santos?categoria=Literatura</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-municipal-recebe-lancamento-do-livro-a-primeira-voz-da-cidade-de-ricardo-santos?categoria=Literatura</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Museu Municipal de São José dos Campos recebe, na próxima terça-feira (28), às 19h, o lançamento do livro “A Primeira Voz da Cidade”, de Ricardo Santos. A atividade é gratuita e aberta ao público de todas as idades.</description>
+      <category>Literatura</category>
+    </item>
+    <item>
+      <title>Direto dos EUA, Cerissa McQueen se apresenta na nova edição do Blues no Municipal</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/direto-dos-eua-cerissa-mcqueen-se-apresenta-na-nova-edicao-do-blues-no-municipal?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/direto-dos-eua-cerissa-mcqueen-se-apresenta-na-nova-edicao-do-blues-no-municipal?categoria=Música</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 -0300</pubDate>
+      <description>O Teatro Municipal de São José dos Campos recebe, na próxima quinta-feira (30), às 20h, mais uma edição do Blues no Municipal, com apresentação da cantora norte-americana Cerissa McQueen.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Fundação Cultural prorroga as inscrições para o 40º Festivale</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-prorroga-as-inscricoes-para-o-40-festivale?categoria=</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-prorroga-as-inscricoes-para-o-40-festivale?categoria=</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Fundação Cultural Cassiano Ricardo prorrogou as inscrições para o 40º Festivale. O prazo agora vai até às 17h do dia 31 de julho e devem ser feitas pela plataforma Prosas, onde também é possível acessar o edital do festival.</description>
+    </item>
+    <item>
+      <title>Camila Machado promove workshop e palestra no Vicentina Aranha</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/camila-machado-promove-workshop-e-palestra-no-vicentina-aranha?categoria=Artes Visuais</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/camila-machado-promove-workshop-e-palestra-no-vicentina-aranha?categoria=Artes Visuais</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 -0300</pubDate>
+      <description>Com apoio da Fundação Cultural Cassiano Ricardo e da Prefeitura de São José dos Campos, a estilista e artista têxtil Camila Machado ministrará um workshop e uma palestra nos dias 21 e 22 de julho, respectivamente, no Parque Vicentina Aranha.</description>
+      <category>Artes Visuais</category>
+    </item>
+    <item>
+      <title>Cultura e tradição marcam os 259 anos de São José dos Campos</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cultura-e-tradicao-marcam-os-259-anos-de-sao-jose-dos-campos?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cultura-e-tradicao-marcam-os-259-anos-de-sao-jose-dos-campos?categoria=Cultura Popular</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 -0300</pubDate>
+      <description>São José dos Campos celebrará no dia 27 de julho o aniversário da cidade, que completará 259 anos. Para marcar a data, a população receberá uma programação cultural diversificada, que valoriza a riqueza artística, as tradições e o patrimônio cultural do município.</description>
+      <category>Cultura Popular</category>
+    </item>
+    <item>
+      <title>Orquestra Joseense leva grandes nomes do rock ao Teatro Municipal em comemoração ao aniversário da cidade</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/orquestra-joseense-leva-grandes-nomes-do-rock-ao-teatro-municipal-em-comemoracao-ao-aniversario-da-cidade-?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/orquestra-joseense-leva-grandes-nomes-do-rock-ao-teatro-municipal-em-comemoracao-ao-aniversario-da-cidade-?categoria=Música</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Orquestra Joseense sobe ao palco do Teatro Municipal na próxima segunda-feira (27), às 20h, com um repertório repleto de grandes nomes do rock clássico internacional, como Queen, Guns N’Roses, The Beatles, entre outros aclamados. A Banda Makina L.A também participará da apresentação.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Revelando SP São José dos Campos anuncia Mayck e Lyan, Barra da Saia, Sérgio Reis, Guito e Demônios da Garoa</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/revelando-sp-sao-jose-dos-campos-anuncia-mayck-e-lyan-barra-da-saia-sergio-reis-guito-e-demonios-da-garoa-?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/revelando-sp-sao-jose-dos-campos-anuncia-mayck-e-lyan-barra-da-saia-sergio-reis-guito-e-demonios-da-garoa-?categoria=Cultura Popular</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 -0300</pubDate>
+      <description>Com entrada gratuita, festival acontece entre os dias 23 e 27 de julho, no Parque da Cidade, e integra as comemorações de aniversário do município</description>
+      <category>Cultura Popular</category>
+    </item>
+    <item>
+      <title>Práticas do Bem Viver promove atividades no dia 20 de julho</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/praticas-do-bem-viver-promove-atividades-no-dia-20-de-julho?categoria=Cultura da Paz</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/praticas-do-bem-viver-promove-atividades-no-dia-20-de-julho?categoria=Cultura da Paz</guid>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 -0300</pubDate>
+      <description>A Fundação Cultural Cassiano Ricardo promoverá, no dia 20 de Julho , às 16h, mais uma edição do projeto Práticas do Bem Viver, que oferece atividades voltadas à promoção da saúde, da qualidade de vida e da Cultura da Paz.</description>
+      <category>Cultura da Paz</category>
+    </item>
     <item>
       <title>Teatro Municipal recebe tributo a Michael Jackson na próxima sexta</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/teatro-municipal-recebe-tributo-a-michael-jackson-na-proxima-sexta?categoria=Música</link>
@@ -1340,262 +1592,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/lili-figureira-abre-presepio-feito-por-alunos-do-programa-arte-nos-bairros?categoria=Artes Visuais</guid>
       <pubDate>Tue, 09 Dec 2025 12:00:00 -0300</pubDate>
       <description>A Casa de Cultura Lili Figureira, na região sudeste de São José dos Campos, realiza na próxima quinta-feira (11), às 19h, a abertura do presépio de Natal com a presença da Folia de Reis Mestre Zé Mira.</description>
-      <category>Artes Visuais</category>
-    </item>
-    <item>
-      <title>FCCR inicia cadastramento de artistas e mapeamento cultural de São José</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias-destaque-02/fccr-inicia-cadastramento-de-artistas-e-mapeamento-cultural-de-sao-jose?categoria=Gestão Cultural</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias-destaque-02/fccr-inicia-cadastramento-de-artistas-e-mapeamento-cultural-de-sao-jose?categoria=Gestão Cultural</guid>
-      <pubDate>Tue, 09 Dec 2025 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo abriu, nesta terça-feira (9), o cadastramento/mapeamento de profissionais da arte e cultura, pontos de cultura, espaços ou instituições de natureza cultural, coletivos artísticos ou culturais, com residência ou sede em São José dos Campos.</description>
-      <category>Gestão Cultural</category>
-    </item>
-    <item>
-      <title>CET divulga a programação da Temporada de Teatro de dezembro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/cet-divulga-a-programacao-da-temporada-de-teatro-de-dezembro?categoria=Artes Circenses</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cet-divulga-a-programacao-da-temporada-de-teatro-de-dezembro?categoria=Artes Circenses</guid>
-      <pubDate>Fri, 05 Dec 2025 12:00:00 -0300</pubDate>
-      <description>A Temporada de Teatro do Centro de Estudos Teatrais, em dezembro, será realizada nos dias 6, 13 e 20, às 21h. O CET fica no Parque da Cidade, em Santana, região norte da cidade.</description>
-      <category>Artes Circenses</category>
-    </item>
-    <item>
-      <title>Arquivo Público retoma atendimento ao público em janeiro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/arquivo-publico-retoma-atendimento-ao-publico-em-janeiro?categoria=Institucional</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/arquivo-publico-retoma-atendimento-ao-publico-em-janeiro?categoria=Institucional</guid>
-      <pubDate>Fri, 05 Dec 2025 12:00:00 -0300</pubDate>
-      <description>O Arquivo Público do Município, localizado no Parque da Cidade, será fechado temporariamente a partir da próxima segunda-feira (8) para manutenção do acervo. A retomada das atividades públicas acontece em 5 de janeiro.</description>
-      <category>Institucional</category>
-    </item>
-    <item>
-      <title>Domingo no Parque terá 3 edições em dezembro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-tera-3-edicoes-em-dezembro?categoria=Teatro</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-tera-3-edicoes-em-dezembro?categoria=Teatro</guid>
-      <pubDate>Fri, 05 Dec 2025 12:00:00 -0300</pubDate>
-      <description>Nos próximos domingos de dezembro (7, 14 e 21), às 15h, serão realizadas as últimas edições de 2025 do projeto Domingo no Parque, na Arena do Parque da Cidade. Confira a programação abaixo.</description>
-      <category>Teatro</category>
-    </item>
-    <item>
-      <title>TAP da Longevidade convida Instituto Jovens de Coração para a apresentação de ‘Borogodó’</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/tap-da-longevidade-convida-instituto-jovens-de-coracao-para-a-apresentacao-de-borogodo?categoria=Dança</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/tap-da-longevidade-convida-instituto-jovens-de-coracao-para-a-apresentacao-de-borogodo?categoria=Dança</guid>
-      <pubDate>Fri, 05 Dec 2025 12:00:00 -0300</pubDate>
-      <description>O TAP da Longevidade, projeto da Fundação Cultural Cassiano Ricardo que oferece aulas de sapateado a maiores de 45 anos, convida o Instituto Jovens de Coração para a apresentação de “Borogodó”, nos próximos dias 12 e 13 de dezembro, às 20h, no Teatro Municipal.</description>
-      <category>Dança</category>
-    </item>
-    <item>
-      <title>Réveillon em São Francisco Xavier terá programação especial</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/reveillon-em-sao-francisco-xavier-tera-programacao-especial?categoria=Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/reveillon-em-sao-francisco-xavier-tera-programacao-especial?categoria=Música</guid>
-      <pubDate>Thu, 04 Dec 2025 12:00:00 -0300</pubDate>
-      <description>O tradicional “Fim de Ano nas Montanhas”, em São Francisco Xavier, começa neste sábado (6), às 20h30, com a Caravana Iluminada com saída da Praça Cônego Manzi. A programação também inclui shows para moradores e turistas nos dias 20 e 31 de dezembro.</description>
-      <category>Música</category>
-    </item>
-    <item>
-      <title>Cine Teatro recebe última ‘Tarde do Charme’ do ano</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/cine-teatro-recebe-ultima-tarde-do-charme-do-ano?categoria=Dança</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-teatro-recebe-ultima-tarde-do-charme-do-ano?categoria=Dança</guid>
-      <pubDate>Thu, 04 Dec 2025 12:00:00 -0300</pubDate>
-      <description>No próximo domingo, dia (7), às 14h, o Cine Teatro Benedito Alves recebe a última edição de 2025 do workshop de dança Hip Hop e Charme.</description>
-      <category>Dança</category>
-    </item>
-    <item>
-      <title>Cine Teatro divulga programação de dezembro do projeto Sábados Musicais</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/cine-teatro-divulga-programacao-de-dezembro-do-projeto-sabados-musicais?categoria=Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-teatro-divulga-programacao-de-dezembro-do-projeto-sabados-musicais?categoria=Música</guid>
-      <pubDate>Thu, 04 Dec 2025 12:00:00 -0300</pubDate>
-      <description>As últimas edições do projeto Sábados Musicais neste ano irão acontecer nos dias 6, 13 e 20 de dezembro, às 20h, no Cine Teatro Benedito Alves, na região central da cidade.</description>
-      <category>Música</category>
-    </item>
-    <item>
-      <title>Comédia francesa será destaque no último Cine do Centro de 2025</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/comedia-francesa-sera-destaque-no-ultimo-cine-do-centro-de-2025?categoria=Cinema</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/comedia-francesa-sera-destaque-no-ultimo-cine-do-centro-de-2025?categoria=Cinema</guid>
-      <pubDate>Thu, 04 Dec 2025 12:00:00 -0300</pubDate>
-      <description>A comédia francesa “Les Fugitifs”, do diretor Francis Veber, entra em cartaz na próxima quarta-feira (10), às 19h, no Cine do Centro, que é realizado no auditório do Museu Municipal, na região central de São José dos Campos.</description>
-      <category>Cinema</category>
-    </item>
-    <item>
-      <title>Espetáculo inédito reúne Cia de Dança e Orquestra Joseense no mesmo palco</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/espetaculo-inedito-reune-cia-de-danca-e-orquestra-joseense-no-mesmo-palco?categoria=Dança||Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/espetaculo-inedito-reune-cia-de-danca-e-orquestra-joseense-no-mesmo-palco?categoria=Dança||Música</guid>
-      <pubDate>Thu, 04 Dec 2025 12:00:00 -0300</pubDate>
-      <description>Um encontro inédito, entre a Cia de Dança de São José dos Campos e a Orquestra Joseense, promete emocionar o público nos dias 17 e 19 de dezembro, às 20h, no Cine Santana, região norte da cidade.</description>
-      <category>Dança||Música</category>
-    </item>
-    <item>
-      <title>Espetáculo ‘Gran Circo Brasilis’ estreia em São José neste sábado</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/espetaculo-gran-circo-brasilis-estreia-em-sao-jose-neste-sabado?categoria=Artes Circenses</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/espetaculo-gran-circo-brasilis-estreia-em-sao-jose-neste-sabado?categoria=Artes Circenses</guid>
-      <pubDate>Wed, 03 Dec 2025 12:00:00 -0300</pubDate>
-      <description>O espetáculo “Gran Circo Brasilis - O Maior Espetáculo da Terra” vai agitar espaços culturais de São José dos Campos entre os dias 6 e 23 de dezembro. A atração, que estreia neste sábado (6), às 18h, no Cine Santana, é realizada por artistas cadastrados no programa Arte nas Ruas, da Fundação Cultural Cassiano Ricardo.</description>
-      <category>Artes Circenses</category>
-    </item>
-    <item>
-      <title>Sexta Encena e Algodão Doce divulgam programação teatral de dezembro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/sexta-encena-e-algodao-doce-divulgam-programacao-teatral-de-dezembro?categoria=Teatro</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sexta-encena-e-algodao-doce-divulgam-programacao-teatral-de-dezembro?categoria=Teatro</guid>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 -0300</pubDate>
-      <description>Para se despedir de 2025, o Cine Teatro Benedito Alves, que fica na região central da cidade, preparou uma programação com quatro espetáculos para os projetos Sexta Encena e Algodão Doce.</description>
-      <category>Teatro</category>
-    </item>
-    <item>
-      <title>Museu do Folclore comemora 28 anos e Angela Savastano é homenageada</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-comemora-28-anos-e-angela-savastano-e-homenageada-?categoria=Institucional</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-comemora-28-anos-e-angela-savastano-e-homenageada-?categoria=Institucional</guid>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 -0300</pubDate>
-      <description>O dia 7 de dezembro será uma data especial para o folclore joseense e, em particular, para familiares da folclorista Angela Savastano. Neste dia, o Museu do Folclore passará a ser identificado como Museu do Folclore Angela Savastano e ganhará uma placa em sua homenagem na fachada do prédio.</description>
-      <category>Institucional</category>
-    </item>
-    <item>
-      <title>Último Museu Vivo do ano terá tambores artesanais e cuscuz de frango</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/ultimo-museu-vivo-do-ano-tera-tambores-artesanais-e-cuscuz-de-frango?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/ultimo-museu-vivo-do-ano-tera-tambores-artesanais-e-cuscuz-de-frango?categoria=Cultura Popular</guid>
-      <pubDate>Fri, 28 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O Museu do Folclore Angela Savastano realiza, neste domingo (30), o último Museu Vivo do ano, com a participação de dois representantes da cultura popular regional nas áreas do artesanato, culinária e música. Eles compartilharão seus saberes e fazeres numa vivência aberta ao público, a partir das 14h.</description>
-      <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>Cine Santana encerra oficinas de 2025 a partir desta segunda</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/cine-santana-encerra-oficinas-de-2025-a-partir-desta-segunda?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-santana-encerra-oficinas-de-2025-a-partir-desta-segunda?categoria=Interartes</guid>
-      <pubDate>Fri, 28 Nov 2025 12:00:00 -0300</pubDate>
-      <description>A Casa de Cultura Cine Santana, na região norte da cidade, realiza o encerramento das oficinas do Projeto Artes nos Bairros de 2025, entre segunda (1º) e sexta-feira (5), sempre às 19h30.</description>
-      <category>Interartes</category>
-    </item>
-    <item>
-      <title>Lili Figureira terá apresentações de encerramento do programa Arte nos Bairros</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/lili-figureira-tera-apresentacoes-de-encerramento-do-programa-arte-nos-bairros?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/lili-figureira-tera-apresentacoes-de-encerramento-do-programa-arte-nos-bairros?categoria=Interartes</guid>
-      <pubDate>Fri, 28 Nov 2025 12:00:00 -0300</pubDate>
-      <description>Entre a próxima segunda-feira (1º) e quinta-feira (4), a Casa de Cultura Lili Figueira, na região sudeste de São José dos Campos, realiza as apresentações de encerramento das oficinas do programa Artes nos Bairros de 2025.</description>
-      <category>Interartes</category>
-    </item>
-    <item>
-      <title>Flávio Craveiro recebe evento do Dia Internacional das Pessoas com Deficiência</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/flavio-craveiro-recebe-evento-do-dia-internacional-das-pessoas-com-deficiencia?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/flavio-craveiro-recebe-evento-do-dia-internacional-das-pessoas-com-deficiencia?categoria=Artes Visuais</guid>
-      <pubDate>Thu, 27 Nov 2025 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo e a Prefeitura de São José dos Campos promovem o evento “Talentos que Inspiram - Expressar para Incluir”, que será realizado na Casa de Cultura Flávio Craveiro, na próxima quarta-feira (3), a partir das 13h.</description>
-      <category>Artes Visuais</category>
-    </item>
-    <item>
-      <title>Ministério da Cultura aprova Plano de Aplicação de Recursos elaborado pela FCCR</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/ministerio-da-cultura-aprova-plano-de-aplicacao-de-recursos-elaborado-pela-fccr?categoria=Gestão Cultural</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/ministerio-da-cultura-aprova-plano-de-aplicacao-de-recursos-elaborado-pela-fccr?categoria=Gestão Cultural</guid>
-      <pubDate>Wed, 26 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O PAAR (Plano Anual de Aplicação dos Recursos), elaborado pela Fundação Cultural Cassiano Ricardo neste segundo semestre, foi aprovado pelo Ministério da Cultura na última quarta-feira (19). Com o sinal verde do governo federal, o município de São José dos Campos está habilitado a receber repasses que somam R$ 4,286 milhões. A destinação de recursos começou na segunda-feira (24).</description>
-      <category>Gestão Cultural</category>
-    </item>
-    <item>
-      <title>Centro Cultural Clemente Gomes celebra a cultura afro-brasileira na próxima sexta</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/centro-cultural-clemente-gomes-celebra-a-cultura-afro-brasileira-na-proxima-sexta?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/centro-cultural-clemente-gomes-celebra-a-cultura-afro-brasileira-na-proxima-sexta?categoria=Cultura Popular</guid>
-      <pubDate>Wed, 26 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O Centro Cultural Clemente Gomes receberá, nesta sexta-feira (28), os grupos Angoleiros do Sertão (às 11h30) e Mistura de Raça (às 16h30) para apresentações especiais que celebram a cultura afro-brasileira.</description>
-      <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>Sarau ‘Outros Versos’ abre palco para artistas diversos</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/sarau-outros-versos-abre-palco-para-artistas-diversos?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sarau-outros-versos-abre-palco-para-artistas-diversos?categoria=Interartes</guid>
-      <pubDate>Wed, 26 Nov 2025 12:00:00 -0300</pubDate>
-      <description>A Casa de Cultura Eugênia da Silva, na região leste da cidade, realiza na próxima sexta-feira (28), às 19h, mais uma edição do sarau “Outros Versos”.</description>
-      <category>Interartes</category>
-    </item>
-    <item>
-      <title>Mostra de Dança traz para São José espetáculos de todo o estado</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/mostra-de-danca-traz-para-sao-jose-espetaculos-de-todo-o-estado?categoria=Dança</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/mostra-de-danca-traz-para-sao-jose-espetaculos-de-todo-o-estado?categoria=Dança</guid>
-      <pubDate>Mon, 24 Nov 2025 12:00:00 -0300</pubDate>
-      <description>São José dos Campos recebe, entre sexta-feira (28) e o próximo domingo (30), uma mostra de dança com nove espetáculos de todo o estado de São Paulo.</description>
-      <category>Dança</category>
-    </item>
-    <item>
-      <title>Semana Cassiano Ricardo leva debates literários para a Flim</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/semana-cassiano-ricardo-leva-debates-literarios-para-a-flim2?categoria=Literatura||Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/semana-cassiano-ricardo-leva-debates-literarios-para-a-flim2?categoria=Literatura||Música</guid>
-      <pubDate>Mon, 24 Nov 2025 12:00:00 -0300</pubDate>
-      <description>As atividades da 58ª Semana Cassiano Ricardo irão compor a programação da 11ª edição da Flim (Festa Literomusical de São José dos Campos), que acontece no Parque Vicentina Aranha entre os dias 28 e 30 de novembro.</description>
-      <category>Literatura||Música</category>
-    </item>
-    <item>
-      <title>Rancho do Tropeiro comemora 29 anos com festa no próximo sábado</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-comemora-29-anos-com-festa-no-proximo-sabado?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-comemora-29-anos-com-festa-no-proximo-sabado?categoria=Interartes</guid>
-      <pubDate>Mon, 24 Nov 2025 12:00:00 -0300</pubDate>
-      <description>A Casa de Cultura Rancho do Tropeiro, no distrito de Eugênio de Melo, região leste da cidade, comemora o aniversário de 29 anos na próxima sexta (29), a partir das 14h.</description>
-      <category>Interartes</category>
-    </item>
-    <item>
-      <title>Maratona cultural agita última semana de novembro em São José</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/maratona-cultural-agita-ultima-semana-de-novembro-em-sao-jose?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/maratona-cultural-agita-ultima-semana-de-novembro-em-sao-jose?categoria=Interartes</guid>
-      <pubDate>Mon, 24 Nov 2025 12:00:00 -0300</pubDate>
-      <description>São José viverá uma verdadeira maratona cultural nesta última semana de novembro. A programação inclui as atrações do Mês da Música, da Mostra de Dança CultSP e a Flim. Todas atividades são gratuitas e sem necessidade de reserva de ingressos.</description>
-      <category>Interartes</category>
-    </item>
-    <item>
-      <title>Museu do Folclore realiza última Terças com Museologia do ano</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-realiza-ultima-tercas-com-museologia-do-ano?categoria=Patrimônio Histórico</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-realiza-ultima-tercas-com-museologia-do-ano?categoria=Patrimônio Histórico</guid>
-      <pubDate>Wed, 19 Nov 2025 12:00:00 -0300</pubDate>
-      <description>A última edição do ano do programa Terças com Museologia, agendada para o dia 25 de novembro, das 9h30 às 11h, abordará o tema Pequenas memórias: o cotidiano como patrimônio. O encontro será virtual com transmissão pelo Google Meet. As inscrições já podem ser feitas pela plataforma Sympla, neste link.</description>
-      <category>Patrimônio Histórico</category>
-    </item>
-    <item>
-      <title>Coletivo circense de São José concorre a prêmio estadual</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/coletivo-circense-de-sao-jose-concorre-a-premio-estadual?categoria=Fomento</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/coletivo-circense-de-sao-jose-concorre-a-premio-estadual?categoria=Fomento</guid>
-      <pubDate>Wed, 19 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O Coletivo Meu Alento, de São José dos Campos, concorre ao Troféu Picadeiro na categoria Espetáculo Circense adulto. A premiação, que é a mais importante para a arte circense do estado de São Paulo, retornou em 2024 depois de quase 22 anos de hiato.</description>
-      <category>Fomento</category>
-    </item>
-    <item>
-      <title>Exposições fecham atividades no ateliê Johann Gütlich</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/exposicoes-fecham-atividades-no-atelie-johann-gutlich?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/exposicoes-fecham-atividades-no-atelie-johann-gutlich?categoria=Artes Visuais</guid>
-      <pubDate>Wed, 19 Nov 2025 12:00:00 -0300</pubDate>
-      <description>Com o fim do ano, o ateliê Johann Gütlich, da Fundação Cultural Cassiano Ricardo, finaliza as suas oficinas de arte.</description>
-      <category>Artes Visuais</category>
-    </item>
-    <item>
-      <title>Casa de Cultura Tim Lopes encerra oficinas de 2025 na próxima terça</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-tim-lopes-encerra-oficinas-de-2025-na-proxima-terca?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-tim-lopes-encerra-oficinas-de-2025-na-proxima-terca?categoria=Interartes</guid>
-      <pubDate>Wed, 19 Nov 2025 12:00:00 -0300</pubDate>
-      <description>As apresentações de encerramento das oficinas de dança e artes visuais da Casa de Cultura Tim Lopes, no Bosque dos Eucaliptos, região sul de São José dos Campos, começam no próximo dia 25 de novembro com a exposição da oficina de Artes Visuais.</description>
-      <category>Interartes</category>
-    </item>
-    <item>
-      <title>Oficina para bailarinos profissionais acontece em dezembro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/oficina-para-bailarinos-profissionais-acontece-em-dezembro?categoria=Dança</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/oficina-para-bailarinos-profissionais-acontece-em-dezembro?categoria=Dança</guid>
-      <pubDate>Wed, 19 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O Centro Cultural Clemente Gomes, na sede da Fundação Cultural Cassiano Ricardo, realiza nos dias 6 e 7 de dezembro (sábado e domingo) uma oficina com os performers e coreógrafos Michelle Scappa e Lucas Delfino.</description>
-      <category>Dança</category>
-    </item>
-    <item>
-      <title>Casa de Cultura Chico Triste define programação de encerramento das oficinas</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-chico-triste-define-programacao-de-encerramento-das-oficinas?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-chico-triste-define-programacao-de-encerramento-das-oficinas?categoria=Interartes</guid>
-      <pubDate>Wed, 19 Nov 2025 12:00:00 -0300</pubDate>
-      <description>A Casa de Cultura Chico Triste, na região leste de São José dos Campos, definiu a programação de encerramento das oficinas culturais deste ano. As atividades acontecem a partir da próxima quarta-feira (26), às 19h, com uma exposição das peças confeccionadas pelos alunos de artes plásticas, artes visuais, artes culinárias e luteria.</description>
-      <category>Interartes</category>
-    </item>
-    <item>
-      <title>Coro Sinfônico realiza concerto de Natal no Vicentina Aranha</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/coro-sinfonico-realiza-concerto-de-natal-no-vicentina-aranha?categoria=Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/coro-sinfonico-realiza-concerto-de-natal-no-vicentina-aranha?categoria=Música</guid>
-      <pubDate>Wed, 19 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O Parque Vicentina Aranha, na região central de São José dos Campos, recebe no próximo dia 6 de dezembro (sábado), a partir das 18h, uma nova apresentação do Coro Sinfônico de São José dos Campos.</description>
-      <category>Música</category>
-    </item>
-    <item>
-      <title>Presépio do Museu do Folclore começa a ser montado nesta terça</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/presepio-do-museu-do-folclore-comeca-a-ser-montado-nesta-terca?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/presepio-do-museu-do-folclore-comeca-a-ser-montado-nesta-terca?categoria=Artes Visuais</guid>
-      <pubDate>Tue, 18 Nov 2025 12:00:00 -0300</pubDate>
-      <description>O presépio do Museu do Folclore Angela Savastano começará a ser montado nesta terça-feira (18), desta vez pela Contramestre da Folia de Reis do Mestre Zé Mira, Soynaara Maria Faria Araújo Pires de Morais, 58 anos, nascida em Arapeí, no Vale do Paraíba.</description>
       <category>Artes Visuais</category>
     </item>
   </channel>
