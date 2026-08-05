@@ -5,17 +5,9 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 05 Aug 2026 19:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 19:36:42 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Casa de Cultura Flávio Craveiro recebe o espetáculo ‘Ópera Febril’</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-o-espetaculo-opera-febril?categoria=Teatro</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-o-espetaculo-opera-febril?categoria=Teatro</guid>
-      <pubDate>Wed, 05 Aug 2026 12:00:00 -0300</pubDate>
-      <description>O espetáculo Ópera Febril, da Cia do Trailler Teatro em Movimento, chega ao Flávio Craveiro na próxima sexta-feira (16), às 9h. O espetáculo integra o projeto Sexta Encena, promovido pela Fundação Cultural Cassiano Ricardo e pela Prefeitura de São José dos Campos.</description>
-      <category>Teatro</category>
-    </item>
     <item>
       <title>Baile Charme promove cultura, dança e integração no Centro Cultural Clemente Gomes</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/baile-charme-promove-cultura-danca-e-integracao-no-centro-cultural-clemente-gomes?categoria=Dança</link>
@@ -23,6 +15,14 @@
       <pubDate>Wed, 05 Aug 2026 12:00:00 -0300</pubDate>
       <description>O Centro Cultural Clemente Gomes recebe, no dia 16 de agosto, às 18h, o Baile Charme, encontro que celebra a cultura urbana por meio da música e da dança. A atividade é livre para todos os públicos e sem necessidade de inscrição prévia.</description>
       <category>Dança</category>
+    </item>
+    <item>
+      <title>Casa de Cultura Flávio Craveiro recebe o espetáculo ‘Ópera Febril’</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-o-espetaculo-opera-febril?categoria=Teatro</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-o-espetaculo-opera-febril?categoria=Teatro</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 -0300</pubDate>
+      <description>O espetáculo Ópera Febril, da Cia do Trailler Teatro em Movimento, chega ao Flávio Craveiro na próxima sexta-feira (16), às 9h. O espetáculo integra o projeto Sexta Encena, promovido pela Fundação Cultural Cassiano Ricardo e pela Prefeitura de São José dos Campos.</description>
+      <category>Teatro</category>
     </item>
     <item>
       <title>Exposição ‘Forma, Afeto, Memória’ é atração na Casa do Médico</title>
