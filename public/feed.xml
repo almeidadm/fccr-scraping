@@ -5,9 +5,25 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 05 Aug 2026 17:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 19:01:20 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casa de Cultura Flávio Craveiro recebe o espetáculo ‘Ópera Febril’</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-o-espetaculo-opera-febril?categoria=Teatro</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-o-espetaculo-opera-febril?categoria=Teatro</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 -0300</pubDate>
+      <description>O espetáculo Ópera Febril, da Cia do Trailler Teatro em Movimento, chega ao Flávio Craveiro na próxima sexta-feira (16), às 9h. O espetáculo integra o projeto Sexta Encena, promovido pela Fundação Cultural Cassiano Ricardo e pela Prefeitura de São José dos Campos.</description>
+      <category>Teatro</category>
+    </item>
+    <item>
+      <title>Baile Charme promove cultura, dança e integração no Centro Cultural Clemente Gomes</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/baile-charme-promove-cultura-danca-e-integracao-no-centro-cultural-clemente-gomes?categoria=Dança</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/baile-charme-promove-cultura-danca-e-integracao-no-centro-cultural-clemente-gomes?categoria=Dança</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 -0300</pubDate>
+      <description>O Centro Cultural Clemente Gomes recebe, no dia 16 de agosto, às 18h, o Baile Charme, encontro que celebra a cultura urbana por meio da música e da dança. A atividade é livre para todos os públicos e sem necessidade de inscrição prévia.</description>
+      <category>Dança</category>
+    </item>
     <item>
       <title>Exposição ‘Forma, Afeto, Memória’ é atração na Casa do Médico</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/exposicao-‘forma-afeto-memoria’-e-atracao-na-casa-do-medico?categoria=Artes Visuais</link>
@@ -1577,22 +1593,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Wed, 10 Dec 2025 12:00:00 -0300</pubDate>
       <description>Aberto no último domingo (7), o presépio do Museu do Folclore Angela Savastano, no Parque da Cidade, em Santana, poderá ser visitado até o dia 25 de janeiro de 2026, quando será encerrado o Ciclo de Natal. Nesta data, o museu receberá a 28ª Chegada das Bandeiras, que poderá contar com a presença de até 13 Folias de Reis de São José e região.</description>
       <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>Coro Sinfônico apresenta ‘Natal em Cantos’ no Teatro Municipal</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/coro-sinfonico-apresenta-natal-em-cantos-no-teatro-municipal?categoria=Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/coro-sinfonico-apresenta-natal-em-cantos-no-teatro-municipal?categoria=Música</guid>
-      <pubDate>Tue, 09 Dec 2025 12:00:00 -0300</pubDate>
-      <description>O Teatro Municipal recebe, no próximo domingo (14), às 18h, o espetáculo “Natal em Cantos”, do Coro Sinfônico de São José dos Campos. A atração celebra tradições natalinas internacionais e brasileiras por meio do canto.</description>
-      <category>Música</category>
-    </item>
-    <item>
-      <title>Lili Figureira abre presépio feito por alunos do programa Arte nos Bairros</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/lili-figureira-abre-presepio-feito-por-alunos-do-programa-arte-nos-bairros?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/lili-figureira-abre-presepio-feito-por-alunos-do-programa-arte-nos-bairros?categoria=Artes Visuais</guid>
-      <pubDate>Tue, 09 Dec 2025 12:00:00 -0300</pubDate>
-      <description>A Casa de Cultura Lili Figureira, na região sudeste de São José dos Campos, realiza na próxima quinta-feira (11), às 19h, a abertura do presépio de Natal com a presença da Folia de Reis Mestre Zé Mira.</description>
-      <category>Artes Visuais</category>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 {
-  "count": 2581,
-  "generated_at": "2026-08-05T17:02:02+00:00",
+  "count": 2583,
+  "generated_at": "2026-08-05T19:01:20+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25621,6 +25621,26 @@
       "summary": "O Cine Santana recebe na próxima segunda-feira (3), às 15h e às 19h, a Jornada Patrimônio 2026. O evento, com o tema “Nosso patrimônio é uma viagem!”, convida todos a conhecerem a série Trilhos que Contam o Brasil, em seis histórias que valorizam a memória ferroviária.",
       "title": "Cine Santana recebe a Jornada Patrimônio 2026",
       "url": "https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-a-jornada-patrimonio-2026?categoria=Cinema"
+    },
+    "9385": {
+      "categoria": "Dança",
+      "first_seen": "2026-08-05T19:01:20+00:00",
+      "id": "9385",
+      "published_at": "2026-08-05",
+      "slug": "baile-charme-promove-cultura-danca-e-integracao-no-centro-cultural-clemente-gomes",
+      "summary": "O Centro Cultural Clemente Gomes recebe, no dia 16 de agosto, às 18h, o Baile Charme, encontro que celebra a cultura urbana por meio da música e da dança. A atividade é livre para todos os públicos e sem necessidade de inscrição prévia.",
+      "title": "Baile Charme promove cultura, dança e integração no Centro Cultural Clemente Gomes",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/baile-charme-promove-cultura-danca-e-integracao-no-centro-cultural-clemente-gomes?categoria=Dança"
+    },
+    "9386": {
+      "categoria": "Teatro",
+      "first_seen": "2026-08-05T19:01:20+00:00",
+      "id": "9386",
+      "published_at": "2026-08-05",
+      "slug": "casa-de-cultura-flavio-craveiro-recebe-o-espetaculo-opera-febril",
+      "summary": "O espetáculo Ópera Febril, da Cia do Trailler Teatro em Movimento, chega ao Flávio Craveiro na próxima sexta-feira (16), às 9h. O espetáculo integra o projeto Sexta Encena, promovido pela Fundação Cultural Cassiano Ricardo e pela Prefeitura de São José dos Campos.",
+      "title": "Casa de Cultura Flávio Craveiro recebe o espetáculo ‘Ópera Febril’",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-o-espetaculo-opera-febril?categoria=Teatro"
     },
     "951": {
       "categoria": "Música",
