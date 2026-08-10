@@ -1,6 +1,6 @@
 {
-  "count": 2583,
-  "generated_at": "2026-08-10T11:46:49+00:00",
+  "count": 2584,
+  "generated_at": "2026-08-10T13:06:55+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25641,6 +25641,16 @@
       "summary": "O espetáculo Ópera Febril, da Cia do Trailler Teatro em Movimento, chega ao Flávio Craveiro na próxima sexta-feira (16), às 9h. O espetáculo integra o projeto Sexta Encena, promovido pela Fundação Cultural Cassiano Ricardo e pela Prefeitura de São José dos Campos.",
       "title": "Casa de Cultura Flávio Craveiro recebe o espetáculo ‘Ópera Febril’",
       "url": "https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-o-espetaculo-opera-febril?categoria=Teatro"
+    },
+    "9408": {
+      "categoria": "Literatura",
+      "first_seen": "2026-08-10T13:06:55+00:00",
+      "id": "9408",
+      "published_at": "2026-08-10",
+      "slug": "biblioteca-de-sfx-recebe-18-edicao-do-projeto-viagem-literaria",
+      "summary": "A 18ª edição do Projeto Viagem Literária, programa do Sistema Estadual de Bibliotecas de São Paulo, desembarca na Biblioteca Solidária Sidnei Pereira da Rosa, no distrito de São Francisco Xavier, para dois eventos que celebram as Mulheres na Literatura. As atividades acontecem nos dias 14 de agosto e 25 de setembro.",
+      "title": "Biblioteca de SFX recebe 18ª edição do projeto Viagem Literária",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/biblioteca-de-sfx-recebe-18-edicao-do-projeto-viagem-literaria?categoria=Literatura"
     },
     "951": {
       "categoria": "Música",

@@ -5,9 +5,17 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:46:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:06:55 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biblioteca de SFX recebe 18ª edição do projeto Viagem Literária</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/biblioteca-de-sfx-recebe-18-edicao-do-projeto-viagem-literaria?categoria=Literatura</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/biblioteca-de-sfx-recebe-18-edicao-do-projeto-viagem-literaria?categoria=Literatura</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 -0300</pubDate>
+      <description>A 18ª edição do Projeto Viagem Literária, programa do Sistema Estadual de Bibliotecas de São Paulo, desembarca na Biblioteca Solidária Sidnei Pereira da Rosa, no distrito de São Francisco Xavier, para dois eventos que celebram as Mulheres na Literatura. As atividades acontecem nos dias 14 de agosto e 25 de setembro.</description>
+      <category>Literatura</category>
+    </item>
     <item>
       <title>Baile Charme promove cultura, dança e integração no Centro Cultural Clemente Gomes</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/baile-charme-promove-cultura-danca-e-integracao-no-centro-cultural-clemente-gomes?categoria=Dança</link>
@@ -1585,14 +1593,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Wed, 17 Dec 2025 12:00:00 -0300</pubDate>
       <description>A Fundação Cultural Cassiano Ricardo vai oferecer, entre os dias 15 de janeiro e 27 de fevereiro, 58 oficinas culturais gratuitas em todas as casas de cultura de São José dos Campos. Não é necessária a inscrição.</description>
       <category>Interartes</category>
-    </item>
-    <item>
-      <title>Presépio do Museu do Folclore poderá ser visitado até 25 de janeiro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/presepio-do-museu-do-folclore-podera-ser-visitado-ate-25-de-janeiro?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/presepio-do-museu-do-folclore-podera-ser-visitado-ate-25-de-janeiro?categoria=Cultura Popular</guid>
-      <pubDate>Wed, 10 Dec 2025 12:00:00 -0300</pubDate>
-      <description>Aberto no último domingo (7), o presépio do Museu do Folclore Angela Savastano, no Parque da Cidade, em Santana, poderá ser visitado até o dia 25 de janeiro de 2026, quando será encerrado o Ciclo de Natal. Nesta data, o museu receberá a 28ª Chegada das Bandeiras, que poderá contar com a presença de até 13 Folias de Reis de São José e região.</description>
-      <category>Cultura Popular</category>
     </item>
   </channel>
 </rss>
