@@ -1,6 +1,6 @@
 {
-  "count": 2584,
-  "generated_at": "2026-08-10T13:11:13+00:00",
+  "count": 2612,
+  "generated_at": "2026-09-14T20:45:13+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25652,6 +25652,266 @@
       "title": "Biblioteca de SFX recebe 18ª edição do projeto Viagem Literária",
       "url": "https://fccr.sp.gov.br/fccr/noticias/biblioteca-de-sfx-recebe-18-edicao-do-projeto-viagem-literaria?categoria=Literatura"
     },
+    "9410": {
+      "categoria": "Música",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9410",
+      "published_at": "2026-08-10",
+      "slug": "eugenia-da-silva-recebe-show-onira-na-sexta-feira",
+      "summary": "A cantora, compositora e escritora Tatiana Nascimento se une ao músico e produtor Jovem Palerosi para apresentar o show “Onira”, nesta sexta-feira (14), às 19h, na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos.",
+      "title": "Eugênia da Silva recebe show ‘Onira’ na sexta-feira",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/eugenia-da-silva-recebe-show-onira-na-sexta-feira?categoria=Música"
+    },
+    "9420": {
+      "categoria": "Cinema",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9420",
+      "published_at": "2026-08-12",
+      "slug": "cine-do-centro-exibe-filme-frances-inedito-no-brasil",
+      "summary": "Em agosto, o Cine do Centro exibe o drama francês “LADS”, do diretor Julien Menanteau, na próxima quarta-feira (19), às 19h, no auditório do Museu Municipal, região central da cidade. A exibição é inédita no país.",
+      "title": "Cine do Centro exibe filme francês inédito no Brasil",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-filme-frances-inedito-no-brasil?categoria=Cinema"
+    },
+    "9422": {
+      "categoria": "Música",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9422",
+      "published_at": "2026-08-12",
+      "slug": "vivencia-de-percussao-e-folclore-promove-contato-com-a-cultura-popular-brasileira",
+      "summary": "A Casa de Cultura Lili Figureira recebe, na próxima terça-feira (18), às 9h, a Vivência de Percussão e Folclore, conduzida pelo músico, compositor, arte-educador e assistente terapêutico Nilton Blau.",
+      "title": "Vivência de percussão e folclore promove contato com a cultura popular brasileira",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/vivencia-de-percussao-e-folclore-promove-contato-com-a-cultura-popular-brasileira?categoria=Música"
+    },
+    "9424": {
+      "categoria": "Música",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9424",
+      "published_at": "2026-08-14",
+      "slug": "casa-de-cultura-eugenia-da-silva-recebe-nova-edicao-da-noite-do-flow",
+      "summary": "A Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste da cidade, recebe na próxima sexta-feira (21), às 19h, mais uma edição da Noite do Flow. A programação reúne os artistas MC Vito, Breno Autêntico e Mar1on em uma noite dedicada à cultura hip-hop.",
+      "title": "Casa de Cultura Eugênia da Silva recebe nova edição da Noite do Flow",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-eugenia-da-silva-recebe-nova-edicao-da-noite-do-flow?categoria=Música"
+    },
+    "9425": {
+      "categoria": "Dança",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9425",
+      "published_at": "2026-08-14",
+      "slug": "ronnie-santos-conduz-mais-uma-edicao-do-workshop-de-danca-de-salao",
+      "summary": "O workshop de Dança de Salão, ministrado pelo professor Ronnie Santos, volta a movimentar o Centro Cultural Clemente Gomes na próxima quinta-feira (20), a partir das 19h. A atividade promete reunir interessados em diferentes ritmos.",
+      "title": "Ronnie Santos conduz mais uma edição do workshop de dança de salão",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/ronnie-santos-conduz-mais-uma-edicao-do-workshop-de-danca-de-salao?categoria=Dança"
+    },
+    "9426": {
+      "categoria": "Cinema",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9426",
+      "published_at": "2026-08-14",
+      "slug": "novo-filme-da-netflix-coloca-sao-jose-em-evidencia-no-audiovisual",
+      "summary": "A estreia de “Nando Entre Dois Mundos - Um Filme Sintonia”, que entrou no catálogo da Netflix na última quarta-feira (12), coloca São José dos Campos novamente em evidência no setor audiovisual.",
+      "title": "Novo filme da Netflix coloca São José em evidência no audiovisual",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/novo-filme-da-netflix-coloca-sao-jose-em-evidencia-no-audiovisual?categoria=Cinema"
+    },
+    "9427": {
+      "categoria": "Teatro",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9427",
+      "published_at": "2026-08-14",
+      "slug": "projeto-sexta-encena-recebe-o-espetaculo-maria-peregrina",
+      "summary": "A Casa de Cultura Flávio Craveiro recebe na próxima sexta (21), às 19h30, a peça “Maria Peregrina”, da Cia de Teatro da Cidade. Atração que integra o projeto Sexta Encena.",
+      "title": "Projeto Sexta Encena recebe o espetáculo ‘Maria Peregrina’",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/projeto-sexta-encena-recebe-o-espetaculo-maria-peregrina?categoria=Teatro"
+    },
+    "9432": {
+      "categoria": "Interartes",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9432",
+      "published_at": "2026-08-17",
+      "slug": "encontro-de-pavilhoes-leva-samba-e-gastronomia-para-a-sede-da-fccr",
+      "summary": "O som do cavaco, do pandeiro e do tamborim vai invadir a sede da Fundação Cultural Cassiano Ricardo. A estreia do projeto Encontro de Pavilhões, no próximo sábado (22), a partir do meio-dia, vai reunir escolas de samba de São José dos Campos para uma tarde de muito samba e gastronomia.",
+      "title": "Encontro de Pavilhões leva samba e gastronomia para a sede da FCCR",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/encontro-de-pavilhoes-leva-samba-e-gastronomia-para-a-sede-da-fccr?categoria=Interartes"
+    },
+    "9439": {
+      "categoria": "Música",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9439",
+      "published_at": "2026-08-19",
+      "slug": "baque-do-vale-leva-a-tradicao-do-maracatu-ao-bar-de-quinta",
+      "summary": "O Bar de Quinta recebe, no próximo dia 27 de agosto, às 20h, o grupo Baque do Vale, na sede da Fundação Cultural Cassiano Ricardo, no Parque da Cidade.",
+      "title": "Baque do Vale leva a tradição do maracatu ao Bar de Quinta",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/baque-do-vale-leva-a-tradicao-do-maracatu-ao-bar-de-quinta?categoria=Música"
+    },
+    "9440": {
+      "categoria": "Música",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9440",
+      "published_at": "2026-08-19",
+      "slug": "jazz-no-galpao-recebe-o-trombonista-jorginho-neto",
+      "summary": "O projeto Jazz no Galpão recebe, no próximo dia 28 de agosto, às 20h, o trombonista Jorginho Neto, no Palco do Arquivo, na sede da Fundação Cultural Cassiano Ricardo, no Parque da Cidade.",
+      "title": "Jazz no Galpão recebe o trombonista Jorginho Neto",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/jazz-no-galpao-recebe-o-trombonista-jorginho-neto?categoria=Música"
+    },
+    "9452": {
+      "categoria": "Cultura Popular",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9452",
+      "published_at": "2026-08-24",
+      "slug": "rancho-do-tropeiro-presta-homenagem-a-patrono-ernesto-villela-nesta-sexta",
+      "summary": "A Casa de Cultura Rancho do Tropeiro Ernesto Villela, no distrito de Eugênio de Melo, realiza nesta sexta-feira (28), às 19h, a tradicional homenagem ao patrono do espaço.",
+      "title": "Rancho do Tropeiro presta homenagem a patrono Ernesto Villela nesta sexta",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-presta-homenagem-a-patrono-ernesto-villela-nesta-sexta?categoria=Cultura Popular"
+    },
+    "9465": {
+      "categoria": "Cinema",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9465",
+      "published_at": "2026-08-25",
+      "slug": "cine-sustentavel-desembarca-no-parque-da-cidade-com-filme-ao-ar-livre",
+      "summary": "O Parque da Cidade recebe, nesta sexta-feira, às 19h, o projeto Cine Sustentável, que promove sessões gratuitas de cinema ao ar livre e atividades de educação ambiental em municípios paulistas.",
+      "title": "Cine Sustentável desembarca no Parque da Cidade com filme ao ar livre",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cine-sustentavel-desembarca-no-parque-da-cidade-com-filme-ao-ar-livre?categoria=Cinema"
+    },
+    "9466": {
+      "categoria": null,
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9466",
+      "published_at": "2026-08-27",
+      "slug": "museu-da-casa-brasileira-recebe-67-mil-visitantes-em-dois-meses",
+      "summary": "O Museu da Casa Brasileira, em São José dos Campos, recebeu 33 mil visitantes no primeiro mês da exposição “Sob a casa, outras casas”.",
+      "title": "Museu da Casa Brasileira recebe 67 mil visitantes em dois meses",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/museu-da-casa-brasileira-recebe-67-mil-visitantes-em-dois-meses?categoria="
+    },
+    "9468": {
+      "categoria": "Teatro",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9468",
+      "published_at": "2026-08-27",
+      "slug": "domingo-no-parque-reune-teatro-e-circo-em-setembro",
+      "summary": "A programação de setembro do projeto Domingo no Parque, da Fundação Cultural Cassiano Ricardo, terá três atrações para toda a família.",
+      "title": "Domingo no Parque reúne teatro e circo em setembro",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-reune-teatro-e-circo-em-setembro?categoria=Teatro"
+    },
+    "9469": {
+      "categoria": "Teatro",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9469",
+      "published_at": "2026-08-27",
+      "slug": "cet-recebe-tres-espetaculos-teatrais-em-setembro",
+      "summary": "A programação do CET (Centro de Estudos Teatrais) para setembro reúne três espetáculos que exploram diferentes linguagens e histórias. As apresentações acontecem aos sábados, sempre às 21h, com opções para diferentes públicos.",
+      "title": "CET recebe três espetáculos teatrais em setembro",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cet-recebe-tres-espetaculos-teatrais-em-setembro?categoria=Teatro"
+    },
+    "9478": {
+      "categoria": "Teatro",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9478",
+      "published_at": "2026-08-31",
+      "slug": "casa-de-cultura-flavio-craveiro-recebe-pecas-do-sexta-encena-em-setembro",
+      "summary": "Em setembro, a Casa de Cultura Flávio Craveiro recebe três espetáculos do projeto Sexta Encena, da Fundação Cultural Cassiano Ricardo.",
+      "title": "Casa de Cultura Flávio Craveiro recebe peças do Sexta Encena em setembro",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-pecas-do-sexta-encena-em-setembro?categoria=Teatro"
+    },
+    "9479": {
+      "categoria": "Cultura Popular",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9479",
+      "published_at": "2026-08-31",
+      "slug": "forro-da-eugenia-agita-a-noite-com-ritmos-tipicos-",
+      "summary": "O Forró da Eugênia chega à Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, nesta quinta-feira (3), a partir das 18h.",
+      "title": "Forró da Eugênia agita a noite com ritmos típicos",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/forro-da-eugenia-agita-a-noite-com-ritmos-tipicos-?categoria=Cultura Popular"
+    },
+    "9481": {
+      "categoria": "Cultura Popular",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9481",
+      "published_at": "2026-08-31",
+      "slug": "vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silv",
+      "summary": "A nova edição do projeto Vivência Sertaneja, da Fundação Cultural Cassiano Ricardo, acontece nesta sexta-feira (4), às 19h, na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos.",
+      "title": "Vivência Sertaneja reúne violeiros na Casa de Cultura Eugênia da Silva",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silv?categoria=Cultura Popular"
+    },
+    "9487": {
+      "categoria": null,
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9487",
+      "published_at": "2026-09-01",
+      "slug": "programacao-de-setembro-chega-recheada-de-espetaculos-musicais",
+      "summary": "A programação de setembro da Fundação Cultural Cassiano Ricardo chega de espetáculos musicais para todos os públicos.",
+      "title": "Programação de setembro chega recheada de espetáculos musicais",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/programacao-de-setembro-chega-recheada-de-espetaculos-musicais?categoria="
+    },
+    "9488": {
+      "categoria": "Música",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9488",
+      "published_at": "2026-09-01",
+      "slug": "fundacao-cultural-divulga-programacao-mensal-para-o-patio-do-museu",
+      "summary": "Todo mês, sempre aos sábados, às 11h, o Pátio do Museu Municipal, na região central da cidade, recebe intervenções artísticas livres para todos os públicos.",
+      "title": "Fundação Cultural divulga programação mensal para o Pátio do Museu",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-divulga-programacao-mensal-para-o-patio-do-museu?categoria=Música"
+    },
+    "9489": {
+      "categoria": "Artes Visuais",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9489",
+      "published_at": "2026-09-01",
+      "slug": "casa-de-cultura-chico-triste-recebe-exposicao-pequenas-primaveras",
+      "summary": "A Casa de Cultura Chico Triste, na região leste da cidade, dá boas-vindas à estação das flores com a exposição Pequenas Primaveras, que será inaugurada nesta quinta-feira (3), às 10h.",
+      "title": "Casa de Cultura Chico Triste recebe exposição ‘Pequenas Primaveras’",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-chico-triste-recebe-exposicao-pequenas-primaveras?categoria=Artes Visuais"
+    },
+    "9491": {
+      "categoria": null,
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9491",
+      "published_at": "2026-09-02",
+      "slug": "fccr-lanca-guia-mensal-com-a-programacao-cultural-de-sao-jose",
+      "summary": "A Fundação Cultural Cassiano Ricardo agora disponibiliza, pela internet, um guia completo com a programação mensal de atividades e espetáculos que acontecem em São José dos Campos.",
+      "title": "FCCR lança guia mensal com a programação cultural de São José",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/fccr-lanca-guia-mensal-com-a-programacao-cultural-de-sao-jose?categoria="
+    },
+    "9492": {
+      "categoria": "Cinema",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9492",
+      "published_at": "2026-09-02",
+      "slug": "filmes-de-alfred-hitchcock-serao-exibidos-no-cine-santana",
+      "summary": "O Cine Santana exibe, em setembro, as sessões gratuitas de cinema em parceria com o programa Ponto MIS. Os filmes deste mês são clássicos do suspense dirigidos por Alfred Hitchcock, um dos mais importantes cineastas da história do cinema e referência no gênero.",
+      "title": "Filmes de Alfred Hitchcock serão exibidos no Cine Santana",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/filmes-de-alfred-hitchcock-serao-exibidos-no-cine-santana?categoria=Cinema"
+    },
+    "9494": {
+      "categoria": "Cinema",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9494",
+      "published_at": "2026-09-02",
+      "slug": "oficina-sobre-alfred-hitchcock-chega-ao-cine-santana",
+      "summary": "O Cine Santana recebe no próximo dia 17, às 18h, a oficina “Alfred Hitchcock: A técnica e a arte do mestre do suspense com Marcelo Lyra”, realizada em parceria com o programa Ponto Mis.",
+      "title": "Oficina sobre Alfred Hitchcock chega ao Cine Santana",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/oficina-sobre-alfred-hitchcock-chega-ao-cine-santana?categoria=Cinema"
+    },
+    "9504": {
+      "categoria": "Cultura Popular",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9504",
+      "published_at": "2026-09-03",
+      "slug": "casa-de-cultura-flavio-craveiro-recebe-segunda-edicao-da-vivencia-caipira",
+      "summary": "A Casa de Cultura Flávio Craveiro, no bairro Dom Pedro 1º, região sul de São José dos Campos, recebe no dia 12 de setembro, às 15h, a segunda edição da Vivência Caipira, com um Encontro de Violeiros.",
+      "title": "Casa de Cultura Flávio Craveiro recebe segunda edição da Vivência Caipira",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-segunda-edicao-da-vivencia-caipira?categoria=Cultura Popular"
+    },
+    "9505": {
+      "categoria": "Cultura Popular",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9505",
+      "published_at": "2026-09-03",
+      "slug": "casas-de-cultura-recebem-programacao-especial-para-a-semana-do-figureiro",
+      "summary": "As Casas de Cultura de São José dos Campos recebem, a partir de 14 de setembro, uma programação especial em celebração à Semana do Figureiro.",
+      "title": "Casas de Cultura recebem programação especial para a Semana do Figureiro",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/casas-de-cultura-recebem-programacao-especial-para-a-semana-do-figureiro?categoria=Cultura Popular"
+    },
     "951": {
       "categoria": "Música",
       "first_seen": "2026-05-28T03:43:15+00:00",
@@ -25671,6 +25931,26 @@
       "summary": "O Museu do Folclore de São José dos Campos funcionará normalmente durante o período de Carnaval, estando aberto para visitação no sábado e domingo (26 e 27 de fevereiro), das 14h às 17h, e na terça e quarta (dias 1º e 2 de março), das 9h às 17h. Na segunda-feira (28), o museu não abrirá, como de praxe.",
       "title": "Museu do Folclore estará aberto durante feriado de Carnaval",
       "url": "https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-estara-aberto-durante-feriado-de-carnaval?categoria=Cultura da Paz"
+    },
+    "9521": {
+      "categoria": "Cinema",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9521",
+      "published_at": "2026-09-10",
+      "slug": "o-longa-frances-le-panache-e-atracao-no-cine-do-centro-dia-16-",
+      "summary": "A comédia dramática francesa Le Panache é a atração deste mês no Cine do Centro, no auditório do Museu Municipal. Dirigido e roteirizado por Jennifer Devoldère, o filme será exibido na próxima quarta-feira (16), às 19h, com entrada gratuita e sem necessidade de reserva de ingressos.",
+      "title": "O longa francês Le Panache é atração no Cine do Centro dia 16",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/o-longa-frances-le-panache-e-atracao-no-cine-do-centro-dia-16-?categoria=Cinema"
+    },
+    "9522": {
+      "categoria": "Música",
+      "first_seen": "2026-09-14T20:45:13+00:00",
+      "id": "9522",
+      "published_at": "2026-09-11",
+      "slug": "goldie-pipes-se-apresenta-dia-17-pelo-projeto-blues-no-municipal",
+      "summary": "Em sua primeira passagem pelo Brasil, o vocalista norte-americano Goldie Pipes sobe ao palco do Teatro Municipal na próxima quinta-feira (17), às 20h.",
+      "title": "Goldie Pipes se apresenta dia 17 pelo projeto Blues no Municipal",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/goldie-pipes-se-apresenta-dia-17-pelo-projeto-blues-no-municipal?categoria=Música"
     },
     "956": {
       "categoria": "Interartes",

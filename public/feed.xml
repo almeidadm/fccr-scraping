@@ -5,9 +5,230 @@
     <link>https://fccr.sp.gov.br/fccr/portal/</link>
     <description>Publicações da Fundação Cultural Cassiano Ricardo (São José dos Campos) — feed não-oficial gerado por scraping.</description>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 10 Aug 2026 13:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:45:13 +0000</lastBuildDate>
     <generator>fccr-scraping</generator>
     <atom:link href="https://almeidadm.github.io/fccr-scraping/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goldie Pipes se apresenta dia 17 pelo projeto Blues no Municipal</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/goldie-pipes-se-apresenta-dia-17-pelo-projeto-blues-no-municipal?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/goldie-pipes-se-apresenta-dia-17-pelo-projeto-blues-no-municipal?categoria=Música</guid>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 -0300</pubDate>
+      <description>Em sua primeira passagem pelo Brasil, o vocalista norte-americano Goldie Pipes sobe ao palco do Teatro Municipal na próxima quinta-feira (17), às 20h.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>O longa francês Le Panache é atração no Cine do Centro dia 16</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/o-longa-frances-le-panache-e-atracao-no-cine-do-centro-dia-16-?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/o-longa-frances-le-panache-e-atracao-no-cine-do-centro-dia-16-?categoria=Cinema</guid>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 -0300</pubDate>
+      <description>A comédia dramática francesa Le Panache é a atração deste mês no Cine do Centro, no auditório do Museu Municipal. Dirigido e roteirizado por Jennifer Devoldère, o filme será exibido na próxima quarta-feira (16), às 19h, com entrada gratuita e sem necessidade de reserva de ingressos.</description>
+      <category>Cinema</category>
+    </item>
+    <item>
+      <title>Casas de Cultura recebem programação especial para a Semana do Figureiro</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/casas-de-cultura-recebem-programacao-especial-para-a-semana-do-figureiro?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casas-de-cultura-recebem-programacao-especial-para-a-semana-do-figureiro?categoria=Cultura Popular</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 -0300</pubDate>
+      <description>As Casas de Cultura de São José dos Campos recebem, a partir de 14 de setembro, uma programação especial em celebração à Semana do Figureiro.</description>
+      <category>Cultura Popular</category>
+    </item>
+    <item>
+      <title>Casa de Cultura Flávio Craveiro recebe segunda edição da Vivência Caipira</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-segunda-edicao-da-vivencia-caipira?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-segunda-edicao-da-vivencia-caipira?categoria=Cultura Popular</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Flávio Craveiro, no bairro Dom Pedro 1º, região sul de São José dos Campos, recebe no dia 12 de setembro, às 15h, a segunda edição da Vivência Caipira, com um Encontro de Violeiros.</description>
+      <category>Cultura Popular</category>
+    </item>
+    <item>
+      <title>Oficina sobre Alfred Hitchcock chega ao Cine Santana</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/oficina-sobre-alfred-hitchcock-chega-ao-cine-santana?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/oficina-sobre-alfred-hitchcock-chega-ao-cine-santana?categoria=Cinema</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 -0300</pubDate>
+      <description>O Cine Santana recebe no próximo dia 17, às 18h, a oficina “Alfred Hitchcock: A técnica e a arte do mestre do suspense com Marcelo Lyra”, realizada em parceria com o programa Ponto Mis.</description>
+      <category>Cinema</category>
+    </item>
+    <item>
+      <title>Filmes de Alfred Hitchcock serão exibidos no Cine Santana</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/filmes-de-alfred-hitchcock-serao-exibidos-no-cine-santana?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/filmes-de-alfred-hitchcock-serao-exibidos-no-cine-santana?categoria=Cinema</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 -0300</pubDate>
+      <description>O Cine Santana exibe, em setembro, as sessões gratuitas de cinema em parceria com o programa Ponto MIS. Os filmes deste mês são clássicos do suspense dirigidos por Alfred Hitchcock, um dos mais importantes cineastas da história do cinema e referência no gênero.</description>
+      <category>Cinema</category>
+    </item>
+    <item>
+      <title>FCCR lança guia mensal com a programação cultural de São José</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/fccr-lanca-guia-mensal-com-a-programacao-cultural-de-sao-jose?categoria=</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fccr-lanca-guia-mensal-com-a-programacao-cultural-de-sao-jose?categoria=</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 -0300</pubDate>
+      <description>A Fundação Cultural Cassiano Ricardo agora disponibiliza, pela internet, um guia completo com a programação mensal de atividades e espetáculos que acontecem em São José dos Campos.</description>
+    </item>
+    <item>
+      <title>Casa de Cultura Chico Triste recebe exposição ‘Pequenas Primaveras’</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-chico-triste-recebe-exposicao-pequenas-primaveras?categoria=Artes Visuais</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-chico-triste-recebe-exposicao-pequenas-primaveras?categoria=Artes Visuais</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Chico Triste, na região leste da cidade, dá boas-vindas à estação das flores com a exposição Pequenas Primaveras, que será inaugurada nesta quinta-feira (3), às 10h.</description>
+      <category>Artes Visuais</category>
+    </item>
+    <item>
+      <title>Fundação Cultural divulga programação mensal para o Pátio do Museu</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-divulga-programacao-mensal-para-o-patio-do-museu?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-divulga-programacao-mensal-para-o-patio-do-museu?categoria=Música</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 -0300</pubDate>
+      <description>Todo mês, sempre aos sábados, às 11h, o Pátio do Museu Municipal, na região central da cidade, recebe intervenções artísticas livres para todos os públicos.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Programação de setembro chega recheada de espetáculos musicais</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/programacao-de-setembro-chega-recheada-de-espetaculos-musicais?categoria=</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/programacao-de-setembro-chega-recheada-de-espetaculos-musicais?categoria=</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 -0300</pubDate>
+      <description>A programação de setembro da Fundação Cultural Cassiano Ricardo chega de espetáculos musicais para todos os públicos.</description>
+    </item>
+    <item>
+      <title>Vivência Sertaneja reúne violeiros na Casa de Cultura Eugênia da Silva</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silv?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/vivencia-sertaneja-reune-violeiros-na-casa-de-cultura-eugenia-da-silv?categoria=Cultura Popular</guid>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 -0300</pubDate>
+      <description>A nova edição do projeto Vivência Sertaneja, da Fundação Cultural Cassiano Ricardo, acontece nesta sexta-feira (4), às 19h, na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos.</description>
+      <category>Cultura Popular</category>
+    </item>
+    <item>
+      <title>Forró da Eugênia agita a noite com ritmos típicos</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/forro-da-eugenia-agita-a-noite-com-ritmos-tipicos-?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/forro-da-eugenia-agita-a-noite-com-ritmos-tipicos-?categoria=Cultura Popular</guid>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 -0300</pubDate>
+      <description>O Forró da Eugênia chega à Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, nesta quinta-feira (3), a partir das 18h.</description>
+      <category>Cultura Popular</category>
+    </item>
+    <item>
+      <title>Casa de Cultura Flávio Craveiro recebe peças do Sexta Encena em setembro</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-pecas-do-sexta-encena-em-setembro?categoria=Teatro</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-flavio-craveiro-recebe-pecas-do-sexta-encena-em-setembro?categoria=Teatro</guid>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 -0300</pubDate>
+      <description>Em setembro, a Casa de Cultura Flávio Craveiro recebe três espetáculos do projeto Sexta Encena, da Fundação Cultural Cassiano Ricardo.</description>
+      <category>Teatro</category>
+    </item>
+    <item>
+      <title>CET recebe três espetáculos teatrais em setembro</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cet-recebe-tres-espetaculos-teatrais-em-setembro?categoria=Teatro</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cet-recebe-tres-espetaculos-teatrais-em-setembro?categoria=Teatro</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 -0300</pubDate>
+      <description>A programação do CET (Centro de Estudos Teatrais) para setembro reúne três espetáculos que exploram diferentes linguagens e histórias. As apresentações acontecem aos sábados, sempre às 21h, com opções para diferentes públicos.</description>
+      <category>Teatro</category>
+    </item>
+    <item>
+      <title>Domingo no Parque reúne teatro e circo em setembro</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-reune-teatro-e-circo-em-setembro?categoria=Teatro</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-reune-teatro-e-circo-em-setembro?categoria=Teatro</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 -0300</pubDate>
+      <description>A programação de setembro do projeto Domingo no Parque, da Fundação Cultural Cassiano Ricardo, terá três atrações para toda a família.</description>
+      <category>Teatro</category>
+    </item>
+    <item>
+      <title>Museu da Casa Brasileira recebe 67 mil visitantes em dois meses</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/museu-da-casa-brasileira-recebe-67-mil-visitantes-em-dois-meses?categoria=</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-da-casa-brasileira-recebe-67-mil-visitantes-em-dois-meses?categoria=</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 -0300</pubDate>
+      <description>O Museu da Casa Brasileira, em São José dos Campos, recebeu 33 mil visitantes no primeiro mês da exposição “Sob a casa, outras casas”.</description>
+    </item>
+    <item>
+      <title>Cine Sustentável desembarca no Parque da Cidade com filme ao ar livre</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cine-sustentavel-desembarca-no-parque-da-cidade-com-filme-ao-ar-livre?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-sustentavel-desembarca-no-parque-da-cidade-com-filme-ao-ar-livre?categoria=Cinema</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 -0300</pubDate>
+      <description>O Parque da Cidade recebe, nesta sexta-feira, às 19h, o projeto Cine Sustentável, que promove sessões gratuitas de cinema ao ar livre e atividades de educação ambiental em municípios paulistas.</description>
+      <category>Cinema</category>
+    </item>
+    <item>
+      <title>Rancho do Tropeiro presta homenagem a patrono Ernesto Villela nesta sexta</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-presta-homenagem-a-patrono-ernesto-villela-nesta-sexta?categoria=Cultura Popular</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/rancho-do-tropeiro-presta-homenagem-a-patrono-ernesto-villela-nesta-sexta?categoria=Cultura Popular</guid>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Rancho do Tropeiro Ernesto Villela, no distrito de Eugênio de Melo, realiza nesta sexta-feira (28), às 19h, a tradicional homenagem ao patrono do espaço.</description>
+      <category>Cultura Popular</category>
+    </item>
+    <item>
+      <title>Jazz no Galpão recebe o trombonista Jorginho Neto</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/jazz-no-galpao-recebe-o-trombonista-jorginho-neto?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/jazz-no-galpao-recebe-o-trombonista-jorginho-neto?categoria=Música</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 -0300</pubDate>
+      <description>O projeto Jazz no Galpão recebe, no próximo dia 28 de agosto, às 20h, o trombonista Jorginho Neto, no Palco do Arquivo, na sede da Fundação Cultural Cassiano Ricardo, no Parque da Cidade.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Baque do Vale leva a tradição do maracatu ao Bar de Quinta</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/baque-do-vale-leva-a-tradicao-do-maracatu-ao-bar-de-quinta?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/baque-do-vale-leva-a-tradicao-do-maracatu-ao-bar-de-quinta?categoria=Música</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 -0300</pubDate>
+      <description>O Bar de Quinta recebe, no próximo dia 27 de agosto, às 20h, o grupo Baque do Vale, na sede da Fundação Cultural Cassiano Ricardo, no Parque da Cidade.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Encontro de Pavilhões leva samba e gastronomia para a sede da FCCR</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/encontro-de-pavilhoes-leva-samba-e-gastronomia-para-a-sede-da-fccr?categoria=Interartes</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/encontro-de-pavilhoes-leva-samba-e-gastronomia-para-a-sede-da-fccr?categoria=Interartes</guid>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 -0300</pubDate>
+      <description>O som do cavaco, do pandeiro e do tamborim vai invadir a sede da Fundação Cultural Cassiano Ricardo. A estreia do projeto Encontro de Pavilhões, no próximo sábado (22), a partir do meio-dia, vai reunir escolas de samba de São José dos Campos para uma tarde de muito samba e gastronomia.</description>
+      <category>Interartes</category>
+    </item>
+    <item>
+      <title>Projeto Sexta Encena recebe o espetáculo ‘Maria Peregrina’</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/projeto-sexta-encena-recebe-o-espetaculo-maria-peregrina?categoria=Teatro</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/projeto-sexta-encena-recebe-o-espetaculo-maria-peregrina?categoria=Teatro</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Flávio Craveiro recebe na próxima sexta (21), às 19h30, a peça “Maria Peregrina”, da Cia de Teatro da Cidade. Atração que integra o projeto Sexta Encena.</description>
+      <category>Teatro</category>
+    </item>
+    <item>
+      <title>Novo filme da Netflix coloca São José em evidência no audiovisual</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/novo-filme-da-netflix-coloca-sao-jose-em-evidencia-no-audiovisual?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/novo-filme-da-netflix-coloca-sao-jose-em-evidencia-no-audiovisual?categoria=Cinema</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 -0300</pubDate>
+      <description>A estreia de “Nando Entre Dois Mundos - Um Filme Sintonia”, que entrou no catálogo da Netflix na última quarta-feira (12), coloca São José dos Campos novamente em evidência no setor audiovisual.</description>
+      <category>Cinema</category>
+    </item>
+    <item>
+      <title>Ronnie Santos conduz mais uma edição do workshop de dança de salão</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/ronnie-santos-conduz-mais-uma-edicao-do-workshop-de-danca-de-salao?categoria=Dança</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/ronnie-santos-conduz-mais-uma-edicao-do-workshop-de-danca-de-salao?categoria=Dança</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 -0300</pubDate>
+      <description>O workshop de Dança de Salão, ministrado pelo professor Ronnie Santos, volta a movimentar o Centro Cultural Clemente Gomes na próxima quinta-feira (20), a partir das 19h. A atividade promete reunir interessados em diferentes ritmos.</description>
+      <category>Dança</category>
+    </item>
+    <item>
+      <title>Casa de Cultura Eugênia da Silva recebe nova edição da Noite do Flow</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-eugenia-da-silva-recebe-nova-edicao-da-noite-do-flow?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/casa-de-cultura-eugenia-da-silva-recebe-nova-edicao-da-noite-do-flow?categoria=Música</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste da cidade, recebe na próxima sexta-feira (21), às 19h, mais uma edição da Noite do Flow. A programação reúne os artistas MC Vito, Breno Autêntico e Mar1on em uma noite dedicada à cultura hip-hop.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Vivência de percussão e folclore promove contato com a cultura popular brasileira</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/vivencia-de-percussao-e-folclore-promove-contato-com-a-cultura-popular-brasileira?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/vivencia-de-percussao-e-folclore-promove-contato-com-a-cultura-popular-brasileira?categoria=Música</guid>
+      <pubDate>Wed, 12 Aug 2026 12:00:00 -0300</pubDate>
+      <description>A Casa de Cultura Lili Figureira recebe, na próxima terça-feira (18), às 9h, a Vivência de Percussão e Folclore, conduzida pelo músico, compositor, arte-educador e assistente terapêutico Nilton Blau.</description>
+      <category>Música</category>
+    </item>
+    <item>
+      <title>Cine do Centro exibe filme francês inédito no Brasil</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-filme-frances-inedito-no-brasil?categoria=Cinema</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-do-centro-exibe-filme-frances-inedito-no-brasil?categoria=Cinema</guid>
+      <pubDate>Wed, 12 Aug 2026 12:00:00 -0300</pubDate>
+      <description>Em agosto, o Cine do Centro exibe o drama francês “LADS”, do diretor Julien Menanteau, na próxima quarta-feira (19), às 19h, no auditório do Museu Municipal, região central da cidade. A exibição é inédita no país.</description>
+      <category>Cinema</category>
+    </item>
+    <item>
+      <title>Eugênia da Silva recebe show ‘Onira’ na sexta-feira</title>
+      <link>https://fccr.sp.gov.br/fccr/noticias/eugenia-da-silva-recebe-show-onira-na-sexta-feira?categoria=Música</link>
+      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/eugenia-da-silva-recebe-show-onira-na-sexta-feira?categoria=Música</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 -0300</pubDate>
+      <description>A cantora, compositora e escritora Tatiana Nascimento se une ao músico e produtor Jovem Palerosi para apresentar o show “Onira”, nesta sexta-feira (14), às 19h, na Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos.</description>
+      <category>Música</category>
+    </item>
     <item>
       <title>Biblioteca de SFX recebe 18ª edição do projeto Viagem Literária</title>
       <link>https://fccr.sp.gov.br/fccr/noticias/biblioteca-de-sfx-recebe-18-edicao-do-projeto-viagem-literaria?categoria=Literatura</link>
@@ -1372,227 +1593,6 @@ Todas as apresentações são livres para todos os públicos. Caso chova, as ati
       <pubDate>Mon, 23 Feb 2026 12:00:00 -0300</pubDate>
       <description>A Casa de Cultura Eugênia da Silva promove no dia 6 de março, às 18h, o primeiro encontro de Vivência Sertaneja do ano e convoca os violeiros e apreciadores da música e cultura caipira, para uma noite cheia de troca cultural, apresentações musicais e aprendizado.</description>
       <category>Cultura Popular||Música</category>
-    </item>
-    <item>
-      <title>São José abre inscrição para 2.800 vagas em oficinas culturais</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/sao-jose-abre-inscricao-para-2800-vagas-em-oficinas-culturais?categoria=</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sao-jose-abre-inscricao-para-2800-vagas-em-oficinas-culturais?categoria=</guid>
-      <pubDate>Mon, 23 Feb 2026 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo abre, nesta terça-feira (24), as inscrições para as oficinas do programa Arte nos Bairros.</description>
-    </item>
-    <item>
-      <title>Carreta do Museu Catavento desembarca em São José nesta sexta</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/carreta-do-museu-catavento-desembarca-em-sao-jose-nesta-sexta?categoria=Cultura da Infância</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/carreta-do-museu-catavento-desembarca-em-sao-jose-nesta-sexta?categoria=Cultura da Infância</guid>
-      <pubDate>Thu, 19 Feb 2026 12:00:00 -0300</pubDate>
-      <description>A carreta itinerante do Museu Catavento desembarca em São José dos Campos nesta sexta-feira (20) com experiências científicas e oficinas educativas para estudantes da rede pública e famílias da cidade.</description>
-      <category>Cultura da Infância</category>
-    </item>
-    <item>
-      <title>FCCR abre edital para uso e cessão de espaços para espetáculos artísticos</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/fccr-abre-edital-para-uso-e-cessao-de-espacos-para-espetaculos-artisticos?categoria=</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fccr-abre-edital-para-uso-e-cessao-de-espacos-para-espetaculos-artisticos?categoria=</guid>
-      <pubDate>Fri, 13 Feb 2026 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo abriu, nesta sexta-feira (13), as inscrições para o edital de uso e cessão de espaços da FCCR para espetáculos artísticos.</description>
-    </item>
-    <item>
-      <title>Boneca gigante Dona Anja homenageia folclorista Angela Savastano</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/boneca-gigante-dona-anja-homenageia-folclorista-angela-savastano?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/boneca-gigante-dona-anja-homenageia-folclorista-angela-savastano?categoria=Cultura Popular</guid>
-      <pubDate>Thu, 12 Feb 2026 12:00:00 -0300</pubDate>
-      <description>O tradicional bloco Pirô Piraquara, que abre o Carnaval joseense nesta quinta-feira (12), terá uma presença especial entre os foliões: a boneca gigante Dona Anja, criada em homenagem à folclorista Angela Savastano, falecida em agosto do ano passado.</description>
-      <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>Museu do Folclore retoma agendamento para visitas em grupo</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-retoma-agendamento-para-visitas-em-grupo1?categoria=Cultura da Infância||Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-retoma-agendamento-para-visitas-em-grupo1?categoria=Cultura da Infância||Cultura Popular</guid>
-      <pubDate>Wed, 11 Feb 2026 12:00:00 -0300</pubDate>
-      <description>Com o início das aulas nas redes pública e privada, o Museu do Folclore Angela Savastano retomou o agendamento para visitas em grupo, suspenso em janeiro em razão do período de férias.</description>
-      <category>Cultura da Infância||Cultura Popular</category>
-    </item>
-    <item>
-      <title>Baterias das escolas de samba animam concentração do Pirô Piraquara</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/baterias-das-escolas-de-samba-animam-concentracao-do-piro-piraquara?categoria=Cultura Popular||Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/baterias-das-escolas-de-samba-animam-concentracao-do-piro-piraquara?categoria=Cultura Popular||Música</guid>
-      <pubDate>Wed, 11 Feb 2026 12:00:00 -0300</pubDate>
-      <description>A abertura oficial do Carnaval de São José dos Campos, nesta quinta-feira (12), terá uma animada mistura das tradicionais marchinhas com sambas enredo.</description>
-      <category>Cultura Popular||Música</category>
-    </item>
-    <item>
-      <title>FCCR seleciona food trucks para eventos de 2026</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/fccr-seleciona-food-trucks-para-eventos-de-2026?categoria=</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fccr-seleciona-food-trucks-para-eventos-de-2026?categoria=</guid>
-      <pubDate>Wed, 11 Feb 2026 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo lançou, nesta terça-feira (10), formulário de inscrição para comerciantes de food trucks que desejam vender alimentos nos eventos culturais deste ano.</description>
-    </item>
-    <item>
-      <title>Pirô Piraquara abre oficialmente o Carnaval de São José</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/piro-piraquara-abre-oficialmente-o-carnaval-de-sao-jose?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/piro-piraquara-abre-oficialmente-o-carnaval-de-sao-jose?categoria=Cultura Popular</guid>
-      <pubDate>Thu, 05 Feb 2026 12:00:00 -0300</pubDate>
-      <description>O bloco Pirô Piraquara, organizado pela Fundação Cultural Cassiano Ricardo, abre oficialmente o Carnaval de São José dos Campos na próxima quinta-feira (12), às 17h30, na praça Afonso Pena.</description>
-      <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>Primeiro Museu Vivo do ano acontece em clima de Carnaval</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/primeiro-museu-vivo-do-ano-acontece-em-clima-de-carnaval?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/primeiro-museu-vivo-do-ano-acontece-em-clima-de-carnaval?categoria=Cultura Popular</guid>
-      <pubDate>Thu, 05 Feb 2026 12:00:00 -0300</pubDate>
-      <description>O Carnaval será o tema central das atrações do Museu Vivo deste domingo (8), no Museu do Folclore Angela Savastano, no Parque da Cidade.</description>
-      <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>Oficinas de Carnaval movimentam Parque da Cidade até dia 11</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/oficinas-de-carnaval-movimentam-parque-da-cidade-ate-dia-11?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/oficinas-de-carnaval-movimentam-parque-da-cidade-ate-dia-11?categoria=Cultura Popular</guid>
-      <pubDate>Tue, 03 Feb 2026 12:00:00 -0300</pubDate>
-      <description>Faltam menos de duas semanas para o Carnaval.</description>
-      <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>Fundação Cultural credencia novos artistas até sexta-feira</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-credencia-novos-artistas-ate-sexta-feira?categoria=Gestão Cultural</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-credencia-novos-artistas-ate-sexta-feira?categoria=Gestão Cultural</guid>
-      <pubDate>Wed, 28 Jan 2026 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo inscreve, até a próxima sexta-feira (30), artistas que desejam participar da programação cultural de São José dos Campos.</description>
-      <category>Gestão Cultural</category>
-    </item>
-    <item>
-      <title>Filmes de Charlie Chaplin entram em cartaz no Cine Santana</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/filmes-de-charlie-chaplin-entram-em-cartaz-no-cine-santana?categoria=Cinema</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/filmes-de-charlie-chaplin-entram-em-cartaz-no-cine-santana?categoria=Cinema</guid>
-      <pubDate>Wed, 28 Jan 2026 12:00:00 -0300</pubDate>
-      <description>O cinema mudo de Charlie Chaplin entra em cartaz no Cine Santana em fevereiro.</description>
-      <category>Cinema</category>
-    </item>
-    <item>
-      <title>São José prepara Carnaval histórico, com blocos, escolas de samba e oficinas</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/sao-jose-prepara-carnaval-historico-com-blocos-escolas-de-samba-e-oficinas?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sao-jose-prepara-carnaval-historico-com-blocos-escolas-de-samba-e-oficinas?categoria=Cultura Popular</guid>
-      <pubDate>Wed, 28 Jan 2026 12:00:00 -0300</pubDate>
-      <description>São José dos Campos prepara um dos maiores carnavais da região, entre os dias 12 e 16 de fevereiro, com uma programação repleta de atrações musicais, desfiles das escolas de samba, bloco Pirô Piraquara, oficinas e muita agitação nos distritos de Eugênio de Melo e São Francisco Xavier.</description>
-      <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>Cine Santana recebe evento ‘Realiza Tour Brasil’</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-evento-realiza-tour-brasil?categoria=Cultura da Paz</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/cine-santana-recebe-evento-realiza-tour-brasil?categoria=Cultura da Paz</guid>
-      <pubDate>Mon, 26 Jan 2026 12:00:00 -0300</pubDate>
-      <description>O “Realiza Tour Brasil”, evento de Cultura da Paz que passará por 24 cidades brasileiras, chega a São José dos Campos no próximo dia 4 de fevereiro (quarta-feira), às 19h, no Cine Santana. A realização é do Sahaja Yoga Brasil.</description>
-      <category>Cultura da Paz</category>
-    </item>
-    <item>
-      <title>Orquestra Joseense leva Concerto de Câmara ao Cine Santana</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/orquestra-joseense-leva-concerto-de-camara-ao-cine-santana?categoria=Música</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/orquestra-joseense-leva-concerto-de-camara-ao-cine-santana?categoria=Música</guid>
-      <pubDate>Thu, 22 Jan 2026 12:00:00 -0300</pubDate>
-      <description>A Orquestra Joseense, que integra o Programa de Formação Artística da Fundação Cultural Cassiano Ricardo, realiza na próxima quarta-feira (28), a partir da 20h, um Concerto de Câmara, em sua primeira apresentação do ano.</description>
-      <category>Música</category>
-    </item>
-    <item>
-      <title>Lendas do folclore brasileiro são vistas por realidade aumentada</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/lendas-do-folclore-brasileiro-sao-vistas-por-realidade-aumentada?categoria=Artes Visuais||Cultura da Infância</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/lendas-do-folclore-brasileiro-sao-vistas-por-realidade-aumentada?categoria=Artes Visuais||Cultura da Infância</guid>
-      <pubDate>Wed, 21 Jan 2026 12:00:00 -0300</pubDate>
-      <description>O público que for ao Parque da Cidade, em Santana, nos dois próximos domingos (25 de janeiro e 1º de fevereiro) terá oportunidade de vivenciar uma experiência diferente e interativa, envolvendo personagens que fazem parte das lendas do folclore brasileiro, como o Saci Pererê, a Cuca, a Mula sem Cabeça e a Yara.</description>
-      <category>Artes Visuais||Cultura da Infância</category>
-    </item>
-    <item>
-      <title>28ª Chegada das Bandeiras terá presença de 14 Folias de Reis</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/28-chegada-das-bandeiras-tera-presenca-de-14-folias-de-reis?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/28-chegada-das-bandeiras-tera-presenca-de-14-folias-de-reis?categoria=Cultura Popular</guid>
-      <pubDate>Tue, 20 Jan 2026 12:00:00 -0300</pubDate>
-      <description>O Museu do Folclore Angela Savastano receberá, no próximo domingo (25), a 28ª Chegada das Bandeiras, com a participação de 14 Folias de Reis da região (São José, Caçapava, Jacareí, Paraibuna e Taubaté).</description>
-      <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>São José retoma desfile de escolas de samba dia 16 de fevereiro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/sao-jose-retoma-desfile-de-escolas-de-samba-dia-16-de-fevereiro?categoria=Cultura Popular</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sao-jose-retoma-desfile-de-escolas-de-samba-dia-16-de-fevereiro?categoria=Cultura Popular</guid>
-      <pubDate>Tue, 20 Jan 2026 12:00:00 -0300</pubDate>
-      <description>Com apoio da Prefeitura e da FCCR (Fundação Cultural Cassiano Ricardo), o tradicional desfile de escolas de samba do Carnaval joseense está de volta após 13 anos. Com a participação de cinco escolas e pouco mais de 1.000 componentes, o desfile acontecerá no dia 16 de fevereiro (segunda), a partir das 19h, no centro da cidade.</description>
-      <category>Cultura Popular</category>
-    </item>
-    <item>
-      <title>Museu Municipal recebe 3ª edição do Mulheres da Cultura Popular</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/museu-municipal-recebe-3-edicao-do-mulheres-da-cultura-popular?categoria=Cinema</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-municipal-recebe-3-edicao-do-mulheres-da-cultura-popular?categoria=Cinema</guid>
-      <pubDate>Tue, 20 Jan 2026 12:00:00 -0300</pubDate>
-      <description>Como parte da 3ª edição do projeto Mulheres da Cultura Popular, financiando pelo FMC (Fundo Municipal de Cultura) de São José dos Campos, o público poderá assistir, nesta sexta-feira (23), às 16h, no Museu Municipal, três documentários de curta duração</description>
-      <category>Cinema</category>
-    </item>
-    <item>
-      <title>Comédia romântica abre programação de 2026 do Cine do Centro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/comedia-romantica-abre-programacao-de-2026-do-cine-do-centro?categoria=Cinema</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/comedia-romantica-abre-programacao-de-2026-do-cine-do-centro?categoria=Cinema</guid>
-      <pubDate>Wed, 14 Jan 2026 12:00:00 -0300</pubDate>
-      <description>A comédia romântica francesa Le Beau Rôle – Os Bastidores do Amor, dirigida por Victor Rodenbach, é a primeira atração de 2026 do programa Cine do Centro.</description>
-      <category>Cinema</category>
-    </item>
-    <item>
-      <title>Domingo no Parque tem dois espetáculos para o público infantil</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-tem-dois-espetaculos-para-o-publico-infantil?categoria=Música||Teatro</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-tem-dois-espetaculos-para-o-publico-infantil?categoria=Música||Teatro</guid>
-      <pubDate>Mon, 12 Jan 2026 12:00:00 -0300</pubDate>
-      <description>Janeiro é mês de férias e a programação do Domingo no Parque, da Fundação Cultural Cassiano Ricardo, é toda voltada para o público infantil com muita música e fantasia.</description>
-      <category>Música||Teatro</category>
-    </item>
-    <item>
-      <title>Museu do Folclore realiza mais uma edição do Férias no Museu</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-realiza-mais-uma-edicao-do-ferias-no-museu?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museu-do-folclore-realiza-mais-uma-edicao-do-ferias-no-museu?categoria=Artes Visuais</guid>
-      <pubDate>Fri, 09 Jan 2026 12:00:00 -0300</pubDate>
-      <description>Como acontece todo início do ano, o Museu do Folclore Angela Savastano programou para o mês de janeiro de 2026 a atividade Férias no Museu. A programação está prevista para os dias 14, 16, 21, 23, 28 e 30 (três quartas e três sextas), nos períodos da manhã (10h às 11h30) e tarde (14h às 16h30).</description>
-      <category>Artes Visuais</category>
-    </item>
-    <item>
-      <title>Férias no Cine Santana tem exibições gratuitas de 4 filmes</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias-destaque-03/ferias-no-cine-santana-tem-exibicoes-gratuitas-de-4-filmes?categoria=Cinema</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias-destaque-03/ferias-no-cine-santana-tem-exibicoes-gratuitas-de-4-filmes?categoria=Cinema</guid>
-      <pubDate>Thu, 08 Jan 2026 12:00:00 -0300</pubDate>
-      <description>A parceria entre a Fundação Cultural Cassiano Ricardo e o Museu da Imagem e do Som possibilitará novas exibições de filmes no Cine Santana, nos dias 19 e 26 de janeiro (segunda), com sessões às 15h e 19h30. A programação faz parte do especial de férias dos Pontos MIS.</description>
-      <category>Cinema</category>
-    </item>
-    <item>
-      <title>Aquarelas de Reis é a nova exposição temporária do Museu do Folclore</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/aquarelas-de-reis-e-a-nova-exposicao-temporaria-do-museu-do-folclore?categoria=Artes Visuais</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/aquarelas-de-reis-e-a-nova-exposicao-temporaria-do-museu-do-folclore?categoria=Artes Visuais</guid>
-      <pubDate>Thu, 08 Jan 2026 12:00:00 -0300</pubDate>
-      <description>“Desenho é perseverança”, atesta o artista plástico Marcos Antonio Ramis, 67 anos, que a partir deste sábado (10) mostrará seus trabalhos na nova exposição temporária do Museu do Folclore Angela Savastano, batizada de Aquarelas de Reis.</description>
-      <category>Artes Visuais</category>
-    </item>
-    <item>
-      <title>Cia de Dança de São José realiza curso de férias em janeiro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias-destaque-03/cia-de-danca-de-sao-jose-realiza-curso-de-ferias-em-janeiro?categoria=Dança</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias-destaque-03/cia-de-danca-de-sao-jose-realiza-curso-de-ferias-em-janeiro?categoria=Dança</guid>
-      <pubDate>Tue, 23 Dec 2025 12:00:00 -0300</pubDate>
-      <description>A Companhia de Dança de São José dos Campos realiza, entre os dias 12 e 23 de janeiro, um curso de férias no Centro Cultural Clemente Gomes. As inscrições começam na próxima segunda-feira (29) e seguem até 9 de janeiro, por meio de formulário eletrônico.</description>
-      <category>Dança</category>
-    </item>
-    <item>
-      <title>Fundação Cultural prorroga inscrições do edital para direção da Cia de Dança</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-prorroga-inscricoes-do-edital-para-direcao-da-cia-de-danca---?categoria=Dança</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/fundacao-cultural-prorroga-inscricoes-do-edital-para-direcao-da-cia-de-danca---?categoria=Dança</guid>
-      <pubDate>Fri, 19 Dec 2025 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo prorrogou, até 26 de março, às 10h, as inscrições do edital de concorrência eletrônica para contratação do serviço de direção artística/coreógrafo para a Companhia de Dança de São José dos Campos.</description>
-      <category>Dança</category>
-    </item>
-    <item>
-      <title>Museus terão funcionamento alterado neste fim de ano</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/museus-terao-funcionamento-alterado-neste-fim-de-ano?categoria=Gestão Cultural</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/museus-terao-funcionamento-alterado-neste-fim-de-ano?categoria=Gestão Cultural</guid>
-      <pubDate>Wed, 17 Dec 2025 12:00:00 -0300</pubDate>
-      <description>O Museu Municipal e o Museu de Arte Sacra, ligados à Fundação Cultural Cassiano Ricardo, terão funcionamento alterado neste fim de ano.</description>
-      <category>Gestão Cultural</category>
-    </item>
-    <item>
-      <title>São José terá oficinas culturais de férias a partir de janeiro</title>
-      <link>https://fccr.sp.gov.br/fccr/noticias/sao-jose-tera-oficinas-culturais-de-ferias-a-partir-de-janeiro?categoria=Interartes</link>
-      <guid isPermaLink="true">https://fccr.sp.gov.br/fccr/noticias/sao-jose-tera-oficinas-culturais-de-ferias-a-partir-de-janeiro?categoria=Interartes</guid>
-      <pubDate>Wed, 17 Dec 2025 12:00:00 -0300</pubDate>
-      <description>A Fundação Cultural Cassiano Ricardo vai oferecer, entre os dias 15 de janeiro e 27 de fevereiro, 58 oficinas culturais gratuitas em todas as casas de cultura de São José dos Campos. Não é necessária a inscrição.</description>
-      <category>Interartes</category>
     </item>
   </channel>
 </rss>
