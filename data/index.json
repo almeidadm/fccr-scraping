@@ -1,6 +1,6 @@
 {
-  "count": 2612,
-  "generated_at": "2026-09-14T20:45:13+00:00",
+  "count": 2628,
+  "generated_at": "2026-09-30T16:40:50+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -25952,6 +25952,116 @@
       "title": "Goldie Pipes se apresenta dia 17 pelo projeto Blues no Municipal",
       "url": "https://fccr.sp.gov.br/fccr/noticias/goldie-pipes-se-apresenta-dia-17-pelo-projeto-blues-no-municipal?categoria=Música"
     },
+    "9534": {
+      "categoria": "Cultura Popular",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9534",
+      "published_at": "2026-09-15",
+      "slug": "flow-da-eugenia-reune-hip-hop-musica-e-danca-charme-nesta-sexta-feira",
+      "summary": "O Flow da Eugênia acontece nesta sexta-feira (18), às 19h, na Casa de Cultura Eugênia da Silva, da Fundação Cultural Cassiano Ricardo. Com muita música e dança, a noite de hip hop conta com a apresentação de Dilow com o DJ D4lmata e aula de dança charme com Paulo Cocera.",
+      "title": "Flow da Eugênia reúne Hip Hop, música e Dança Charme nesta sexta-feira",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/flow-da-eugenia-reune-hip-hop-musica-e-danca-charme-nesta-sexta-feira?categoria=Cultura Popular"
+    },
+    "9536": {
+      "categoria": "Cultura Popular",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9536",
+      "published_at": "2026-09-16",
+      "slug": "projeto-pulso-urbano-chega-a-casa-eugenia-da-silva-neste-sabado",
+      "summary": "O projeto “Pulso Urbano: Arte, Rima e Cor nas Ruas”, chega à Casa de Cultura Eugênia da Silva neste sábado (20), às 15h30, com muita cultura urbana e música.",
+      "title": "Projeto Pulso Urbano chega à Casa Eugênia da Silva neste sábado",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/projeto-pulso-urbano-chega-a-casa-eugenia-da-silva-neste-sabado?categoria=Cultura Popular"
+    },
+    "9537": {
+      "categoria": "Cultura da Paz",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9537",
+      "published_at": "2026-09-16",
+      "slug": "centro-cultural-clemente-gomes-recebe-11-satsang-de-primavera",
+      "summary": "O Centro Cultural Clemente Gomes recebe, no próximo dia 20 (domingo), das 16h às 21h, a 11ª edição do Satsang de Primavera, encontro que reúne práticas de bem-estar, música e integração com o tema “Cultura de Paz”. A programação é um convite à conexão, ao acolhimento e à convivência.",
+      "title": "Centro Cultural Clemente Gomes recebe 11ª Satsang de Primavera",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/centro-cultural-clemente-gomes-recebe-11-satsang-de-primavera?categoria=Cultura da Paz"
+    },
+    "9538": {
+      "categoria": "Dança",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9538",
+      "published_at": "2026-09-16",
+      "slug": "cia-de-danca-de-sao-jose-abre-27-festival-danca-e-movimento-de-ilhabela",
+      "summary": "A Companhia de Dança de São José dos Campos, projeto da Fundação Cultural Cassiano Ricardo, será a atração principal da abertura do 27º Festival Dança e Movimento de Ilhabela. A apresentação acontecerá nesta sexta-feira (18), às 20h, no Centro Cultural da Vila - Espaço Cultural Waldemar Belisário.",
+      "title": "Cia de Dança de São José abre 27º Festival Dança e Movimento de Ilhabela",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cia-de-danca-de-sao-jose-abre-27-festival-danca-e-movimento-de-ilhabela?categoria=Dança"
+    },
+    "9539": {
+      "categoria": "Teatro",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9539",
+      "published_at": "2026-09-16",
+      "slug": "dia-da-arvore-tem-teatro-infantil-na-casa-de-cultura-chico-triste",
+      "summary": "Em comemoração ao Dia da Árvore e a chegada da primavera, a Casa de Cultura Chico Triste recebe duas apresentações de teatro infantil nesta sexta-feira (18), com sessões às 10h e às 14h. Os espetáculos são gratuitos e livres para todos os públicos.",
+      "title": "Dia da árvore tem teatro infantil na Casa de Cultura Chico Triste",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/dia-da-arvore-tem-teatro-infantil-na-casa-de-cultura-chico-triste?categoria=Teatro"
+    },
+    "9540": {
+      "categoria": null,
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9540",
+      "published_at": "2026-09-17",
+      "slug": "falece-luiz-paulo-costa-jornalista-e-escritor-de-sao-jose-dos-campos",
+      "summary": "A Fundação Cultural Cassiano Ricardo manifesta profundo pesar pelo falecimento do jornalista e ex-vereador Luiz Paulo Costa, uma figura de grande relevância para a história de São José dos Campos e para a construção das políticas culturais do município.",
+      "title": "Falece Luiz Paulo Costa, jornalista e escritor de São José dos Campos",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/falece-luiz-paulo-costa-jornalista-e-escritor-de-sao-jose-dos-campos?categoria="
+    },
+    "9542": {
+      "categoria": "Música",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9542",
+      "published_at": "2026-09-18",
+      "slug": "cena-de-mulher-une-musica-e-danca-com-o-show-o-groove-delas",
+      "summary": "A Sede da FCCR, no Parque da Cidade, será palco da 41ª edição do Cena de Mulher, no próximo dia 24 de setembro (quinta-feira), às 20h. Com entrada gratuita, a noite promove o encontro de diferentes gerações com o espetáculo “O Groove Delas”, liderado por Clemesha e DJ Maah Fernandes. A noite ainda terá apresentações especiais de Julia Fatureto e do projeto Tap da Longevidade.",
+      "title": "Cena de Mulher une música e dança com o show ‘O Groove Delas’",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cena-de-mulher-une-musica-e-danca-com-o-show-o-groove-delas?categoria=Música"
+    },
+    "9543": {
+      "categoria": "Música",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9543",
+      "published_at": "2026-09-18",
+      "slug": "cine-rock-reune-quatro-bandas-em-noite-dedicada-ao-rock-e-ao-metal",
+      "summary": "A Sede da Fundação Cultural Cassiano Ricardo, no Parque da Cidade, recebe na próxima sexta-feira (25), às 19h, mais uma edição do Cine Rock. A programação reúne as bandas Hellway Train, Leptospirose, Slasher e Alarde, em uma noite que apresenta diferentes vertentes do rock e do metal.",
+      "title": "Cine Rock reúne quatro bandas em noite dedicada ao rock e ao metal",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cine-rock-reune-quatro-bandas-em-noite-dedicada-ao-rock-e-ao-metal?categoria=Música"
+    },
+    "9544": {
+      "categoria": "Música",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9544",
+      "published_at": "2026-09-18",
+      "slug": "orquestra-joseense-apresenta-obras-de-brahms-no-teatro-municipal",
+      "summary": "A Orquestra Joseense sobe ao palco do Teatro Municipal na próxima quarta-feira (23), às 20h, sob a regência do maestro William Coelho, para apresentar um repertório dedicado a um dos maiores nomes da música de concerto ocidental: o compositor alemão Johannes Brahms.",
+      "title": "Orquestra Joseense apresenta obras de Brahms no Teatro Municipal",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/orquestra-joseense-apresenta-obras-de-brahms-no-teatro-municipal?categoria=Música"
+    },
+    "9552": {
+      "categoria": "Dança",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9552",
+      "published_at": "2026-09-21",
+      "slug": "2-edicao-do-encontro-de-pavilhoes-agita-a-sede-da-fccr-neste-sabado",
+      "summary": "A Sede da Fundação Cultural Cassiano Ricardo, no Parque da Cidade, recebe neste sábado (26), a partir das 12h, mais uma edição do Encontro de Pavilhões. A escola de samba convidada será o G.R.C.E.S. Raízes do Campo dos Alemães, da região sul, que vai animar o público em uma celebração da cultura e da tradição do carnaval de São José dos Campos.",
+      "title": "2ª edição do Encontro de Pavilhões agita a Sede da FCCR neste sábado",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/2-edicao-do-encontro-de-pavilhoes-agita-a-sede-da-fccr-neste-sabado?categoria=Dança"
+    },
+    "9553": {
+      "categoria": "Dança",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9553",
+      "published_at": "2026-09-21",
+      "slug": "tarde-do-charme-movimenta-o-clemente-gomes-neste-domingo",
+      "summary": "O Centro Cultural Clemente Gomes recebe, no próximo domingo (27), às 15h, a Tarde de Charme, encontro dedicado à Dança Charme e à cultura urbana. A programação inclui dança, música e formação, com participação de artistas de São José dos Campos e do Rio de Janeiro.",
+      "title": "Tarde do Charme movimenta o Clemente Gomes neste domingo",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/tarde-do-charme-movimenta-o-clemente-gomes-neste-domingo?categoria=Dança"
+    },
     "956": {
       "categoria": "Interartes",
       "first_seen": "2026-05-28T03:43:15+00:00",
@@ -25972,6 +26082,16 @@
       "title": "Prorrogadas inscrições para Voucher Música e Música ao Pôr do Sol",
       "url": "https://fccr.sp.gov.br/fccr/noticias/prorrogadas-inscricoes-para-voucher-musica-e-musica-ao-por-do-sol?categoria=Música"
     },
+    "9579": {
+      "categoria": "Cultura da Paz",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9579",
+      "published_at": "2026-09-24",
+      "slug": "praticas-do-bem-viver-promove-acoes-voltadas-a-cultura-da-paz-na-segunda-feira",
+      "summary": "O Centro Cultural Clemente Gomes recebe, na próxima segunda-feira (28), às 16h, o workshop Práticas do Bem Viver, que propõe um momento de integração, cuidado e convivência por meio de atividades que contribuem para a promoção da Cultura da Paz.",
+      "title": "Práticas do Bem Viver promove ações voltadas à Cultura da Paz na segunda-feira",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/praticas-do-bem-viver-promove-acoes-voltadas-a-cultura-da-paz-na-segunda-feira?categoria=Cultura da Paz"
+    },
     "959": {
       "categoria": "Artes Visuais",
       "first_seen": "2026-05-28T03:43:15+00:00",
@@ -25981,6 +26101,46 @@
       "summary": "De 26 de fevereiro a 28 de maio, a cultura, tecnologia e história joseense ganham uma nova representação nas mãos da artista Sonya Mello, com a exposição “São José de Todos os Campos”. A exposição reúne uma coletânea de artes que trazem o amor e o espírito joseense e acontece no Museu de Arte Sacra.",
       "title": "Museu de Arte Sacra expõe “São José dos todos os Campos”",
       "url": "https://fccr.sp.gov.br/fccr/noticias/museu-de-arte-sacra-expoe-sao-jose-dos-todos-os-campos?categoria=Artes Visuais"
+    },
+    "9596": {
+      "categoria": "Teatro",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9596",
+      "published_at": "2026-09-28",
+      "slug": "cet-apresenta-programacao-de-outubro-com-5-espetaculos",
+      "summary": "A programação de outubro do CET reúne cinco espetáculos de teatro que exploram temas como consciência ambiental, culpa, literatura, movimento e relações afetivas.",
+      "title": "CET apresenta programação de outubro com 5 espetáculos",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cet-apresenta-programacao-de-outubro-com-5-espetaculos?categoria=Teatro"
+    },
+    "9597": {
+      "categoria": "Interartes",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9597",
+      "published_at": "2026-09-28",
+      "slug": "cine-santana-programacao-especial-celebra-aniversario-de-74-anos",
+      "summary": "A Casa de Cultura Cine Santana, ícone cultural e histórico de São José dos Campos, completa 74 anos em outubro. A programação especial vai até o dia 26 e inclui música, dança e teatro.",
+      "title": "Cine Santana: programação especial celebra aniversário de 74 anos",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cine-santana-programacao-especial-celebra-aniversario-de-74-anos?categoria=Interartes"
+    },
+    "9598": {
+      "categoria": "Cinema",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9598",
+      "published_at": "2026-09-28",
+      "slug": "cine-santana-exibe-filmes-de-mazzaropi-em-outubro",
+      "summary": "O Cine Santana exibe, em outubro, sessões gratuitas de cinema em parceria com o programa Pontos MIS. Neste mês, o destaque é o Especial Mazzaropi, nos dias 19 e 26.",
+      "title": "Cine Santana exibe filmes de Mazzaropi em outubro",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/cine-santana-exibe-filmes-de-mazzaropi-em-outubro?categoria=Cinema"
+    },
+    "9601": {
+      "categoria": "Interartes",
+      "first_seen": "2026-09-30T16:40:50+00:00",
+      "id": "9601",
+      "published_at": "2026-09-29",
+      "slug": "domingo-no-parque-apresenta-espetaculos-para-toda-a-familia-em-outubro",
+      "summary": "A programação de outubro do projeto Domingo no Parque, realizado pela Fundação Cultural Cassiano Ricardo, terá duas atrações voltadas para toda a família.",
+      "title": "Domingo no Parque apresenta espetáculos para toda a família em outubro",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-apresenta-espetaculos-para-toda-a-familia-em-outubro?categoria=Interartes"
     },
     "961": {
       "categoria": "Música||Teatro",
