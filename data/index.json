@@ -1,6 +1,6 @@
 {
-  "count": 2628,
-  "generated_at": "2026-09-30T16:40:50+00:00",
+  "count": 2634,
+  "generated_at": "2026-10-07T12:50:16+00:00",
   "items": {
     "1056": {
       "categoria": "Música",
@@ -26142,6 +26142,26 @@
       "title": "Domingo no Parque apresenta espetáculos para toda a família em outubro",
       "url": "https://fccr.sp.gov.br/fccr/noticias/domingo-no-parque-apresenta-espetaculos-para-toda-a-familia-em-outubro?categoria=Interartes"
     },
+    "9608": {
+      "categoria": "Artes Visuais",
+      "first_seen": "2026-10-07T12:50:16+00:00",
+      "id": "9608",
+      "published_at": "2026-09-30",
+      "slug": "exposicao-entra-em-cartaz-na-casa-de-cultura-flavio-craveiro",
+      "summary": "A exposição “DesConstrução”, da artista Misae Odo, estará em cartaz na Casa de Cultura Flávio Craveiro a partir da próxima segunda-feira (5). A mostra segue até 20 de outubro.",
+      "title": "Exposição entra em cartaz na Casa de Cultura Flávio Craveiro",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/exposicao-entra-em-cartaz-na-casa-de-cultura-flavio-craveiro?categoria=Artes Visuais"
+    },
+    "9609": {
+      "categoria": "Teatro",
+      "first_seen": "2026-10-07T12:50:16+00:00",
+      "id": "9609",
+      "published_at": "2026-09-30",
+      "slug": "flavio-craveiro-recebe-tres-pecas-do-sexta-encena-em-outubro",
+      "summary": "O projeto Sexta Encena, da Fundação Cultural Cassiano Ricardo, leva à Casa de Cultura Flávio Craveiro uma programação especial com três peças de tetro para diversos públicos",
+      "title": "Flávio Craveiro recebe três peças do Sexta Encena em outubro",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/flavio-craveiro-recebe-tres-pecas-do-sexta-encena-em-outubro?categoria=Teatro"
+    },
     "961": {
       "categoria": "Música||Teatro",
       "first_seen": "2026-05-28T03:43:15+00:00",
@@ -26152,6 +26172,16 @@
       "title": "Teatro Municipal apresenta “Cássia Rejane – Muito Mais que Eller”",
       "url": "https://fccr.sp.gov.br/fccr/noticias/teatro-municipal-apresenta-cassia-rejane-–-muito-mais-que-eller?categoria=Música||Teatro"
     },
+    "9613": {
+      "categoria": "Dança",
+      "first_seen": "2026-10-07T12:50:16+00:00",
+      "id": "9613",
+      "published_at": "2026-10-01",
+      "slug": "mes-da-crianca-cia-de-danca-apresenta-espetaculo-infantil-no-cine-santana",
+      "summary": "A Cia. de Dança de São José dos Campos prepara uma tarde especial em comemoração ao Mês da Criança, no próximo dia 10 de outubro, às 17h, no Cine Santana, região norte da cidade.",
+      "title": "Mês da Criança: Cia de Dança apresenta espetáculo infantil no Cine Santana",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/mes-da-crianca-cia-de-danca-apresenta-espetaculo-infantil-no-cine-santana?categoria=Dança"
+    },
     "962": {
       "categoria": "Interartes",
       "first_seen": "2026-05-28T03:43:15+00:00",
@@ -26161,6 +26191,36 @@
       "summary": "Neste sábado (5), o Cine Teatro Benedito Alves da Silva recebe o evento “Sarau Um Oito Zero”, que integra programação especial do mês da mulher, coordenada pela Fundação Cultural Cassiano Ricardo. São diversas atividades e apresentações “feitas por elas e para elas”. O evento começa às 10h e segue até a noite. Confira, abaixo, a programação.",
       "title": "Sábado tem sarau especial no Cine Teatro Benedito Alves",
       "url": "https://fccr.sp.gov.br/fccr/noticias/sabado-tem-sarau-especial-no-cine-teatro-benedito-alves?categoria=Interartes"
+    },
+    "9627": {
+      "categoria": "Música",
+      "first_seen": "2026-10-07T12:50:16+00:00",
+      "id": "9627",
+      "published_at": "2026-10-02",
+      "slug": "workshop-de-violao-popular-movimenta-eugenia-da-silva-na-proxima-sexta-",
+      "summary": "O workshop de Violão Popular chega à Casa de Cultura Eugênia da Silva, no bairro Novo Horizonte, região leste de São José dos Campos, na próxima sexta-feira (9), a partir das 19h. Ministrado por Marcelo Bueno, a oficina é gratuita e livre para todos os públicos.",
+      "title": "Workshop de Violão Popular movimenta Eugênia da Silva na próxima sexta",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/workshop-de-violao-popular-movimenta-eugenia-da-silva-na-proxima-sexta-?categoria=Música"
+    },
+    "9628": {
+      "categoria": "Interartes",
+      "first_seen": "2026-10-07T12:50:16+00:00",
+      "id": "9628",
+      "published_at": "2026-10-02",
+      "slug": "workshop-sementes-da-paz-chega-ao-clemente-gomes-nas-proximas-quartas-feiras",
+      "summary": "O Centro Cultural Clemente Gomes, no Parque da Cidade, recebe nas próximas quartas-feiras (7 e 14), às 14h, o workshop “Sementes da Paz”, ministrado pela professora Rita Alves.",
+      "title": "Workshop ‘Sementes da Paz’ chega ao Clemente Gomes nas próximas quartas-feiras",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/workshop-sementes-da-paz-chega-ao-clemente-gomes-nas-proximas-quartas-feiras?categoria=Interartes"
+    },
+    "9632": {
+      "categoria": "Dança",
+      "first_seen": "2026-10-07T12:50:16+00:00",
+      "id": "9632",
+      "published_at": "2026-10-06",
+      "slug": "clemente-gomes-celebra-a-cultura-urbana-com-o-baile-charme",
+      "summary": "O Baile Charme movimenta o Centro Cultural Clemente Gomes, no Parque da Cidade, neste domingo (11), a partir das 18h30.",
+      "title": "Clemente Gomes celebra a cultura urbana com o Baile Charme",
+      "url": "https://fccr.sp.gov.br/fccr/noticias/clemente-gomes-celebra-a-cultura-urbana-com-o-baile-charme?categoria=Dança"
     },
     "964": {
       "categoria": "Cultura Popular",
