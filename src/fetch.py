@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 import time
 from dataclasses import dataclass
 
@@ -9,13 +10,15 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-USER_AGENT = (
-    "fccr-scraping/0.1 "
-    "(+https://github.com/AlmeidaDM/fccr-scraping; contato: roda.diegoam@gmail.com)"
-)
+USER_AGENT = "fccr-scraping/0.1 (monitor de publicações públicas da FCCR)"
 DEFAULT_TIMEOUT = 20.0
 NOTICIAS_LISTING_URL = "https://fccr.sp.gov.br/fccr/home/noticias"
 NOTICIAS_LISTING_SECAO_ID = 75
+
+# O servidor da FCCR bloqueia IPs estrangeiros/de datacenter (ex.: runners do
+# GitHub Actions). Defina esta variável com a URL de um proxy de IP brasileiro
+# permitido para rotear as requisições. Ausente = conexão direta (dev local).
+PROXY_ENV = "FCCR_PROXY_URL"
 
 
 @dataclass
@@ -25,9 +28,12 @@ class FetchResult:
     text: str
 
 
-def make_session() -> requests.Session:
+def make_session(proxy_url: str | None = None) -> requests.Session:
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "pt-BR,pt;q=0.9"})
+    proxy_url = proxy_url if proxy_url is not None else os.environ.get(PROXY_ENV, "").strip()
+    if proxy_url:
+        session.proxies.update({"http": proxy_url, "https": proxy_url})
     retry = Retry(
         total=4,
         backoff_factor=1.5,

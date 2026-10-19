@@ -43,6 +43,8 @@ jobs:
       - name: Roda o scraper
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          # IP brasileiro: a FCCR bloqueia o IP dos runners do GitHub (datacenter).
+          FCCR_PROXY_URL: ${{ secrets.FCCR_PROXY_URL }}
         run: |
           if [ "${{ inputs.mode }}" = "backfill" ]; then
             python -m src.main --backfill
